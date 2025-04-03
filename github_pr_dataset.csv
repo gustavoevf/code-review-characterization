@@ -1,0 +1,1541 @@
+repository,number,title,created_at,closed_at,review_count,description_length,file_count,additions,deletions,comments_count,participants_count
+freeCodeCamp/freeCodeCamp,9469,Overhauled Certificates,2016-06-30T16:04:23Z,2016-09-28T19:14:34Z,1,415,8,352,84,31,11
+freeCodeCamp/freeCodeCamp,9660,feat(auth): Implement Passwordless Authentication,2016-07-10T13:37:54Z,2017-09-02T02:09:24Z,13,678,17,528,329,42,7
+freeCodeCamp/freeCodeCamp,9793,French Translation for HTML and CSS,2016-07-19T22:59:37Z,2016-07-26T11:43:49Z,1,1130,1,80,0,8,5
+freeCodeCamp/freeCodeCamp,10341,updated to use alternate to openweathermap api,2016-08-25T12:54:35Z,2016-10-11T19:35:36Z,1,1294,1,1,1,17,7
+freeCodeCamp/freeCodeCamp,10390,Getting Started - Learn how Free Code Camp Works translated into Braz…,2016-08-30T03:38:10Z,2016-09-28T18:31:56Z,1,866,1,77,0,5,5
+freeCodeCamp/freeCodeCamp,10503,fix Big-o-notation from exponential time to polynomial time in videos/big-o-notation-a-few-examples,2016-09-07T12:31:43Z,2016-09-26T20:01:03Z,1,868,1,1,1,3,4
+freeCodeCamp/freeCodeCamp,10711,Feat(challenges): Adds the ability to test with async methods,2016-09-12T20:32:19Z,2016-09-28T20:54:27Z,4,0,1,48,11,5,4
+freeCodeCamp/freeCodeCamp,10751,Add more explanation for what escaping is,2016-09-15T21:54:30Z,2016-10-01T04:11:29Z,2,715,3,8,4,3,6
+freeCodeCamp/freeCodeCamp,10762,Update Test,2016-09-16T11:45:09Z,2016-09-16T18:57:10Z,1,142,1,1,1,3,5
+freeCodeCamp/freeCodeCamp,10775,fixes syntax typo,2016-09-17T03:06:51Z,2016-09-17T10:48:20Z,1,749,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,10811,Update basic-javascript.json,2016-09-19T18:20:37Z,2016-10-14T21:27:49Z,3,816,1,1,0,22,5
+freeCodeCamp/freeCodeCamp,10818,"Curriculum Expansion: Visual Design reorder, text review, and assert tests working.",2016-09-19T23:50:54Z,2016-09-20T07:02:46Z,2,1195,1,2230,2079,1,2
+freeCodeCamp/freeCodeCamp,10823,Added emoji support for Bio,2016-09-20T17:27:23Z,2016-10-10T04:44:44Z,1,417,2,7,1,36,8
+freeCodeCamp/freeCodeCamp,10824,Add reset progress option to user settings,2016-09-20T17:49:14Z,2016-10-26T15:09:15Z,11,1159,3,73,0,23,7
+freeCodeCamp/freeCodeCamp,10853,Update basic-bonfires.json,2016-09-22T12:34:52Z,2016-10-07T09:39:52Z,2,189,1,1,1,10,7
+freeCodeCamp/freeCodeCamp,10854,Added test for unmodified return statement,2016-09-22T12:41:20Z,2016-10-16T21:00:33Z,2,617,1,1,0,4,5
+freeCodeCamp/freeCodeCamp,10860,bug fix referer header existence not being checked,2016-09-22T15:15:03Z,2016-09-23T14:36:52Z,3,749,1,1,1,7,5
+freeCodeCamp/freeCodeCamp,10866,WIP: Changes to enable development environment to use containers,2016-09-23T00:31:38Z,2016-11-04T15:11:30Z,4,1191,6,250,3,12,4
+freeCodeCamp/freeCodeCamp,10886,Feat(challenges): Let tests be objects,2016-09-23T17:03:07Z,2016-09-26T18:03:22Z,3,137,2,13,5,0,3
+freeCodeCamp/freeCodeCamp,10918,"Regex QA: intro, text edits, assert tests working",2016-09-26T04:18:13Z,2016-09-26T19:55:37Z,1,771,3,563,488,6,4
+freeCodeCamp/freeCodeCamp,10929,Incorrect error thrown when function is in comments,2016-09-26T21:24:23Z,2016-10-16T21:10:55Z,1,751,1,5,1,8,4
+freeCodeCamp/freeCodeCamp,10950,Fix(react): use className not class,2016-09-28T03:05:27Z,2016-09-28T15:13:21Z,1,42,2,8,7,0,1
+freeCodeCamp/freeCodeCamp,10957,"add ability to unlink social accounts (twitter, linkedin)",2016-09-28T14:48:27Z,2016-10-27T15:03:28Z,15,1151,2,109,27,22,8
+freeCodeCamp/freeCodeCamp,10975,Fix missing link in updated instructions,2016-09-29T10:07:26Z,2016-09-29T18:29:04Z,1,1162,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,10993,Sass section QA and intro,2016-09-30T02:49:10Z,2016-09-30T07:05:49Z,1,648,1,287,159,0,2
+freeCodeCamp/freeCodeCamp,10995,Fix typo in html5-and-css,2016-09-30T05:26:17Z,2016-09-30T07:11:19Z,1,784,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,11001,"email setting, blur button on click",2016-09-30T17:36:45Z,2016-10-01T05:52:02Z,1,967,1,131,99,3,3
+freeCodeCamp/freeCodeCamp,11028,Translating Getting Started - Learn What to Do If You Get Stuck secti…,2016-10-02T23:20:19Z,2016-10-04T20:02:02Z,3,857,1,53,0,5,4
+freeCodeCamp/freeCodeCamp,11032,"Capitalize the word ""HTML"" for consistency",2016-10-03T04:12:00Z,2016-10-03T13:58:23Z,1,790,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,11058,feat(challenges): add backend challenge infrastructure,2016-10-04T23:31:03Z,2017-01-27T05:07:22Z,1,0,25,770,359,50,6
+freeCodeCamp/freeCodeCamp,11087,"Fix sitemap, remove jobs remnants",2016-10-07T05:11:20Z,2016-10-09T15:07:16Z,1,108,7,42,39,0,1
+freeCodeCamp/freeCodeCamp,11100,Fix Contributing Guide To Remove Need For Wiki Article,2016-10-07T19:51:03Z,2016-10-12T17:49:20Z,2,879,1,151,90,4,5
+freeCodeCamp/freeCodeCamp,11121,Update challenge description,2016-10-09T09:43:09Z,2016-10-09T11:29:34Z,2,67,1,2,2,3,2
+freeCodeCamp/freeCodeCamp,11126,Fixed challenge description,2016-10-09T11:42:00Z,2016-10-09T15:03:35Z,3,763,1,2,2,4,3
+freeCodeCamp/freeCodeCamp,11138,margins code challengeverification  order to TopRightBottomLeft,2016-10-10T03:22:53Z,2016-10-10T06:58:43Z,1,655,1,2,2,2,3
+freeCodeCamp/freeCodeCamp,11144,Re-order Margin Tests to Top-Right-Bottom-Left,2016-10-10T09:00:29Z,2016-10-10T15:23:43Z,1,1340,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,11148,Add Twitch.tv pass-trough API link,2016-10-10T20:40:31Z,2016-10-12T05:17:26Z,1,920,1,1,1,8,6
+freeCodeCamp/freeCodeCamp,11166,"removed excess notes from ""Change the Font Size of an Element"" challe…",2016-10-11T22:48:08Z,2016-10-13T03:27:52Z,2,992,1,4,8,6,4
+freeCodeCamp/freeCodeCamp,11172,Fix 'npm run only-once' command on Windows,2016-10-12T14:30:53Z,2016-10-15T12:27:01Z,1,1680,1,1,1,8,5
+freeCodeCamp/freeCodeCamp,11190,Add how we QA and how we close stale issues sections,2016-10-13T19:05:43Z,2016-10-14T17:57:19Z,7,748,1,21,0,6,3
+freeCodeCamp/freeCodeCamp,11197,Fix consistency between questions,2016-10-14T09:07:16Z,2016-10-14T20:29:49Z,1,855,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,11202,"Added ""Go to next challenge"" button",2016-10-14T15:37:24Z,2016-10-14T23:47:01Z,1,736,6,71,11,7,4
+freeCodeCamp/freeCodeCamp,11209,Fix minor typos,2016-10-14T20:59:43Z,2016-10-14T23:14:17Z,1,859,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,11211,Fix minor typo in instructional text,2016-10-14T21:30:20Z,2016-10-14T23:14:53Z,1,1203,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,11219,Fixed styling issues with Hikes,2016-10-15T14:16:53Z,2016-11-04T15:26:42Z,1,0,4,12,36,10,4
+freeCodeCamp/freeCodeCamp,11225,Modified challenge description for issue #10409,2016-10-15T21:40:14Z,2016-10-19T19:11:04Z,2,899,1,1,0,11,6
+freeCodeCamp/freeCodeCamp,11236,Added Block name to Challenge and Document Title,2016-10-16T13:56:12Z,2016-10-17T17:06:13Z,1,611,5,45,6,1,2
+freeCodeCamp/freeCodeCamp,11244,Fix error toast not display when JavaScript syntax error,2016-10-17T07:42:34Z,2016-10-21T05:23:43Z,1,1097,1,4,7,4,3
+freeCodeCamp/freeCodeCamp,11251,Feature/Block names added to challenge and document titles,2016-10-17T20:44:52Z,2016-12-15T20:59:07Z,28,830,12,146,90,24,4
+freeCodeCamp/freeCodeCamp,11253,Reactified Success Modal,2016-10-17T22:44:12Z,2016-12-05T23:41:28Z,30,816,9,176,18,28,7
+freeCodeCamp/freeCodeCamp,11290,"Fixed the wording for ""color words"" vs ""hex codes""",2016-10-20T06:02:55Z,2016-10-20T15:51:46Z,2,847,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,11306,Modified test case to look for the exact statement.,2016-10-21T15:03:57Z,2016-11-22T21:04:23Z,4,901,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,11308,Modified Caesar Cipher test description,2016-10-21T16:12:04Z,2016-10-24T09:28:31Z,5,809,1,4,4,4,5
+freeCodeCamp/freeCodeCamp,11318,Added validation of css color value,2016-10-22T02:20:54Z,2017-01-02T02:17:35Z,9,1166,1,1,1,15,6
+freeCodeCamp/freeCodeCamp,11322,Next step unlocked persistence,2016-10-22T19:14:23Z,2017-01-07T21:42:39Z,10,802,6,99,39,15,4
+freeCodeCamp/freeCodeCamp,11327,Documentation Improvement: Checking versions of prerequsites,2016-10-22T23:09:11Z,2016-10-26T07:13:57Z,6,992,1,9,0,7,5
+freeCodeCamp/freeCodeCamp,11353,Added additional test case to the Confirm the Ending challenge,2016-10-24T13:52:44Z,2016-10-27T12:32:14Z,3,750,1,2,0,8,4
+freeCodeCamp/freeCodeCamp,11359,Improve wording in instructions in Make Dead Links challenge,2016-10-24T23:18:18Z,2016-10-27T12:36:58Z,4,902,1,1,1,3,4
+freeCodeCamp/freeCodeCamp,11361,Update react-router to version 3.0.0 🚀,2016-10-25T03:22:26Z,2016-11-05T23:50:23Z,1,2623,1,1,1,14,4
+freeCodeCamp/freeCodeCamp,11363,Add Test Case to 'Count Backwards In For Loop',2016-10-25T06:49:01Z,2016-10-27T22:25:40Z,3,988,1,1,0,3,4
+freeCodeCamp/freeCodeCamp,11366,Add loopProtect error object,2016-10-25T10:03:58Z,2016-10-27T16:54:16Z,2,898,1,4,4,1,3
+freeCodeCamp/freeCodeCamp,11371,fix optimizely csp for script-src,2016-10-25T17:02:02Z,2016-10-27T15:00:43Z,6,1039,1,8,5,6,4
+freeCodeCamp/freeCodeCamp,11377,Code with hyperdev.com url should not run,2016-10-26T04:23:37Z,2016-10-27T13:11:20Z,2,869,1,10,0,3,4
+freeCodeCamp/freeCodeCamp,11425,show core team status in user profile,2016-10-28T08:23:52Z,2016-11-01T20:00:16Z,5,749,2,13,0,17,6
+freeCodeCamp/freeCodeCamp,11429,fix(lint): disable import extension requirement,2016-10-28T15:15:03Z,2016-10-28T18:28:59Z,7,265,1,1,1,0,4
+freeCodeCamp/freeCodeCamp,11446,Modified tests and descriptions for External Link challenges.,2016-10-29T12:40:28Z,2016-11-22T21:08:14Z,8,941,1,7,7,6,5
+freeCodeCamp/freeCodeCamp,11467,Remove FontAwesome from 'client/less/lib/',2016-10-30T20:11:29Z,2016-10-31T09:31:18Z,1,108,34,0,5174,0,2
+freeCodeCamp/freeCodeCamp,11469,Added note about language degradation,2016-10-30T20:38:59Z,2016-10-31T09:50:37Z,1,733,1,6,0,7,2
+freeCodeCamp/freeCodeCamp,11472,Fix/Replace nbsp in campers code,2016-10-30T23:43:10Z,2016-11-04T13:11:37Z,7,813,1,10,0,3,3
+freeCodeCamp/freeCodeCamp,11474,Remove bower and port dependencies over to npm,2016-10-31T02:21:27Z,2017-02-27T23:04:00Z,14,1013,15,50,85,23,4
+freeCodeCamp/freeCodeCamp,11478,Improve Exact Change readability,2016-10-31T13:23:14Z,2016-11-07T07:24:43Z,2,871,1,17,17,8,5
+freeCodeCamp/freeCodeCamp,11482,"Added new certifications, removed old ones",2016-10-31T19:54:31Z,2017-04-14T02:04:33Z,7,272,32,753,460,21,8
+freeCodeCamp/freeCodeCamp,11490,Update history to version 4.4.0 🚀,2016-11-01T16:03:04Z,2016-11-02T17:10:24Z,3,1906,1,1,1,0,4
+freeCodeCamp/freeCodeCamp,11545,Added note about language degradation,2016-11-06T10:43:30Z,2016-11-29T23:41:44Z,10,968,4,55,8,15,5
+freeCodeCamp/freeCodeCamp,11549,Feat: Travis Build Badge in README,2016-11-06T12:54:55Z,2016-11-06T14:24:46Z,1,772,1,1,0,0,2
+freeCodeCamp/freeCodeCamp,11562,Fixed odd menu behaviors on mobile,2016-11-07T06:25:33Z,2016-11-19T17:42:20Z,3,776,2,3,1,10,7
+freeCodeCamp/freeCodeCamp,11572,Add note about order of array elements in Diff Two Arrays,2016-11-07T20:05:25Z,2016-11-08T08:16:27Z,1,812,1,2,1,0,2
+freeCodeCamp/freeCodeCamp,11578,Update link to article on integrating mongodb on heroku,2016-11-08T03:24:02Z,2016-11-08T18:45:40Z,1,1543,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,11633,Remove stampit in favour of a factory function,2016-11-12T17:40:33Z,2016-11-17T22:54:41Z,2,751,3,30,35,3,3
+freeCodeCamp/freeCodeCamp,11634,Documentation: Link for Maintaining Local Instance of FCC,2016-11-12T17:53:46Z,2016-11-12T22:03:57Z,1,1146,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,11637,Remove rules from projects(staging),2016-11-13T04:06:29Z,2016-11-13T13:09:40Z,1,878,5,20,51,0,2
+freeCodeCamp/freeCodeCamp,11640,Simplify package.json,2016-11-13T09:28:32Z,2016-11-13T13:15:49Z,1,60,1,1,4,2,3
+freeCodeCamp/freeCodeCamp,11695,Modified phrasing in Comparison with the Greater Than Or Equal To Operator,2016-11-18T01:47:44Z,2016-11-18T07:11:15Z,1,1102,1,4,4,1,4
+freeCodeCamp/freeCodeCamp,11711,"D3 QA, OOP & FP intros, new Vis Des & Resp Des challenges",2016-11-19T04:32:16Z,2016-12-30T19:11:08Z,3,1207,5,1502,957,4,6
+freeCodeCamp/freeCodeCamp,11718,Resolve react-hot-loader error,2016-11-19T14:33:19Z,2016-11-24T22:30:18Z,1,2428,1,4,2,16,4
+freeCodeCamp/freeCodeCamp,11723,"add api users/stats, git-stats format records",2016-11-20T06:50:09Z,2016-12-22T02:06:28Z,6,1034,2,65,1,9,5
+freeCodeCamp/freeCodeCamp,11737,"Clarify instructions for ""Understand String Immutability""",2016-11-21T01:33:27Z,2016-11-29T22:39:48Z,3,807,1,1,1,11,6
+freeCodeCamp/freeCodeCamp,11747,Fix/geolocation 1,2016-11-21T14:53:46Z,2016-11-22T06:18:25Z,1,734,2,2,2,2,4
+freeCodeCamp/freeCodeCamp,11754,Update redux-actions to version 1.0.1 🚀,2016-11-21T20:14:05Z,2016-11-23T23:48:37Z,1,2222,1,1,1,3,3
+freeCodeCamp/freeCodeCamp,11784,Fix: Entities reducer refactor to enable update of redux-actions,2016-11-23T23:47:38Z,2017-01-05T00:16:54Z,6,948,3,66,71,12,3
+freeCodeCamp/freeCodeCamp,11801,Fix: Lang routes persist between sessions,2016-11-25T01:04:05Z,2016-12-30T04:12:50Z,1,794,2,6,3,2,3
+freeCodeCamp/freeCodeCamp,11805,Add note about radio buttons in responsively style radio buttons,2016-11-25T07:37:55Z,2016-11-26T22:19:16Z,2,838,1,2,1,1,5
+freeCodeCamp/freeCodeCamp,11808,Update contributing.md,2016-11-25T13:33:04Z,2016-11-26T20:43:28Z,6,2828,1,26,25,3,4
+freeCodeCamp/freeCodeCamp,11821,Add test to profile lookup challenge,2016-11-26T08:48:09Z,2016-11-26T20:23:09Z,1,952,1,2,1,5,5
+freeCodeCamp/freeCodeCamp,11829,add test to import and degrade font challenges,2016-11-26T21:35:04Z,2016-11-27T10:06:48Z,5,880,1,2,1,5,6
+freeCodeCamp/freeCodeCamp,11835,Change instructions in Counting Cards Challenge,2016-11-27T16:26:48Z,2016-11-28T13:29:49Z,2,857,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,11844,revised description for Concatenate Arrays with .concat,2016-11-28T07:27:03Z,2016-11-28T23:59:22Z,2,845,1,4,3,0,3
+freeCodeCamp/freeCodeCamp,11855,Revise description for Concatenate Arrays with .concat Challenge,2016-11-29T02:37:56Z,2016-11-29T04:48:20Z,4,906,1,6,3,8,5
+freeCodeCamp/freeCodeCamp,11863,fix(issue-reports): Remove encoded solution,2016-11-29T19:03:11Z,2016-12-08T07:25:16Z,2,822,1,1,1,5,3
+freeCodeCamp/freeCodeCamp,11867,Add note about arguments object to seek and destroy challenge,2016-11-29T22:07:07Z,2016-12-01T21:38:22Z,1,952,1,1,0,5,6
+freeCodeCamp/freeCodeCamp,11871,fix for error when trying to run locally,2016-11-30T07:26:07Z,2016-11-30T23:02:21Z,2,733,1,14,1,2,6
+freeCodeCamp/freeCodeCamp,11876,Update redux-form to version 6.2.1 🚀,2016-11-30T15:48:52Z,2016-12-04T23:31:05Z,1,3299,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,11881,Remove reset/delete account progress animations and change color/increase size of buttons ,2016-12-01T01:43:56Z,2016-12-04T23:54:59Z,3,866,3,53,2,4,4
+freeCodeCamp/freeCodeCamp,11923,Update Redirect when cancelling to remove account,2016-12-05T01:10:33Z,2016-12-06T01:15:48Z,2,733,1,2,2,2,4
+freeCodeCamp/freeCodeCamp,11927,Add P2P Video Chat Application to Extra Projects,2016-12-05T07:26:33Z,2016-12-12T16:13:41Z,5,846,1,25,0,8,7
+freeCodeCamp/freeCodeCamp,11967,fix(issue-reports): Remove encoded solution,2016-12-08T07:37:19Z,2016-12-10T23:11:08Z,1,102,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,11981,fix minor typo in getting started guide,2016-12-09T21:50:18Z,2016-12-10T05:47:33Z,1,733,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,11983,fix(seed): fix console.log in basic JavaScript challenges,2016-12-09T21:57:06Z,2017-01-27T09:27:28Z,7,398,1,103,82,11,6
+freeCodeCamp/freeCodeCamp,11987,change test to ensure use of /,2016-12-10T04:07:26Z,2017-01-26T08:19:22Z,15,777,1,5,6,10,5
+freeCodeCamp/freeCodeCamp,11998,Make translated challenge titles searchable,2016-12-11T11:22:57Z,2017-01-08T21:12:58Z,2,921,3,39,18,2,3
+freeCodeCamp/freeCodeCamp,12009,fix(license): Update License.,2016-12-12T12:58:23Z,2016-12-12T21:58:53Z,1,399,3,454,177,1,3
+freeCodeCamp/freeCodeCamp,12016,Reduce client/server markup mis-matches,2016-12-12T22:11:05Z,2017-02-21T06:44:09Z,2,846,5,25,29,1,3
+freeCodeCamp/freeCodeCamp,12025,Center Testimonial Text,2016-12-13T17:45:33Z,2016-12-15T01:36:05Z,2,854,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,12032,Update react-redux to version 5.0.0 🚀,2016-12-14T04:56:45Z,2017-01-07T21:18:48Z,1,5011,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,12048,feat(user): Report profiles,2016-12-14T21:30:20Z,2017-01-26T20:16:17Z,9,284,6,139,14,16,4
+freeCodeCamp/freeCodeCamp,12068,Update instructions for Stand in Line Challenge,2016-12-16T09:24:33Z,2016-12-16T13:11:18Z,1,847,1,3,1,5,4
+freeCodeCamp/freeCodeCamp,12117,Update test message in circular-border-radius challenge,2016-12-19T19:35:40Z,2017-01-04T01:22:18Z,1,839,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,12123,Use HTML5 to Require a Field grammar fix,2016-12-20T02:50:47Z,2016-12-20T19:39:38Z,2,792,1,1,1,7,5
+freeCodeCamp/freeCodeCamp,12144,Fix Night Mode Inactive Button Colour,2016-12-21T08:19:29Z,2017-01-24T17:37:16Z,3,909,3,24,5,11,5
+freeCodeCamp/freeCodeCamp,12152,Add instructions in Contributing to not put issue # in commit msgs,2016-12-21T13:26:17Z,2016-12-21T15:20:45Z,8,825,1,2,2,8,5
+freeCodeCamp/freeCodeCamp,12161,Improved testing and message for create a form element challenge,2016-12-22T05:25:17Z,2016-12-22T17:56:01Z,2,912,1,1,1,3,4
+freeCodeCamp/freeCodeCamp,12193,Fixing typo found in intermediate algorithm challenge,2016-12-24T00:42:36Z,2016-12-25T14:17:06Z,2,882,1,1,1,0,4
+freeCodeCamp/freeCodeCamp,12227,Changed in-line to inline,2016-12-25T23:25:45Z,2016-12-26T22:45:15Z,1,788,1,4,4,1,3
+freeCodeCamp/freeCodeCamp,12229,improve github linking copy and error message,2016-12-26T07:34:54Z,2016-12-30T03:25:59Z,1,313,4,10,8,2,3
+freeCodeCamp/freeCodeCamp,12232,Add Brazilian Portuguese basic-bonfires translations,2016-12-26T17:23:10Z,2016-12-30T04:47:01Z,1,865,1,173,1,1,4
+freeCodeCamp/freeCodeCamp,12234,Add Brazilian Portuguese basic-ziplines translations,2016-12-26T18:41:55Z,2016-12-30T04:31:38Z,1,876,1,75,0,1,4
+freeCodeCamp/freeCodeCamp,12292,chore: update license year,2016-12-31T13:49:27Z,2016-12-31T18:31:17Z,1,733,2,2,2,1,4
+freeCodeCamp/freeCodeCamp,12304,Grammatical Fix,2017-01-01T05:59:18Z,2017-01-03T07:29:04Z,2,750,1,1,1,7,6
+freeCodeCamp/freeCodeCamp,12315,feat(nav): Show dropdown hover,2017-01-02T05:56:10Z,2017-01-03T07:04:08Z,3,13,6,65,25,1,2
+freeCodeCamp/freeCodeCamp,12317,fix(CI): Remove Friendly Date Ranges,2017-01-02T09:04:15Z,2017-01-02T20:36:34Z,1,135,1,0,81,3,3
+freeCodeCamp/freeCodeCamp,12322,Improve console.log output,2017-01-02T17:02:37Z,2017-01-04T23:39:02Z,4,2169,1,28,7,3,3
+freeCodeCamp/freeCodeCamp,12328,Update phone number and description,2017-01-02T22:27:04Z,2017-01-06T06:03:11Z,1,999,1,5,5,1,4
+freeCodeCamp/freeCodeCamp,12329,Clarify btn-primary instructions,2017-01-02T23:02:51Z,2017-01-16T18:17:02Z,6,1032,1,5,5,8,5
+freeCodeCamp/freeCodeCamp,12344,add new nav dropdown options,2017-01-03T21:33:36Z,2017-01-04T22:55:46Z,2,0,1,46,23,4,4
+freeCodeCamp/freeCodeCamp,12377,unsubscribe all users with the same email address,2017-01-05T06:51:12Z,2017-01-12T17:38:37Z,7,1280,1,10,10,7,4
+freeCodeCamp/freeCodeCamp,12380,Updated mongodb running command in c9.io,2017-01-05T09:13:02Z,2017-01-06T05:52:04Z,1,435,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,12383,Add wbr tag on sample code,2017-01-05T10:01:20Z,2017-01-06T06:00:26Z,1,748,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,12430,updated font awesome to latest version,2017-01-08T16:54:46Z,2017-01-09T08:00:41Z,1,776,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,12442,Corrected Grammatical Errors.,2017-01-09T13:19:00Z,2017-01-11T08:55:01Z,2,802,1,3,3,5,3
+freeCodeCamp/freeCodeCamp,12443,Added a new test for the challenge,2017-01-09T14:18:03Z,2017-01-13T13:56:35Z,1,805,1,2,1,3,4
+freeCodeCamp/freeCodeCamp,12463,fix(seed): Remove Friendly Date Ranges from production,2017-01-10T19:48:21Z,2017-01-11T19:36:29Z,1,181,1,1,62,0,3
+freeCodeCamp/freeCodeCamp,12473,Fix s/Free Code Camp/freeCodeCamp in /server/views,2017-01-11T09:37:23Z,2017-01-11T19:11:48Z,1,856,23,95,95,1,2
+freeCodeCamp/freeCodeCamp,12497,Enable react/sort-prop-types rule,2017-01-12T21:42:28Z,2017-02-27T22:00:38Z,1,174,33,316,267,2,2
+freeCodeCamp/freeCodeCamp,12500,translated Getting Started in italian,2017-01-13T02:01:09Z,2017-01-20T04:12:15Z,1,743,1,14,3,6,4
+freeCodeCamp/freeCodeCamp,12501,chore(server): Updated to server to freeCodeCamp,2017-01-13T02:23:16Z,2017-01-14T01:40:54Z,1,1649,24,113,113,4,3
+freeCodeCamp/freeCodeCamp,12516,Add more Free Code Camp places in README.md,2017-01-13T23:14:29Z,2017-01-14T05:27:20Z,4,346,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,12519,changed 'backward' to 'backwards' in challenge copy,2017-01-14T02:33:55Z,2017-01-14T05:34:03Z,1,1257,1,3,3,0,2
+freeCodeCamp/freeCodeCamp,12532,added LESS rule for <dfn> tag in  nightmode,2017-01-15T00:21:36Z,2017-01-15T14:09:16Z,1,967,1,5,1,0,2
+freeCodeCamp/freeCodeCamp,12537,Make forum wiki articles available in Map,2017-01-15T12:21:10Z,2017-05-21T17:40:42Z,8,944,23,714,14,9,4
+freeCodeCamp/freeCodeCamp,12543,Rename to freeCodeCamp in md files,2017-01-15T19:30:51Z,2017-01-15T22:32:52Z,3,1367,5,42,42,1,3
+freeCodeCamp/freeCodeCamp,12555,Removal of server/ssl-config.js,2017-01-16T18:32:56Z,2017-01-16T19:33:24Z,1,784,1,0,16,1,3
+freeCodeCamp/freeCodeCamp,12556,"fix(nightmode) Update modals, dropdown, menu-toggle",2017-01-16T19:06:45Z,2017-01-19T04:24:10Z,1,1305,2,37,3,4,4
+freeCodeCamp/freeCodeCamp,12584,Add test to assert single h1 element,2017-01-17T22:43:02Z,2017-01-18T06:22:48Z,1,935,1,1,0,0,3
+freeCodeCamp/freeCodeCamp,12597,Add links to platform-specific guides to setting up a development environment,2017-01-18T12:10:56Z,2017-01-21T07:39:35Z,2,1064,1,4,0,8,4
+freeCodeCamp/freeCodeCamp,12636,chore: Remove unused/deprecated files,2017-01-20T01:56:41Z,2017-01-20T13:02:58Z,1,0,25,0,2254,0,2
+freeCodeCamp/freeCodeCamp,12639,update blockNameify preformattedBlocks for beta,2017-01-20T03:18:47Z,2017-01-21T08:24:07Z,1,961,1,10,5,3,4
+freeCodeCamp/freeCodeCamp,12652,Add introduction slide for Basic HTML and HTML5 section,2017-01-20T13:11:49Z,2017-01-20T20:03:29Z,4,609,1,37,1,1,3
+freeCodeCamp/freeCodeCamp,12663,"Fix formatting, tests for new HTML and CSS challenges",2017-01-20T20:49:25Z,2017-01-21T14:36:48Z,2,982,3,52,69,3,3
+freeCodeCamp/freeCodeCamp,12676,add intro to basic CSS challenges,2017-01-21T05:35:19Z,2017-01-21T07:36:16Z,1,802,1,48,0,0,3
+freeCodeCamp/freeCodeCamp,12700,Fix typo in Data Visualization with D3: Change Styles Based on Data: …,2017-01-21T18:41:53Z,2017-01-21T19:45:04Z,1,755,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,12720,add releasedOn date to new challenges,2017-01-22T09:10:52Z,2017-02-18T02:48:04Z,2,1241,52,3131,8402,6,27
+freeCodeCamp/freeCodeCamp,12734,Change RWD to RWD Principles to prevent collapsible menu conflict,2017-01-22T14:03:38Z,2017-01-24T09:27:49Z,3,1013,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,12737,improve tests for parseInt radix,2017-01-22T14:37:20Z,2017-01-22T21:22:40Z,1,912,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,12752,Remove CSS from HTML section,2017-01-22T21:34:45Z,2017-01-27T21:54:23Z,1,1153,1,534,834,3,4
+freeCodeCamp/freeCodeCamp,12754,Profile lookup confusion issue fixed,2017-01-22T22:04:10Z,2017-01-25T19:30:19Z,2,817,1,5,5,2,5
+freeCodeCamp/freeCodeCamp,12756,working on fix for adv. DS & algos,2017-01-23T00:05:38Z,2017-01-25T06:53:45Z,3,1287,2,1762,2804,1,4
+freeCodeCamp/freeCodeCamp,12767,"Fixed Formatting issue in ""Return Largest Numbers in Arrays""",2017-01-23T09:15:26Z,2017-01-23T15:45:50Z,1,860,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,12795,changed wording on google font ch.,2017-01-24T04:07:59Z,2017-01-24T17:46:00Z,3,840,1,5,7,3,3
+freeCodeCamp/freeCodeCamp,12797,"reformat, refactor basic ds: object challenges",2017-01-24T04:45:58Z,2017-01-24T18:10:57Z,1,1699,1,119,80,1,3
+freeCodeCamp/freeCodeCamp,12798,Adds JSON example to Convert JSON Data to HTML,2017-01-24T05:23:42Z,2017-01-24T13:43:12Z,2,1026,1,3,1,1,5
+freeCodeCamp/freeCodeCamp,12809,Fix sequencing issues in Basic CSS section,2017-01-24T21:33:59Z,2017-01-27T15:47:34Z,5,1008,1,646,169,7,3
+freeCodeCamp/freeCodeCamp,12817,revise copy for intro array challenge,2017-01-25T03:50:39Z,2017-01-28T19:01:24Z,7,1147,1,119,32,13,6
+freeCodeCamp/freeCodeCamp,12821,"update links and formatting, project landing pages",2017-01-25T05:48:12Z,2017-01-29T08:43:02Z,2,1116,3,38,32,10,3
+freeCodeCamp/freeCodeCamp,12823,Improvements to adv. algos and data structures,2017-01-25T08:07:37Z,2017-01-28T06:56:46Z,1,1251,2,1700,2734,3,4
+freeCodeCamp/freeCodeCamp,12832,[WIP] Add arrow keys to navigate in step challenges,2017-01-25T14:05:47Z,2017-09-02T01:15:04Z,1,1206,6,106,6,8,5
+freeCodeCamp/freeCodeCamp,12855,"Test, formatting fixes for new JS challenges",2017-01-25T20:49:22Z,2017-01-30T18:30:06Z,3,993,1,68,75,2,3
+freeCodeCamp/freeCodeCamp,12856,Fix closing backticks indentation on bug report,2017-01-25T20:49:39Z,2017-01-29T21:20:58Z,4,1081,1,9,9,4,4
+freeCodeCamp/freeCodeCamp,12860,Changed the text enclosed by strong tag,2017-01-26T00:52:44Z,2017-01-31T18:39:12Z,15,734,1,24,23,5,5
+freeCodeCamp/freeCodeCamp,12861,Add hint to Falsy Bouncer challenge description,2017-01-26T02:57:02Z,2017-01-27T10:27:56Z,3,956,1,1,0,1,5
+freeCodeCamp/freeCodeCamp,12887,Fixes multiple flex issues,2017-01-26T20:06:27Z,2017-02-02T06:29:24Z,5,801,1,46,40,14,5
+freeCodeCamp/freeCodeCamp,12888,Prevent 'comment-your-javascript-code' from passing incorrectly due to multi-line comments which are not visible to users,2017-01-26T20:16:48Z,2017-01-29T08:46:08Z,1,540,1,2,3,2,6
+freeCodeCamp/freeCodeCamp,12896,fix quoting strings challenge,2017-01-27T02:35:48Z,2017-01-29T20:47:52Z,6,2102,1,6,5,8,5
+freeCodeCamp/freeCodeCamp,12909,Fix the project pages layout issue,2017-01-27T10:18:26Z,2017-01-27T21:27:25Z,1,797,3,18,18,0,2
+freeCodeCamp/freeCodeCamp,12910,Removed all empty translations present in the challenges in the seed files,2017-01-27T11:16:51Z,2017-02-01T17:01:45Z,2,992,22,335,6596,5,5
+freeCodeCamp/freeCodeCamp,12929,"fix(challenge): Update tail section for ""Return a Value from a Function with Return""",2017-01-27T23:48:58Z,2017-02-05T13:12:04Z,14,1338,1,6,6,3,6
+freeCodeCamp/freeCodeCamp,12930,fix(challenge): Prevent use of String.repeat() in Basic Algorithm,2017-01-28T00:46:34Z,2017-01-28T21:38:06Z,4,1042,1,3,2,1,3
+freeCodeCamp/freeCodeCamp,12932,fixes for various typos in the Applied Visual Design section,2017-01-28T03:01:55Z,2017-01-28T23:20:24Z,4,1675,1,19,20,7,4
+freeCodeCamp/freeCodeCamp,12936,added hint about checking punctuation,2017-01-28T12:03:52Z,2017-01-28T13:36:57Z,1,794,1,3,1,2,4
+freeCodeCamp/freeCodeCamp,12945,Add introduction for Bootstrap section,2017-01-29T00:39:35Z,2017-01-29T16:41:10Z,1,605,1,37,1,2,3
+freeCodeCamp/freeCodeCamp,12950,Format text in several Adv Data Struc challenges,2017-01-29T12:52:36Z,2017-01-29T20:40:53Z,7,1210,1,66,98,0,4
+freeCodeCamp/freeCodeCamp,12951,Make example in Manipulate Complex Obj consistent,2017-01-29T13:29:40Z,2017-01-29T18:08:25Z,1,986,1,5,4,0,3
+freeCodeCamp/freeCodeCamp,12956,Reformatted instructions for the first four ES6 challenges,2017-01-29T18:53:54Z,2017-02-01T10:15:25Z,10,1625,1,63,112,4,6
+freeCodeCamp/freeCodeCamp,12963,Reformat ES6 arrow function challenges,2017-01-30T00:42:11Z,2017-02-02T06:34:10Z,8,1078,1,32,47,4,6
+freeCodeCamp/freeCodeCamp,12969,Format Incidence Matrix challenge,2017-01-30T04:21:29Z,2017-01-30T22:08:22Z,1,1032,1,16,32,0,3
+freeCodeCamp/freeCodeCamp,12975,Update position of x point,2017-01-30T05:57:47Z,2017-01-30T08:30:17Z,1,805,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,12982,Translation of Getting Started in Tradational Chinese (zh-tw),2017-01-30T15:30:15Z,2017-02-06T20:43:08Z,1,808,1,228,0,5,4
+freeCodeCamp/freeCodeCamp,12989,Fix isBeta challenges displaying without title when they should be hidden,2017-01-30T20:58:03Z,2017-09-02T03:03:54Z,10,1265,2,80,2,12,6
+freeCodeCamp/freeCodeCamp,12990,Update webpack to version 2.2.1 🚀,2017-01-30T21:20:16Z,2017-03-25T10:41:37Z,1,2582,1,1,1,1,5
+freeCodeCamp/freeCodeCamp,12995,Disable loopProtect for non-JavaScript code,2017-01-31T01:34:15Z,2017-01-31T23:35:00Z,2,846,1,5,0,2,3
+freeCodeCamp/freeCodeCamp,13010,Format Breadth-First Search for graphs challenge,2017-01-31T18:52:04Z,2017-02-01T16:43:07Z,2,975,1,14,11,1,3
+freeCodeCamp/freeCodeCamp,13012,"fix(challenge): Improve example for ""Applied Visual Design: Use the u Tag to Underline Text""",2017-01-31T21:54:28Z,2017-02-07T17:10:52Z,7,918,1,31,49,0,4
+freeCodeCamp/freeCodeCamp,13017,fix(challenge): Update instructions and format for text-transform challenge,2017-01-31T23:32:38Z,2017-02-01T17:05:28Z,1,832,1,6,4,1,3
+freeCodeCamp/freeCodeCamp,13022,update bower.json with resolution for jQuery,2017-02-01T03:58:35Z,2017-02-01T09:48:16Z,2,931,1,3,0,0,4
+freeCodeCamp/freeCodeCamp,13028,Added a comma to separate x and y coordinates pairs,2017-02-01T15:05:15Z,2017-02-01T16:32:58Z,1,1142,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13055,chore(seed): freeCodeCampify remaining sections of codebase,2017-02-02T01:52:31Z,2017-02-02T23:34:37Z,6,1742,26,396,396,7,3
+freeCodeCamp/freeCodeCamp,13057,Added edge case tests for Pig Latin challenge,2017-02-02T02:46:52Z,2017-02-02T09:16:50Z,1,953,1,3,1,0,3
+freeCodeCamp/freeCodeCamp,13062,Updated challenge text formatting to be uniform,2017-02-02T05:17:19Z,2017-02-02T09:22:34Z,1,889,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13063,Added semi-colon to end of statements,2017-02-02T07:06:08Z,2017-02-02T09:25:09Z,1,918,1,4,4,0,3
+freeCodeCamp/freeCodeCamp,13073,Added semicolon to Regular Expressions: Match Beginning String Patterns,2017-02-02T15:06:18Z,2017-02-02T17:26:36Z,1,794,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13079,Fixes html term to all capslock,2017-02-02T16:22:07Z,2017-02-02T17:27:41Z,1,118,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13080,Allow closing brackets on the same line,2017-02-02T17:00:08Z,2017-02-24T16:26:19Z,3,734,1,2,2,9,5
+freeCodeCamp/freeCodeCamp,13081,fix(challenge): Decrease the Opacity of An Element,2017-02-02T17:11:43Z,2017-02-02T22:24:49Z,1,1434,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,13090,Additional test cases for Escape Sequences in Strings,2017-02-02T21:32:13Z,2017-02-03T10:01:42Z,3,1009,1,6,4,0,3
+freeCodeCamp/freeCodeCamp,13096,Improve instruction in regex match single character challenge,2017-02-03T01:08:35Z,2017-02-03T15:22:53Z,1,880,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13098,Fix code formatting in regex find characters with lazy matching,2017-02-03T02:22:19Z,2017-02-03T15:30:08Z,1,836,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13105,fix(challenge): Additional test cases for 'Escape Sequences in Strings',2017-02-03T10:01:07Z,2017-02-03T15:15:18Z,1,934,1,6,4,1,3
+freeCodeCamp/freeCodeCamp,13124,"fix(challenge): Accept more correct solutions for ""OOP: Use dot notation""",2017-02-04T01:17:37Z,2017-02-04T23:10:15Z,1,803,1,3,3,2,3
+freeCodeCamp/freeCodeCamp,13129,"fix(challenge): Stricter tests for ""OOP: Constructor property""",2017-02-04T10:54:41Z,2017-02-04T23:12:19Z,2,911,1,4,3,2,3
+freeCodeCamp/freeCodeCamp,13135,"Added semicolon to end of first statement in the challenge ""Regular Expressions: Find Characters with Lazy Matching""",2017-02-04T15:22:11Z,2017-02-04T17:32:53Z,3,904,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,13143,Reduce complexity of the 'scopes with var and let' challenge,2017-02-04T19:18:35Z,2017-02-08T13:26:17Z,6,1441,1,17,17,9,4
+freeCodeCamp/freeCodeCamp,13144,Fix/Dataset Link for Bar Chart Project,2017-02-04T19:56:15Z,2017-02-04T21:02:11Z,2,772,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,13155,fix(challenge): fix instructions in serve json challenge,2017-02-05T05:28:12Z,2017-02-13T10:49:41Z,10,927,1,4,4,8,3
+freeCodeCamp/freeCodeCamp,13156,Simplify truncate a string challenge,2017-02-05T12:48:37Z,2017-02-05T16:26:12Z,2,779,1,4,10,2,4
+freeCodeCamp/freeCodeCamp,13162,"fix(challenge): various grammar and formatting, .env node challenge",2017-02-05T18:08:49Z,2017-02-12T09:01:23Z,12,1178,1,4,3,6,3
+freeCodeCamp/freeCodeCamp,13164,"fix(challenges): add class to backend challenge wrapper, fix basic no…",2017-02-05T19:48:01Z,2017-02-28T21:43:55Z,4,1335,2,34,55,9,4
+freeCodeCamp/freeCodeCamp,13166,replace Hyperdev references with Gomix,2017-02-05T20:13:09Z,2017-02-08T15:06:50Z,1,779,6,14,14,3,4
+freeCodeCamp/freeCodeCamp,13169,Revise intro for Basic CSS section,2017-02-05T21:27:01Z,2017-02-05T22:35:34Z,1,640,1,1,1,4,4
+freeCodeCamp/freeCodeCamp,13176,Replaced shift() with unshift() in description,2017-02-06T03:50:01Z,2017-02-07T03:16:20Z,1,988,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,13196,Remove hover state requirement,2017-02-06T19:54:36Z,2017-02-07T22:15:09Z,1,843,1,3,5,0,3
+freeCodeCamp/freeCodeCamp,13197,fix: Update Gomix handler,2017-02-06T20:15:32Z,2017-02-08T18:12:12Z,1,551,1,6,6,2,4
+freeCodeCamp/freeCodeCamp,13198,Remove code tags from challenge seed,2017-02-06T20:19:58Z,2017-02-12T10:00:48Z,4,1054,1,6,18,2,4
+freeCodeCamp/freeCodeCamp,13200,Chore(package): Remove gitter-sidecar due to vulnerability,2017-02-06T20:54:42Z,2017-02-11T16:22:43Z,2,144,2,5,4,8,6
+freeCodeCamp/freeCodeCamp,13219,Feature singly linked list descriptions enhancements,2017-02-07T15:26:06Z,2017-02-27T18:32:56Z,4,1296,1,118,107,15,3
+freeCodeCamp/freeCodeCamp,13227,Fix typo in articles,2017-02-07T20:13:06Z,2017-02-07T21:19:42Z,1,781,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13228,Add updated challenge style guide,2017-02-07T20:33:11Z,2017-02-07T23:01:05Z,10,733,2,98,0,3,4
+freeCodeCamp/freeCodeCamp,13229,Persist night mode on page load,2017-02-07T21:31:48Z,2017-04-18T18:06:20Z,7,884,2,21,0,9,4
+freeCodeCamp/freeCodeCamp,13231,Image link now opens in new tab,2017-02-07T22:59:21Z,2017-02-17T19:57:57Z,4,1103,3,56,56,9,6
+freeCodeCamp/freeCodeCamp,13235,Social Authentication challenges added to Advanced Node/Express section,2017-02-08T04:12:11Z,2017-02-10T08:14:06Z,5,466,1,112,1,1,5
+freeCodeCamp/freeCodeCamp,13245,feat: Add open to contribution badges,2017-02-08T16:45:13Z,2017-02-08T22:36:59Z,1,104,2,4,0,2,3
+freeCodeCamp/freeCodeCamp,13255,Reword amiguous challenge instructions,2017-02-09T03:03:33Z,2017-02-12T09:39:13Z,1,845,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,13272,added step by step instruction on adding an image to a website,2017-02-10T07:19:25Z,2017-02-17T20:12:09Z,2,1061,1,5,2,8,3
+freeCodeCamp/freeCodeCamp,13279,Fix description of 2nd test in challenge Inventory Update,2017-02-10T15:13:44Z,2017-02-10T18:06:19Z,1,797,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13297,Add TOC and proper noun section to challenge guide,2017-02-12T09:36:02Z,2017-02-13T12:52:29Z,1,916,1,24,1,5,3
+freeCodeCamp/freeCodeCamp,13301,move the convert celsius challenge over to the algorithm challenges,2017-02-12T19:23:07Z,2017-02-13T11:03:23Z,1,872,2,42,48,1,3
+freeCodeCamp/freeCodeCamp,13308,fix(challenge): Improve tests for Circular Queue challenge.,2017-02-12T22:46:37Z,2017-02-18T17:18:24Z,1,944,1,10,3,6,4
+freeCodeCamp/freeCodeCamp,13315,Correct em dash in OOP challenge plus formatting,2017-02-13T10:47:29Z,2017-02-13T12:09:35Z,2,760,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,13336,fix includes polyfill for ie,2017-02-13T22:52:41Z,2017-02-16T21:01:41Z,3,771,0,0,0,0,4
+freeCodeCamp/freeCodeCamp,13342,Fix/typos advanced express tools,2017-02-14T05:03:01Z,2017-02-20T20:55:40Z,8,785,1,32,32,4,6
+freeCodeCamp/freeCodeCamp,13343,Format Learn how a stack works challenge,2017-02-14T05:27:03Z,2017-02-24T23:27:19Z,6,936,1,13,12,1,4
+freeCodeCamp/freeCodeCamp,13344,Fix typos in infosec challenge,2017-02-14T07:10:08Z,2017-02-14T10:26:09Z,1,867,1,3,3,0,2
+freeCodeCamp/freeCodeCamp,13347,Minor grammar and typo fixes,2017-02-14T10:40:20Z,2017-02-15T14:21:56Z,2,341,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,13350,Remove extra close brace,2017-02-14T14:31:24Z,2017-02-14T17:00:07Z,1,762,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13368,feature (map) : carets rotate as map accordion expands or contracts,2017-02-15T22:24:36Z,2017-04-26T21:29:08Z,3,1213,1,37,1,17,5
+freeCodeCamp/freeCodeCamp,13380,Add parameter to example code,2017-02-16T12:50:53Z,2017-02-17T05:19:52Z,2,843,1,3,8,3,3
+freeCodeCamp/freeCodeCamp,13410,changed url,2017-02-17T21:49:42Z,2017-02-18T06:42:48Z,3,866,1,2,2,0,4
+freeCodeCamp/freeCodeCamp,13414,Reformat ES6 Challenge Descriptions,2017-02-18T03:12:18Z,2017-02-20T20:15:17Z,2,989,1,55,63,1,3
+freeCodeCamp/freeCodeCamp,13415,Improve instructions in add images challenge,2017-02-18T03:12:58Z,2017-02-18T18:28:29Z,1,939,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13418,moved comment to new line to remove overflow-x scrollbar,2017-02-18T04:23:40Z,2017-02-19T09:13:13Z,3,865,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13422,"Translation of the ""Responsive Web Design Principles"" section into pt-br",2017-02-18T12:57:02Z,2017-02-20T16:40:59Z,3,929,1,89,5,5,5
+freeCodeCamp/freeCodeCamp,13427,Add missing semicolon at the end of example section statement,2017-02-18T17:08:58Z,2017-02-18T18:18:30Z,1,734,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13444,refactor(gomix): update to gomix.com,2017-02-19T07:13:20Z,2017-02-19T10:22:49Z,1,530,4,14,14,2,2
+freeCodeCamp/freeCodeCamp,13445,Fix formatting and add tests for array destructuring,2017-02-19T07:38:17Z,2017-02-21T20:10:30Z,7,1278,1,10,8,1,3
+freeCodeCamp/freeCodeCamp,13446,Fix instructions and challenge seed in linked-list,2017-02-19T08:06:44Z,2017-02-19T09:22:50Z,1,787,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13453,revised circular queue challenge and added working tests,2017-02-19T21:12:48Z,2017-02-20T19:29:26Z,3,831,1,40,18,2,3
+freeCodeCamp/freeCodeCamp,13469,"fix(challenge): Typo in ""OOP: Use an IIFE to Create a Module""",2017-02-20T17:30:25Z,2017-02-20T18:43:43Z,1,691,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13475,indexOf() instead of includes(),2017-02-20T20:48:07Z,2017-02-21T03:24:43Z,1,780,4,8,8,3,3
+freeCodeCamp/freeCodeCamp,13476,Fixed iPhone frame doesn't disappear on narrow widths,2017-02-20T21:01:51Z,2017-02-22T20:33:59Z,4,1408,1,7,4,7,4
+freeCodeCamp/freeCodeCamp,13480,Fix/ Missing CSS Selectors in code example,2017-02-20T22:20:34Z,2017-02-21T08:03:41Z,1,840,1,2,2,6,4
+freeCodeCamp/freeCodeCamp,13484,Fix description in create linked list,2017-02-21T00:20:37Z,2017-02-21T08:07:37Z,1,830,1,5,4,0,3
+freeCodeCamp/freeCodeCamp,13487,Improve oboe-errors challenge,2017-02-21T01:15:17Z,2017-02-21T07:05:16Z,6,896,1,5,3,0,4
+freeCodeCamp/freeCodeCamp,13501,Fixed typo in Challenge Code - calculateCircumference,2017-02-21T20:13:39Z,2017-02-21T21:29:28Z,1,832,1,3,3,0,3
+freeCodeCamp/freeCodeCamp,13509,Correct a typo with enumerable,2017-02-22T08:02:04Z,2017-02-22T18:13:00Z,1,517,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,13542,Fix CONTRIBUTING.md link and capitalization,2017-02-23T10:57:51Z,2017-02-27T12:35:18Z,2,1077,1,2,2,2,5
+freeCodeCamp/freeCodeCamp,13543,"New test for ""Return Largest Numbers in Arrays"" - checking for negative only numbers",2017-02-23T11:26:55Z,2017-02-23T13:08:07Z,2,1588,1,2,1,0,4
+freeCodeCamp/freeCodeCamp,13548,Fix challenge title formatting misc,2017-02-23T17:47:25Z,2017-02-27T16:55:39Z,3,1187,24,220,220,1,4
+freeCodeCamp/freeCodeCamp,13554,Update description of beta challenge,2017-02-23T21:55:13Z,2017-02-24T21:24:44Z,1,734,1,3,3,4,5
+freeCodeCamp/freeCodeCamp,13558,Current Streak update so specific times aren't missed,2017-02-23T23:36:38Z,2017-05-30T16:48:35Z,3,675,2,7,7,6,4
+freeCodeCamp/freeCodeCamp,13559,Reformatted instructions for the class ES6 challenges,2017-02-24T01:37:35Z,2017-02-27T13:45:18Z,3,1101,1,15,39,2,4
+freeCodeCamp/freeCodeCamp,13560,Add tests for remove from set,2017-02-24T01:54:34Z,2017-02-24T20:35:49Z,1,1203,1,4,3,0,3
+freeCodeCamp/freeCodeCamp,13563,Reformat ES6 challenges instructions,2017-02-24T05:13:26Z,2017-02-24T23:16:42Z,1,1109,1,37,51,0,3
+freeCodeCamp/freeCodeCamp,13564,Update loopback to version 3.4.0 🚀,2017-02-24T08:41:04Z,2017-02-24T12:13:25Z,1,2406,1,1,1,0,4
+freeCodeCamp/freeCodeCamp,13566,Fix 'Creating and Adding to Sets in ES6' challenge,2017-02-24T14:21:18Z,2017-02-25T09:42:20Z,3,1016,1,20,17,1,3
+freeCodeCamp/freeCodeCamp,13572,Relax strictness of Quoting Strings with Single Quotes,2017-02-24T17:50:06Z,2017-02-25T09:50:01Z,3,849,1,2,2,1,4
+freeCodeCamp/freeCodeCamp,13573,Remove description in challenge seed,2017-02-24T18:04:42Z,2017-02-24T21:34:13Z,1,811,1,3,6,0,3
+freeCodeCamp/freeCodeCamp,13576,"fix(challenge): More robust test for ""Learn how a Stack Works"".",2017-02-24T23:56:35Z,2017-03-09T09:02:26Z,3,822,1,2,1,3,4
+freeCodeCamp/freeCodeCamp,13580,Fixed and Modified Test in Trigger Click Events with JavaScript,2017-02-25T03:17:28Z,2017-02-25T10:12:49Z,1,998,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,13583,Change string to number in add items to array,2017-02-25T06:15:53Z,2017-02-25T10:05:43Z,1,832,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13584,Change challengeSeed in accessing nested objects,2017-02-25T06:39:08Z,2017-02-27T17:31:36Z,3,918,1,1,3,6,4
+freeCodeCamp/freeCodeCamp,13589,Updated Validation of Inline-Style,2017-02-25T11:53:19Z,2017-02-28T13:44:21Z,7,878,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,13592,Add Youtube videos to the map,2017-02-25T15:22:45Z,2017-05-03T23:04:00Z,3,790,23,711,14,9,6
+freeCodeCamp/freeCodeCamp,13599,Add type checking in Where Do I Belong,2017-02-26T01:07:12Z,2017-03-09T08:52:32Z,1,1349,1,10,2,5,4
+freeCodeCamp/freeCodeCamp,13604,Filtered out text-decoration and added more descriptions,2017-02-26T04:38:02Z,2017-02-26T22:54:07Z,1,931,1,5,4,0,2
+freeCodeCamp/freeCodeCamp,13612,Clarify concatenating strings with +=,2017-02-26T22:32:11Z,2017-03-12T00:22:59Z,10,878,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,13618,Fix Empty editor and empty device preview,2017-02-27T06:42:03Z,2017-03-02T18:56:13Z,2,734,4,10,53,7,3
+freeCodeCamp/freeCodeCamp,13624,Changed the reference to the path in guplfile.js to allow spaces,2017-02-27T13:07:51Z,2017-02-27T15:54:13Z,1,1011,1,1,1,3,4
+freeCodeCamp/freeCodeCamp,13625,Created distinction between last two tests and tweaked assertion test,2017-02-27T13:48:01Z,2017-02-27T16:50:26Z,1,912,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,13629,Refactor ES6 challenge descriptions and titles,2017-02-27T20:29:06Z,2017-03-22T05:59:21Z,6,834,1,53,75,11,5
+freeCodeCamp/freeCodeCamp,13631,Fix for failing test on width css property,2017-02-27T21:00:00Z,2017-03-01T11:07:41Z,1,1280,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,13637,Updated URLs for example codepens - interview prep / takehomes,2017-02-28T01:07:53Z,2017-03-03T08:00:56Z,1,1828,1,9,9,0,4
+freeCodeCamp/freeCodeCamp,13648,update codepen signup link,2017-02-28T17:42:05Z,2017-03-01T12:47:12Z,1,733,1,3,3,3,4
+freeCodeCamp/freeCodeCamp,13651,Set default icon color to darkgreen,2017-02-28T18:52:45Z,2017-03-01T10:06:16Z,1,770,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,13667,fix(.github): update to ISSUE_TEMPLATE.md,2017-03-01T01:32:34Z,2017-03-01T09:54:27Z,1,1044,1,3,0,0,4
+freeCodeCamp/freeCodeCamp,13682,fix: Update config to be flexible for host,2017-03-01T18:29:40Z,2017-04-17T21:39:53Z,7,533,4,12,4,12,5
+freeCodeCamp/freeCodeCamp,13695,Added text-decoration challenge,2017-03-02T14:21:45Z,2017-04-23T19:38:28Z,3,1115,1,30,0,10,6
+freeCodeCamp/freeCodeCamp,13701,Fixed display of various characters not showing up correctly in test console,2017-03-02T23:54:17Z,2017-03-17T05:28:39Z,1,1415,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,13705,Improve instructions in responsive design with bootstrap,2017-03-03T01:36:02Z,2017-03-05T00:06:58Z,3,1061,1,3,4,1,4
+freeCodeCamp/freeCodeCamp,13709,Edited description and test,2017-03-03T05:46:09Z,2017-03-11T03:25:17Z,1,876,1,5,4,1,4
+freeCodeCamp/freeCodeCamp,13712,"Fix missing backtick in the description, move sample code in a blockq…",2017-03-03T12:42:19Z,2017-04-24T10:45:29Z,5,827,1,6,13,16,6
+freeCodeCamp/freeCodeCamp,13719,"Fix: Clarify title for ""Basic Data Structures: Copy an Array with slice()""",2017-03-03T16:22:12Z,2017-03-22T05:58:14Z,4,910,1,1,1,12,6
+freeCodeCamp/freeCodeCamp,13720,Changed icon color to improve general UX,2017-03-03T17:26:11Z,2017-03-04T22:21:35Z,9,922,2,6,2,8,6
+freeCodeCamp/freeCodeCamp,13751,Updated backend projects to use correct layout/tester,2017-03-05T00:20:20Z,2017-06-14T22:08:35Z,6,559,2,11,21,13,6
+freeCodeCamp/freeCodeCamp,13756,Review/editing pass on the pt-br text of the getting-started section,2017-03-05T13:42:48Z,2017-03-09T22:11:42Z,3,1213,1,44,44,1,5
+freeCodeCamp/freeCodeCamp,13765,Insert missing space in challenge code,2017-03-05T23:18:36Z,2017-03-08T05:43:36Z,1,936,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13768,Fix (Basic HTML and HTML 5): description edits,2017-03-06T01:05:53Z,2017-04-26T22:02:08Z,8,2257,1,3,3,16,6
+freeCodeCamp/freeCodeCamp,13772,Clarify instructions in Say Hello to HTML challenge,2017-03-06T12:01:12Z,2017-03-09T21:52:36Z,7,1036,1,1,1,1,5
+freeCodeCamp/freeCodeCamp,13795,Fix typo in basic-css-hex-code-colors. Add article -the- to description.,2017-03-07T19:35:58Z,2017-03-08T17:38:34Z,4,944,1,1,1,5,7
+freeCodeCamp/freeCodeCamp,13811,Insert a missing information needed to pass all tests on Radio Buttons Challenge,2017-03-08T21:09:47Z,2017-03-12T15:42:49Z,7,702,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,13822,Convert lookup table to object,2017-03-09T14:09:24Z,2017-03-09T16:35:29Z,1,784,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13825,Update modals.less,2017-03-09T16:17:38Z,2017-04-01T08:08:14Z,1,839,1,1,0,7,6
+freeCodeCamp/freeCodeCamp,13837,"Fix poor wording for first test check of ""Target Even Numbered Elements using jQuery""",2017-03-10T07:52:14Z,2017-03-10T23:03:21Z,1,817,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,13855,Correct capitalisation of Wikipedia,2017-03-11T11:32:32Z,2017-03-11T17:24:21Z,1,807,1,4,4,0,3
+freeCodeCamp/freeCodeCamp,13882,Minor text fixes in Applied Visual Design challenges,2017-03-12T21:13:03Z,2017-03-14T05:41:38Z,1,873,1,74,77,1,3
+freeCodeCamp/freeCodeCamp,13895,updated the 'getting started' instruction about adding Bootstrap v3.3.7 instead of v.4 on Codepen,2017-03-13T16:08:01Z,2017-04-23T20:02:49Z,1,1505,1,2,2,6,5
+freeCodeCamp/freeCodeCamp,13947,removed flex-basis from flex-grow challenge,2017-03-16T03:35:53Z,2017-03-17T19:48:41Z,1,1322,1,11,11,0,3
+freeCodeCamp/freeCodeCamp,13960,Combine Google Font challenges into one,2017-03-16T23:03:22Z,2017-03-18T03:07:57Z,5,942,2,7,85,7,5
+freeCodeCamp/freeCodeCamp,13988,Tweaked title and description of JSON APIs and AJAX challenge,2017-03-18T12:06:59Z,2017-03-26T08:40:10Z,7,1074,1,4,6,9,5
+freeCodeCamp/freeCodeCamp,13991,Remove multiple redundant new lines,2017-03-18T20:07:45Z,2017-03-21T20:03:14Z,1,840,1,0,2,4,5
+freeCodeCamp/freeCodeCamp,13996,Added challenge for Attribute Selector,2017-03-19T06:33:50Z,2017-04-28T15:59:59Z,1,1137,1,87,0,11,6
+freeCodeCamp/freeCodeCamp,14012,correct grammar in description for PrioriyQueue challenge,2017-03-20T08:49:00Z,2017-03-21T16:17:03Z,1,818,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,14014,Update codemirror to version 5.25.0 🚀,2017-03-20T11:04:00Z,2017-09-02T01:10:05Z,1,2519,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14054,Fix: replace all GoMix with Glitch,2017-03-22T18:48:11Z,2017-03-24T18:34:22Z,4,791,11,125,125,7,6
+freeCodeCamp/freeCodeCamp,14061,Improve Node challenges wording and formatting,2017-03-23T07:53:47Z,2017-03-30T19:10:00Z,3,1079,2,33,33,4,4
+freeCodeCamp/freeCodeCamp,14113,Allow spaces in @mixins challenge,2017-03-27T05:18:52Z,2017-04-24T15:50:14Z,2,1000,1,2,2,2,3
+freeCodeCamp/freeCodeCamp,14115,replace it's with its in descriptions,2017-03-27T08:15:10Z,2017-04-19T16:09:13Z,13,841,5,17,17,12,6
+freeCodeCamp/freeCodeCamp,14117,allow spaces between style attribute and its value,2017-03-27T11:47:38Z,2017-04-04T21:51:29Z,2,1107,1,1,1,12,4
+freeCodeCamp/freeCodeCamp,14121,Add .com to code example,2017-03-27T22:23:21Z,2017-03-29T07:00:48Z,1,781,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14146,Update redux-form to version 6.6.1 🚀,2017-03-29T14:30:22Z,2017-04-04T21:23:12Z,1,2989,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,14158,Refactor hover state of a button for readability,2017-03-30T17:59:00Z,2017-04-24T16:01:45Z,1,981,1,5,3,0,3
+freeCodeCamp/freeCodeCamp,14164,Change stack top element in instructions,2017-03-31T01:04:38Z,2017-04-16T17:04:58Z,1,825,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,14165,Add description about front() in Priority Queue,2017-03-31T02:05:09Z,2017-04-05T11:56:30Z,1,782,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,14195,Add tests for mutate const array,2017-04-01T19:48:17Z,2017-04-16T16:54:25Z,1,1145,1,2,2,9,5
+freeCodeCamp/freeCodeCamp,14212,Improve wording on jQuery selectors challenge,2017-04-02T15:40:32Z,2017-09-02T01:08:57Z,5,865,1,2,2,2,5
+freeCodeCamp/freeCodeCamp,14214,Warn against redefining global variables  in the code editor,2017-04-02T16:56:37Z,2017-09-02T03:27:11Z,3,858,1,5,2,5,5
+freeCodeCamp/freeCodeCamp,14237,Add units to map the debris challenge,2017-04-04T15:09:13Z,2017-04-04T22:18:18Z,1,925,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14276,Update challengeSeed in arguments wrong order,2017-04-06T19:30:08Z,2017-04-13T13:38:16Z,1,820,1,5,10,2,4
+freeCodeCamp/freeCodeCamp,14277,CSS color - delete redundant challenge,2017-04-06T19:46:04Z,2017-04-07T18:32:00Z,1,907,1,2,28,1,4
+freeCodeCamp/freeCodeCamp,14341,Update 'Match Literal Strings' description,2017-04-10T21:42:57Z,2017-04-13T20:48:26Z,1,1086,1,1,1,3,5
+freeCodeCamp/freeCodeCamp,14390,Edit test to ensure opacity at 50% in keyframes,2017-04-13T23:45:12Z,2017-07-26T01:37:25Z,1,940,1,1,1,8,6
+freeCodeCamp/freeCodeCamp,14406,Update adjust-height and delete visual-balance-with-height,2017-04-14T23:17:04Z,2017-04-24T16:20:58Z,1,805,1,2,61,0,3
+freeCodeCamp/freeCodeCamp,14426,Add a sentence stating not to sign in with Twitter on 5/9,2017-04-16T02:35:08Z,2017-04-16T17:52:07Z,2,896,1,6,6,3,5
+freeCodeCamp/freeCodeCamp,14448,fix: #14402; add test for radio button in form tag,2017-04-17T05:51:07Z,2017-04-17T18:22:42Z,1,911,1,2,1,4,4
+freeCodeCamp/freeCodeCamp,14483,fix(csp): ws connection during dev uses SYNC_PORT only,2017-04-19T00:23:47Z,2017-04-21T10:51:56Z,1,0,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,14506,Updated test for the Basic JavaScript: Local Scope and Functions chal…,2017-04-20T10:07:02Z,2017-09-02T01:08:58Z,2,991,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14512,Add test to prevent assignment to variable directly,2017-04-20T17:54:08Z,2017-06-13T03:00:38Z,1,929,1,1,0,8,5
+freeCodeCamp/freeCodeCamp,14521,"change ""element's average"" to ""elements' average""",2017-04-21T15:24:18Z,2017-04-24T16:48:29Z,1,879,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,14549,change challenge description and update tests,2017-04-23T06:46:43Z,2017-06-27T12:10:25Z,1,1295,1,7,7,2,3
+freeCodeCamp/freeCodeCamp,14578,replace a test with correct code and …,2017-04-24T19:11:17Z,2017-06-27T12:33:38Z,2,1372,1,2,2,4,5
+freeCodeCamp/freeCodeCamp,14590,Brazilian Portuguese translation of Basic Algorithm Scripting,2017-04-25T20:43:37Z,2017-04-27T07:23:04Z,2,788,1,85,64,8,5
+freeCodeCamp/freeCodeCamp,14605,Feature/add project euler problems,2017-04-26T21:28:22Z,2017-05-03T19:52:58Z,1,891,1,20462,97,4,5
+freeCodeCamp/freeCodeCamp,14609,fix(challenges): Fix classic modal styling not rendering,2017-04-26T23:47:47Z,2017-05-19T04:46:36Z,4,86,3,36,35,3,3
+freeCodeCamp/freeCodeCamp,14624,Removed jsonlint-cli and gulp-jsonlint. Replaced with eslint-plugin-json,2017-04-28T03:38:04Z,2017-05-15T17:27:09Z,7,1175,4,8,14,1,2
+freeCodeCamp/freeCodeCamp,14626,Changed 'Define' to 'Declare' in code comment on Declare JavaScript Variables,2017-04-28T04:33:00Z,2017-04-28T06:49:50Z,1,982,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14671,Code tags don't appear in output anymore,2017-05-01T18:39:51Z,2017-05-04T13:00:41Z,1,889,1,1,1,3,4
+freeCodeCamp/freeCodeCamp,14684,Added ; after object initialization,2017-05-02T19:40:17Z,2017-05-03T16:52:35Z,1,774,1,2,2,4,4
+freeCodeCamp/freeCodeCamp,14690,"Provided Additional Information on a challenge ""Make Dead Links using the Hash Symbol""",2017-05-03T05:39:46Z,2017-05-03T17:42:32Z,3,942,1,2,1,7,4
+freeCodeCamp/freeCodeCamp,14697,Spelling mistake 'inputing' corrected to 'inputting'.,2017-05-03T15:15:28Z,2017-05-03T17:08:05Z,1,870,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,14706,Feature/add project euler problems,2017-05-03T20:40:49Z,2017-07-02T17:03:53Z,1,907,1,20541,0,3,3
+freeCodeCamp/freeCodeCamp,14748,fix/Uninitalized-variable-wording,2017-05-06T11:56:40Z,2017-05-07T02:05:33Z,1,924,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,14769,Remove duplicate from blacklisted usernames,2017-05-07T21:16:06Z,2017-05-08T14:59:01Z,1,763,1,0,1,1,3
+freeCodeCamp/freeCodeCamp,14790,"minor change to ""while loop"" description",2017-05-09T08:31:15Z,2017-05-14T17:52:52Z,1,975,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,14799,Change the text of a jQuery challenge description,2017-05-10T00:21:50Z,2017-05-30T18:29:28Z,5,1263,1,4,4,3,4
+freeCodeCamp/freeCodeCamp,14827,"Find all instances of ""property"" and rename to ""name""",2017-05-11T20:50:34Z,2017-05-14T17:42:24Z,1,878,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,14847,Add text instructing user to remove target attribute.,2017-05-12T22:05:39Z,2017-05-14T17:39:29Z,1,1007,1,1,0,0,3
+freeCodeCamp/freeCodeCamp,14857,Update es6.json Syntactical Error,2017-05-13T12:44:14Z,2017-05-14T17:19:40Z,1,953,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,14859,Fixing error in data structure description,2017-05-13T16:36:04Z,2017-05-14T17:23:17Z,1,759,1,2,2,5,4
+freeCodeCamp/freeCodeCamp,14889,Track challenge submissions count,2017-05-16T05:50:08Z,2017-06-21T22:40:38Z,1,801,1,2,1,5,3
+freeCodeCamp/freeCodeCamp,14923,minor change to test suite for nest an anchor challenge,2017-05-17T20:01:06Z,2017-05-25T02:20:45Z,1,1034,1,1,1,4,3
+freeCodeCamp/freeCodeCamp,14927,WIP: React-Redux Curriculum Migration,2017-05-18T02:47:26Z,2017-09-02T01:08:58Z,4,3550,36,754,61,7,4
+freeCodeCamp/freeCodeCamp,14958,fix challenge description typo,2017-05-19T21:55:59Z,2017-05-30T02:04:04Z,1,872,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,14961,add donate links and mousetrap,2017-05-20T03:33:13Z,2017-06-05T15:46:05Z,10,919,6,15,9,4,5
+freeCodeCamp/freeCodeCamp,14979,Updates create issue button in bug modal to direct user to forum,2017-05-21T19:09:58Z,2017-06-21T22:43:41Z,3,938,2,37,26,13,5
+freeCodeCamp/freeCodeCamp,15022,feat(views): create global challenge-description component,2017-05-24T03:03:35Z,2017-08-09T01:22:10Z,4,2262,5,76,63,17,4
+freeCodeCamp/freeCodeCamp,15058,Updated instructions and gifs from c9 + Heroku to Glitch.com,2017-05-26T11:00:32Z,2017-05-30T16:45:12Z,2,1137,1,47,95,2,4
+freeCodeCamp/freeCodeCamp,15059,Fix meaning issue,2017-05-26T13:18:10Z,2017-05-27T13:12:49Z,1,248,1,1,1,5,5
+freeCodeCamp/freeCodeCamp,15061,move example out of test,2017-05-26T16:30:03Z,2017-05-30T01:55:26Z,1,805,1,3,1,1,3
+freeCodeCamp/freeCodeCamp,15064,fix(code-uri): Chrome iframe error with XSS Auditor,2017-05-26T18:59:42Z,2017-06-10T05:55:01Z,3,519,3,15,2,6,4
+freeCodeCamp/freeCodeCamp,15083,Add tests to es6 challenge Write Higher Order Arrow Functions.,2017-05-27T19:36:13Z,2017-05-29T22:00:22Z,2,1035,1,8,8,6,5
+freeCodeCamp/freeCodeCamp,15119,Add introduction text to basic JavaScript,2017-05-30T01:51:13Z,2017-05-30T16:35:22Z,1,944,1,17,0,1,2
+freeCodeCamp/freeCodeCamp,15142,Cleanup Code Template For Word Blanks,2017-05-31T18:33:48Z,2017-06-01T07:41:28Z,2,115,1,1,2,3,5
+freeCodeCamp/freeCodeCamp,15157,fix(test) add space formatting,2017-06-01T12:58:18Z,2017-06-27T12:42:39Z,1,612,1,5,5,0,3
+freeCodeCamp/freeCodeCamp,15187,fix(frontend-projects): replace video with image thumbnail,2017-06-03T09:04:24Z,2017-07-17T23:33:41Z,1,27,4,20,25,9,4
+freeCodeCamp/freeCodeCamp,15205,fix(email): Check unquiness of email,2017-06-04T15:54:28Z,2017-09-02T01:08:59Z,17,253,4,83,23,12,3
+freeCodeCamp/freeCodeCamp,15216,chore(CI): Update Travis CI Config,2017-06-05T12:50:31Z,2017-06-10T06:09:15Z,1,57,1,0,2,0,3
+freeCodeCamp/freeCodeCamp,15228,"Fixed typos in ""how nonprofit projects work"" page",2017-06-06T04:42:59Z,2017-06-06T15:27:06Z,1,832,1,1,1,4,4
+freeCodeCamp/freeCodeCamp,15231,Modify COC Page to Update Spamming Rule,2017-06-06T11:43:16Z,2017-06-06T15:26:44Z,1,1095,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,15234,Fix/drop it wording change,2017-06-06T18:56:06Z,2017-06-07T13:24:01Z,1,733,1,2,3,6,4
+freeCodeCamp/freeCodeCamp,15257,Added semicolons to calculator.js,2017-06-08T08:11:41Z,2017-06-08T15:29:24Z,1,892,1,3,3,8,4
+freeCodeCamp/freeCodeCamp,15288,replace remaining links to GitHub wiki with forum links,2017-06-10T05:27:21Z,2017-06-11T19:51:17Z,2,826,11,164,165,0,3
+freeCodeCamp/freeCodeCamp,15297,updated sitemap and validated xml,2017-06-10T18:38:32Z,2017-06-11T23:15:34Z,1,104,1,15,15,3,3
+freeCodeCamp/freeCodeCamp,15331,Changed http to https for codepen links on challenges for data visual…,2017-06-12T18:14:20Z,2017-06-13T06:00:44Z,1,793,2,14,14,2,3
+freeCodeCamp/freeCodeCamp,15358,Remove user story from Twitch.tv project (backup/master),2017-06-13T22:43:13Z,2017-07-02T10:57:20Z,1,876,1,0,3,4,4
+freeCodeCamp/freeCodeCamp,15408,fix/Typo for challenge description,2017-06-17T00:50:32Z,2017-06-26T23:30:12Z,1,868,1,2,2,2,4
+freeCodeCamp/freeCodeCamp,15415,basic-html-and-html5.json: Clarified radio buttons,2017-06-17T19:02:52Z,2017-06-27T13:15:47Z,1,800,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,15417,"Changing ""CS"" -> ""CD""",2017-06-17T20:39:34Z,2017-06-20T02:43:52Z,1,856,1,1,1,3,5
+freeCodeCamp/freeCodeCamp,15420,Add available for hire button,2017-06-17T22:12:09Z,2017-06-21T22:30:31Z,3,972,7,75,0,3,4
+freeCodeCamp/freeCodeCamp,15435,Move the code example to the instructions in Use Hex Code for Specific Colors,2017-06-18T23:07:03Z,2017-06-27T12:51:37Z,1,898,1,2,1,0,3
+freeCodeCamp/freeCodeCamp,15484,fix/ typo for challenge description,2017-06-22T17:07:55Z,2017-06-27T12:45:14Z,1,818,1,2,2,2,4
+freeCodeCamp/freeCodeCamp,15506,turn Free Code Camp into freecodecamp,2017-06-23T17:57:24Z,2017-06-26T17:44:19Z,2,1148,14,28,30,1,3
+freeCodeCamp/freeCodeCamp,15508,update about links,2017-06-23T19:36:28Z,2017-09-26T04:03:45Z,2,942,6,21,120,8,5
+freeCodeCamp/freeCodeCamp,15515,Fix test and clarify description for reuse patterns using capture groups,2017-06-24T15:56:17Z,2017-07-01T17:50:42Z,1,799,1,2,2,3,5
+freeCodeCamp/freeCodeCamp,15539,Improve description of work with dynamic data in D3 challenge,2017-06-26T18:27:50Z,2017-09-06T01:33:00Z,1,833,1,6,4,7,6
+freeCodeCamp/freeCodeCamp,15540,Fix typo on one of the tasks,2017-06-26T18:49:05Z,2017-06-26T23:32:55Z,1,436,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,15545,fix/Clarification for code example,2017-06-26T23:31:31Z,2017-06-28T16:54:19Z,1,946,1,1,1,4,4
+freeCodeCamp/freeCodeCamp,15549,Add test case to 'Wherefore art thou',2017-06-27T15:31:37Z,2017-07-02T17:19:07Z,6,775,1,2,1,9,4
+freeCodeCamp/freeCodeCamp,15557,fix(signup): Fix loopback async issue,2017-06-28T05:38:28Z,2017-06-28T16:13:10Z,1,0,2,67,25,3,2
+freeCodeCamp/freeCodeCamp,15561,Replace 'startsWith' with checking individual characters,2017-06-28T19:43:20Z,2017-07-02T14:15:23Z,4,807,1,1,1,9,5
+freeCodeCamp/freeCodeCamp,15573,fix(server.challenges): Add missing returns getChallengeById,2017-06-30T20:49:17Z,2017-07-01T20:06:49Z,1,0,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,15574,Fix typo in test case for filteredArray,2017-06-30T23:30:05Z,2017-07-01T17:35:18Z,1,922,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,15589,feat(tools): Add commitizen and cz-freecodecamp,2017-07-03T05:35:42Z,2017-07-05T21:49:58Z,1,60,3,9542,5,2,3
+freeCodeCamp/freeCodeCamp,15608,Adds glitch weather API to take home interview weather project.,2017-07-08T13:46:44Z,2017-07-09T05:36:32Z,3,718,1,1,2,3,5
+freeCodeCamp/freeCodeCamp,15619,Add glitch API to Front-End weather project.,2017-07-10T04:20:06Z,2017-07-10T15:22:53Z,1,1075,1,2,3,1,3
+freeCodeCamp/freeCodeCamp,15627,fix test on es6 export default,2017-07-11T20:49:36Z,2017-09-04T08:16:51Z,2,944,1,4,4,2,5
+freeCodeCamp/freeCodeCamp,15628,fix(signup): signup auth,2017-07-12T01:47:05Z,2017-07-13T18:39:08Z,1,672,17,590,496,1,2
+freeCodeCamp/freeCodeCamp,15634,Add tests in Challenge Modify Array to check myArray initialization and declaration.,2017-07-12T05:49:35Z,2017-09-02T01:08:59Z,3,881,1,4,2,1,4
+freeCodeCamp/freeCodeCamp,15660,"fix(seed-update): browser console, fCC Console, functionality of both",2017-07-17T01:07:33Z,2017-10-17T17:41:46Z,10,1335,1,40,0,19,5
+freeCodeCamp/freeCodeCamp,15661,Update git it challenge to electron,2017-07-17T03:47:38Z,2017-10-17T19:21:36Z,11,1089,1,17,57,10,8
+freeCodeCamp/freeCodeCamp,15670,Move Fahrenheit Variable Below Comment Line,2017-07-20T15:45:29Z,2017-08-01T16:22:24Z,3,850,1,2,1,6,4
+freeCodeCamp/freeCodeCamp,15671,fix(styles): Change modal title color,2017-07-20T19:14:46Z,2017-07-31T20:50:15Z,2,800,1,1,0,4,3
+freeCodeCamp/freeCodeCamp,15682,internal link lesson - remove obsolete name attribute,2017-07-23T11:46:37Z,2017-07-28T15:42:06Z,25,1505,1,20,16,14,5
+freeCodeCamp/freeCodeCamp,15686,docs(contributing): Add correct commands for installing and running mongoDB,2017-07-25T06:36:00Z,2017-07-28T13:43:30Z,1,962,1,7,0,4,4
+freeCodeCamp/freeCodeCamp,15724,feat(server.certs): Remove team email,2017-08-03T08:02:00Z,2017-08-04T03:41:39Z,1,94,2,14,51,7,5
+freeCodeCamp/freeCodeCamp,15734,Correct misalignment between challenge names and hour estimates,2017-08-04T07:49:48Z,2017-08-06T02:17:14Z,3,924,1,9,0,4,5
+freeCodeCamp/freeCodeCamp,15737,Ask for help button feature,2017-08-05T18:58:43Z,2017-08-11T19:51:04Z,6,765,7,61,3,18,6
+freeCodeCamp/freeCodeCamp,15742,fix(challenges): Change switch code format for consistency,2017-08-08T04:04:35Z,2017-08-08T17:44:57Z,1,871,1,8,8,0,2
+freeCodeCamp/freeCodeCamp,15751,feat(seed): Add new Basis JS Challenge Return Undefined,2017-08-11T11:47:55Z,2017-10-20T14:28:32Z,5,904,1,45,0,17,7
+freeCodeCamp/freeCodeCamp,15758,fix(challenges): Provide accessible test description and status,2017-08-12T21:36:06Z,2017-09-04T21:22:06Z,4,1204,1,24,2,12,5
+freeCodeCamp/freeCodeCamp,15764,Add tests for having single ul and ol element,2017-08-14T16:25:06Z,2017-08-15T02:37:10Z,1,758,1,5,3,2,4
+freeCodeCamp/freeCodeCamp,15774,feat(auth): disable third party account creation,2017-08-18T19:36:00Z,2017-09-06T05:04:27Z,2,71,15,444,480,7,5
+freeCodeCamp/freeCodeCamp,15775,fix(frame): Fix fcc-test-frame on firefox,2017-08-18T20:25:37Z,2017-08-21T21:53:55Z,2,1033,2,8,1,1,3
+freeCodeCamp/freeCodeCamp,15780,fix(map): Change styling of map in night mode,2017-08-20T12:41:23Z,2017-09-11T07:53:17Z,5,1190,1,8,1,3,4
+freeCodeCamp/freeCodeCamp,15787,Fix/font consistency,2017-08-21T20:50:45Z,2017-09-03T22:38:21Z,2,1026,3,5,4,6,6
+freeCodeCamp/freeCodeCamp,15788,feat(challenges): Added more assertion for euler problem twenty two,2017-08-22T13:12:34Z,2017-09-02T03:27:58Z,2,4761,1,9,5,3,4
+freeCodeCamp/freeCodeCamp,15794,"Change ""dot operator"" to ""dot notation""",2017-08-24T00:21:15Z,2017-09-16T02:19:26Z,4,493,1,5,5,5,6
+freeCodeCamp/freeCodeCamp,15800,fix(challenges): Improve local scope challenge tests,2017-08-24T23:19:48Z,2017-12-13T06:31:08Z,1,842,1,5,5,6,5
+freeCodeCamp/freeCodeCamp,15801,fix(challenges): Revert CSS regex test,2017-08-24T23:48:01Z,2017-09-01T02:11:37Z,6,1124,3,5,5,5,5
+freeCodeCamp/freeCodeCamp,15804,refactor: Replace .com with .org,2017-08-25T22:12:04Z,2017-09-01T02:05:51Z,2,914,40,290,290,4,5
+freeCodeCamp/freeCodeCamp,15813,docs(contributing): Updates docs to reflect branch needed to commit to,2017-08-28T00:59:39Z,2017-10-14T16:52:08Z,1,43,1,8,0,2,4
+freeCodeCamp/freeCodeCamp,15817,fix(settings): Make night mode settings-toggle actually work,2017-08-29T11:46:49Z,2017-09-02T02:09:21Z,2,1069,1,2,1,6,5
+freeCodeCamp/freeCodeCamp,15833,fix(challenges): Improve description in existing object challenges,2017-09-02T04:43:46Z,2017-11-01T20:45:52Z,4,1167,1,15,11,11,6
+freeCodeCamp/freeCodeCamp,15841,fix(seed): Fix typo in the user stories,2017-09-03T22:43:06Z,2017-09-04T16:23:35Z,3,752,1,2,2,3,4
+freeCodeCamp/freeCodeCamp,15842,fix(challenge): Close <code> element with </code>,2017-09-03T23:14:00Z,2017-09-04T10:03:41Z,1,820,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,15845,feat(user): Track challenge submissions count ,2017-09-04T11:08:53Z,2017-09-08T07:19:19Z,4,1463,2,10,4,17,5
+freeCodeCamp/freeCodeCamp,15877,feat: Added 1st batch of Rosetta code problems.,2017-09-12T06:04:58Z,2017-10-06T00:26:27Z,1,820,1,3389,0,7,6
+freeCodeCamp/freeCodeCamp,15880,Fixing Solution to Telephone Validation Problem,2017-09-12T13:22:41Z,2017-09-15T08:24:12Z,4,1109,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,15886,Edit settings github button and added youtube button,2017-09-14T20:50:12Z,2017-09-17T10:14:51Z,1,874,1,3,1,1,4
+freeCodeCamp/freeCodeCamp,15891,fix(auth): update the passwordless-auth missed changes,2017-09-17T09:33:41Z,2017-10-03T21:03:00Z,1,286,3,1,104,2,3
+freeCodeCamp/freeCodeCamp,15896,fix(settings): redirect to map if not logged in,2017-09-18T02:18:08Z,2017-12-20T20:02:01Z,3,1048,2,6,1,2,3
+freeCodeCamp/freeCodeCamp,15902,fix: Fix navbar break,2017-09-19T00:08:48Z,2017-10-17T21:26:36Z,1,734,1,11,0,9,5
+freeCodeCamp/freeCodeCamp,15916,Add confirm password validation to reset view,2017-09-25T17:52:26Z,2017-09-27T06:06:22Z,2,883,1,16,2,7,4
+freeCodeCamp/freeCodeCamp,15923,Add introduction to jQuery challenge section,2017-10-02T09:06:32Z,2017-10-17T19:24:57Z,2,975,1,25,0,4,4
+freeCodeCamp/freeCodeCamp,15928,"Fix vague tests for ""Convert JSON Data to HTML"" challenge",2017-10-02T12:21:59Z,2017-10-23T19:27:47Z,1,955,1,3,1,1,3
+freeCodeCamp/freeCodeCamp,15930,fix(setup): Include MailHog setup instructions,2017-10-02T19:43:07Z,2017-10-04T05:56:15Z,2,972,2,27,0,6,4
+freeCodeCamp/freeCodeCamp,15934,fix(.github): Update pull request template,2017-10-04T04:27:19Z,2017-10-06T21:06:27Z,6,165,1,4,2,1,5
+freeCodeCamp/freeCodeCamp,15937,feat(enhancement): added community dropdown to primary navigation. ad…,2017-10-04T16:24:27Z,2017-10-08T13:48:35Z,3,905,2,119,6,10,4
+freeCodeCamp/freeCodeCamp,15940,Add conventional commits note to contributing.md,2017-10-05T21:09:46Z,2017-10-11T00:15:41Z,6,765,1,17,1,8,4
+freeCodeCamp/freeCodeCamp,15944,feat(challenge): Added mLab tutorial,2017-10-07T05:06:29Z,2017-10-23T20:04:11Z,1,1271,1,37,0,0,3
+freeCodeCamp/freeCodeCamp,15954,fix(editor): restore syntax highlighting for light theme,2017-10-13T05:59:34Z,2017-10-14T16:46:22Z,1,991,2,2,3,10,6
+freeCodeCamp/freeCodeCamp,15961,fix: Remove email button from profile view page,2017-10-14T21:43:25Z,2017-10-17T18:19:07Z,1,813,1,0,3,0,3
+freeCodeCamp/freeCodeCamp,15963,fix(update-email): Update error handling in backend and use error message from JSON in frontend,2017-10-16T03:08:02Z,2017-12-13T06:29:19Z,1,1287,2,15,10,1,3
+freeCodeCamp/freeCodeCamp,15970,feat: added the IMAGE_BASE_URL key to the sample.env file,2017-10-17T18:13:15Z,2017-10-25T05:00:32Z,3,837,1,2,0,1,5
+freeCodeCamp/freeCodeCamp,15983,fix(challenges): Clarified instructions on es6 let challenge,2017-10-18T21:01:33Z,2018-01-04T10:58:30Z,2,804,1,11,10,5,6
+freeCodeCamp/freeCodeCamp,15985,fix(user): Update email pre-confirm config,2017-10-19T06:52:13Z,2017-11-27T20:40:57Z,2,400,7,40,29,5,4
+freeCodeCamp/freeCodeCamp,15986,Add test and solution for euler problem 5,2017-10-19T08:31:42Z,2017-11-26T00:41:04Z,1,750,1,7,4,1,5
+freeCodeCamp/freeCodeCamp,15987,feat(euler-problem): Add test and solution for project euler problem 6,2017-10-19T09:07:53Z,2017-10-26T01:40:11Z,2,750,1,8,4,0,4
+freeCodeCamp/freeCodeCamp,15988,feat(euler-problem): Add test and solution for problem 7,2017-10-19T09:21:36Z,2017-10-27T02:38:50Z,1,750,1,10,4,0,3
+freeCodeCamp/freeCodeCamp,15990,feat(euler-problem): Add test and solution for problem 8,2017-10-19T09:34:34Z,2017-10-26T01:08:29Z,1,750,1,8,4,0,3
+freeCodeCamp/freeCodeCamp,15995,Updated german translations,2017-10-20T07:04:52Z,2017-11-01T14:43:37Z,9,870,2,33,33,29,6
+freeCodeCamp/freeCodeCamp,16003,fix(editor): Unindent line when nothing is selected,2017-10-21T12:16:40Z,2017-10-23T19:52:44Z,1,895,1,1,5,1,4
+freeCodeCamp/freeCodeCamp,16012,Update CONTRIBUTING.md,2017-10-23T14:56:58Z,2017-10-23T18:30:42Z,2,754,1,4,1,4,5
+freeCodeCamp/freeCodeCamp,16013,Update CONTRIBUTING.md,2017-10-23T15:37:01Z,2017-10-23T18:28:33Z,1,750,1,16,16,3,5
+freeCodeCamp/freeCodeCamp,16024,fix(styles): Add z-index to lint markers in code-mirror,2017-10-24T16:10:00Z,2017-10-24T17:26:32Z,1,829,1,4,0,0,3
+freeCodeCamp/freeCodeCamp,16029,feat(euler-problem): Add Test and solution for euler problem 9,2017-10-25T03:14:42Z,2018-01-12T02:22:05Z,2,750,1,11,8,9,9
+freeCodeCamp/freeCodeCamp,16033,fix: Navbar breaks at 768px to 786px,2017-10-25T23:25:33Z,2017-11-02T19:45:40Z,1,916,2,18,2,4,5
+freeCodeCamp/freeCodeCamp,16036,feat(pt-br-translation): claim-your-front-end-libraries-certificate,2017-10-26T04:13:31Z,2017-10-27T04:21:57Z,1,862,1,29,0,6,5
+freeCodeCamp/freeCodeCamp,16038,fix(map): Arrow labels don't change direction on collapse,2017-10-27T01:01:11Z,2017-12-09T07:48:37Z,1,833,2,4615,1176,0,3
+freeCodeCamp/freeCodeCamp,16043,Update make-a-person challenge to support ES6 classes,2017-10-27T23:26:15Z,2017-12-16T05:52:00Z,1,1234,3,26,14,6,4
+freeCodeCamp/freeCodeCamp,16055,fix: add 2nd regex check for bracket notation,2017-10-29T20:41:21Z,2017-12-09T07:10:46Z,1,204,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,16068,feat(challenges): Adds do...while challenge to basic JS challenges,2017-10-31T11:51:37Z,2017-12-15T16:14:23Z,2,872,1,48,0,7,5
+freeCodeCamp/freeCodeCamp,16079,feat(seed): Added more assertions for project euler,2017-11-06T01:31:42Z,2018-01-05T13:20:04Z,2,22961,1,11,5,9,8
+freeCodeCamp/freeCodeCamp,16110,feat(UI): Add new congratulations messages and remove some,2017-11-21T21:01:20Z,2017-11-25T19:48:59Z,1,745,1,21,3,3,2
+freeCodeCamp/freeCodeCamp,16120,fix(landing): Update beta landing page,2017-11-25T22:42:11Z,2017-11-27T05:54:50Z,1,335,1,15,47,0,2
+freeCodeCamp/freeCodeCamp,16132,Change Default Heatmap Legend Text on User Account Page,2017-11-29T11:42:05Z,2017-11-29T16:53:22Z,1,1012,1,5,0,2,2
+freeCodeCamp/freeCodeCamp,16138,Migrate React-Redux Curriculum into FCC Codebase,2017-12-02T06:37:52Z,2017-12-15T22:15:35Z,1,4196,11,5183,205,114,7
+freeCodeCamp/freeCodeCamp,16139,Fix(challenges): Change regular expressions match characters that occur zero or more times,2017-12-02T15:22:52Z,2017-12-09T06:45:34Z,1,951,1,10,13,1,3
+freeCodeCamp/freeCodeCamp,16143,fix(Router): Add lang to payload if payload doesn't exist,2017-12-03T21:23:17Z,2017-12-05T06:18:52Z,1,13,6,79,60,4,3
+freeCodeCamp/freeCodeCamp,16152,fix: Update email action should hit API,2017-12-06T17:15:15Z,2017-12-06T18:43:33Z,2,41,6,15,9,3,3
+freeCodeCamp/freeCodeCamp,16162,fix(seed): Add pass through details,2017-12-08T21:53:46Z,2017-12-09T06:10:40Z,1,845,1,1,0,0,3
+freeCodeCamp/freeCodeCamp,16169,fix(challenges): Change misleading variable name in example,2017-12-09T14:27:36Z,2017-12-09T15:34:02Z,2,919,1,1,1,4,4
+freeCodeCamp/freeCodeCamp,16170,fix(nav): Apply correct classes and style to nav profile,2017-12-09T22:27:53Z,2017-12-10T17:23:04Z,1,954,4,14,9,13,5
+freeCodeCamp/freeCodeCamp,16171,fix(seed): Differentiation between sass and scss,2017-12-10T00:56:17Z,2017-12-10T06:25:25Z,1,922,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,16172,fix bookclub p2p_chat pinterest_clone glitch apps and links,2017-12-10T14:29:25Z,2017-12-10T19:01:56Z,1,750,1,6,8,0,3
+freeCodeCamp/freeCodeCamp,16173,fix(challenges): Fix 'only subtract one number' test,2017-12-10T15:44:42Z,2017-12-11T20:37:40Z,2,1060,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,16176,Fix(UX): avail-to-hire button labels,2017-12-10T22:09:08Z,2017-12-11T04:15:58Z,1,909,1,1,1,6,4
+freeCodeCamp/freeCodeCamp,16180,fix(challenges): Add integrity and crossorigin attributes,2017-12-11T16:14:38Z,2017-12-11T19:15:25Z,1,837,1,6,6,4,4
+freeCodeCamp/freeCodeCamp,16185,feat(cert): Certificates,2017-12-12T02:20:01Z,2017-12-21T01:15:24Z,2,13,29,603,253,7,3
+freeCodeCamp/freeCodeCamp,16186,feat(user-revampification): revamped settings and profiles,2017-12-12T21:48:22Z,2018-01-05T17:00:41Z,10,13,30,2210,436,9,6
+freeCodeCamp/freeCodeCamp,16189,Feat: anon navbar,2017-12-14T01:39:57Z,2017-12-15T21:53:33Z,3,13,21,78,121,3,4
+freeCodeCamp/freeCodeCamp,16197,add tip for alt attribute for the add-images-to-your-website challenge,2017-12-15T13:55:52Z,2017-12-21T16:35:03Z,2,824,1,2,1,3,4
+freeCodeCamp/freeCodeCamp,16199,feat(seed): Move required projects into new algorithm projects,2017-12-15T21:24:09Z,2017-12-20T19:09:32Z,1,750,4,400,526,1,3
+freeCodeCamp/freeCodeCamp,16201,test(challenges): Test ES6 challenge,2017-12-16T00:01:32Z,2017-12-21T20:38:29Z,3,922,1,144,130,10,5
+freeCodeCamp/freeCodeCamp,16202,feat(navbar): Adds vertical line between normal navigation and p,2017-12-16T00:08:43Z,2017-12-16T14:41:04Z,4,843,3,15,2,2,3
+freeCodeCamp/freeCodeCamp,16205,fix(challenges): Implement Help Dialog,2017-12-16T14:10:49Z,2017-12-24T09:38:57Z,16,1482,9,284,109,15,6
+freeCodeCamp/freeCodeCamp,16215,Fix: storage files use challenge files as source,2017-12-18T22:50:55Z,2017-12-19T17:41:09Z,1,13,2,5,5,2,3
+freeCodeCamp/freeCodeCamp,16217,fix(challenges): put finishing touches on react & redux challenges,2017-12-19T06:05:14Z,2017-12-21T17:22:23Z,6,2216,3,36,43,5,4
+freeCodeCamp/freeCodeCamp,16218,fix(style): Update search bar and apply styles,2017-12-19T14:20:17Z,2017-12-20T16:48:17Z,2,886,4,24,5,7,5
+freeCodeCamp/freeCodeCamp,16221,fix(Challenges/frame.js): Make iframe href base relative to /,2017-12-19T21:00:17Z,2017-12-23T09:53:12Z,1,111,1,8,0,1,2
+freeCodeCamp/freeCodeCamp,16223,fix(seed): Update Show the Local Weather challenge,2017-12-20T00:10:04Z,2017-12-20T19:49:42Z,1,839,1,2,1,0,3
+freeCodeCamp/freeCodeCamp,16225,docs: Update to the contributing guidelines,2017-12-20T10:58:39Z,2017-12-21T16:33:17Z,8,910,1,13,2,2,7
+freeCodeCamp/freeCodeCamp,16251,feat(profile): Adds certificates to static profile path,2017-12-21T18:48:49Z,2017-12-22T11:47:16Z,3,877,1,15,0,13,6
+freeCodeCamp/freeCodeCamp,16263,fix(common): Fix for loopProtect undefined error,2017-12-22T11:07:53Z,2017-12-22T19:51:22Z,3,1159,1,15,1,4,4
+freeCodeCamp/freeCodeCamp,16313,Resolve conflicts in ToolPanel,2017-12-24T09:37:33Z,2017-12-30T00:09:22Z,1,78,9,292,126,2,4
+freeCodeCamp/freeCodeCamp,16320,style(editor): Change cursor color in editor in dark mode,2017-12-24T21:56:01Z,2018-01-08T15:36:15Z,3,894,1,3,0,11,8
+freeCodeCamp/freeCodeCamp,16324,fix(seed): Space between function name and parameters was not,2017-12-25T18:41:36Z,2018-01-15T16:38:37Z,2,1103,1,1,1,6,5
+freeCodeCamp/freeCodeCamp,16330,Fix: email signup logic,2017-12-27T00:09:47Z,2018-01-02T18:08:02Z,3,286,23,820,650,27,3
+freeCodeCamp/freeCodeCamp,16340,fix(challenges): Fixed import/export issues in challenges,2017-12-27T17:04:09Z,2018-01-01T20:45:29Z,2,1288,1,67,39,2,3
+freeCodeCamp/freeCodeCamp,16341,fix(seed): Eliminate regex bug for async assertions,2017-12-27T17:04:13Z,2018-01-16T05:55:21Z,2,1143,1,2,2,3,5
+freeCodeCamp/freeCodeCamp,16343,fix(seed): Fix quotient should only be assigned once test,2017-12-27T20:30:15Z,2018-01-02T18:26:14Z,1,838,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,16346,"Small changes to spelling corrections, grammar & flow.",2017-12-27T21:44:54Z,2017-12-28T06:20:09Z,1,771,2,6,6,3,4
+freeCodeCamp/freeCodeCamp,16347,docs(contributing): Tweak CONTRIBUTING.md,2017-12-27T22:26:45Z,2017-12-28T12:39:25Z,8,1460,1,68,87,3,4
+freeCodeCamp/freeCodeCamp,16349,fix(seed): Best practice for radio button,2017-12-28T00:52:54Z,2017-12-29T18:57:39Z,3,768,1,2,1,8,4
+freeCodeCamp/freeCodeCamp,16364,fix: Make semicolon optional,2017-12-29T01:25:58Z,2017-12-29T14:56:53Z,1,886,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,16365,refactor: Basic Algorithm Scripting,2017-12-29T05:23:54Z,2018-01-16T06:20:32Z,2,1954,1,25,25,4,5
+freeCodeCamp/freeCodeCamp,16366,docs(CONTRIBUTING.md): Add Linux MailHog install commands,2017-12-29T07:48:11Z,2017-12-29T11:37:42Z,1,957,1,34,5,3,4
+freeCodeCamp/freeCodeCamp,16370,fix(rechallenge): Remove JS files from build pipeline when JS is disabled,2017-12-29T17:37:28Z,2018-02-26T20:10:12Z,4,750,6,55,17,18,3
+freeCodeCamp/freeCodeCamp,16371,JS is disabled alert,2017-12-29T20:33:17Z,2018-01-01T00:09:20Z,1,866,1,7,2,3,3
+freeCodeCamp/freeCodeCamp,16374,chore(bundle): Reduce react-bootstrap footprint by half,2017-12-30T10:55:46Z,2018-01-09T04:24:31Z,5,121,5,251,3,6,4
+freeCodeCamp/freeCodeCamp,16391,style(lesson-section): Add 14px Paddings ,2018-01-01T20:34:38Z,2018-01-02T22:30:41Z,2,813,1,4,0,8,5
+freeCodeCamp/freeCodeCamp,16394,Fixed panes resizing issue when Map pane is hidden,2018-01-01T23:12:38Z,2018-01-06T05:29:48Z,5,1173,1,4,2,9,3
+freeCodeCamp/freeCodeCamp,16398,style(code-editor): Matching-braces Style Changed,2018-01-02T08:17:49Z,2018-01-12T15:33:30Z,2,946,1,6,1,6,5
+freeCodeCamp/freeCodeCamp,16404,fix(style): changed colors for dark-mode,2018-01-03T01:56:21Z,2018-01-04T06:39:20Z,4,794,4,32,5,3,5
+freeCodeCamp/freeCodeCamp,16408,feat: Add flash messages,2018-01-04T17:19:11Z,2018-01-19T05:23:31Z,7,1042,74,2132,1105,35,6
+freeCodeCamp/freeCodeCamp,16409,fix(sign-in): Adds a feedback on sign-in request,2018-01-04T17:52:35Z,2018-01-06T05:39:34Z,2,13,1,29,25,4,2
+freeCodeCamp/freeCodeCamp,16412,feat(react): Reactification of Settings and Profile Cont...,2018-01-05T17:00:00Z,2018-02-15T20:35:39Z,10,1176,129,6056,2663,20,8
+freeCodeCamp/freeCodeCamp,16421,fix(challenges): Add tests and solution for Euler problem 5,2018-01-06T10:41:21Z,2018-01-15T06:06:42Z,1,1121,1,6,4,1,2
+freeCodeCamp/freeCodeCamp,16428,Feat:production chores,2018-01-06T19:25:05Z,2018-01-07T05:48:27Z,1,48,5,82,84,2,2
+freeCodeCamp/freeCodeCamp,16429,feat(challenges): Add default project image when none exists,2018-01-06T21:16:28Z,2018-01-10T08:27:11Z,7,963,1,2,2,7,4
+freeCodeCamp/freeCodeCamp,16431,fix(challenges): Add tests and solution for Euler Problem 10,2018-01-07T05:21:42Z,2018-01-15T06:07:57Z,1,1802,1,8,5,1,3
+freeCodeCamp/freeCodeCamp,16432,[WIP] docs: improve and simplify documentation,2018-01-07T06:17:43Z,2018-01-20T06:19:14Z,2,27,9,645,638,6,5
+freeCodeCamp/freeCodeCamp,16437,feat(challenges): Add Project Euler problem 22,2018-01-07T10:48:47Z,2018-01-17T06:36:23Z,1,1576,1,33,0,1,3
+freeCodeCamp/freeCodeCamp,16441,fix(seed/challenges): Correct typo in a JavaScript challenge,2018-01-07T21:05:15Z,2018-01-08T05:23:56Z,3,1128,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,16442,Feature/link to guide,2018-01-08T06:20:37Z,2018-01-16T20:52:03Z,5,1191,10,68,24,14,4
+freeCodeCamp/freeCodeCamp,16443,chore(seed): Refactoring to use logger,2018-01-08T06:43:22Z,2018-01-08T13:08:30Z,1,262,1,38,33,2,3
+freeCodeCamp/freeCodeCamp,16444,fix(challenges): improved instructions for anchor element challenge,2018-01-08T09:47:56Z,2018-01-11T20:55:53Z,2,1136,1,8,2,5,4
+freeCodeCamp/freeCodeCamp,16447,fix(app): Normalize flash type,2018-01-08T22:39:39Z,2018-01-10T23:15:26Z,2,1898,7,20,20,4,3
+freeCodeCamp/freeCodeCamp,16449,fix(tests): Improve test output,2018-01-09T09:04:01Z,2018-02-14T11:50:28Z,3,1080,3,450,467,8,5
+freeCodeCamp/freeCodeCamp,16451,fix(seed/challenges): Renamed em tag challenge,2018-01-09T17:59:01Z,2018-01-24T18:49:58Z,2,874,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,16459,feat(panes/nav): persist pane state; rename side panel to lesson,2018-01-10T04:54:45Z,2018-01-16T17:55:34Z,12,1618,4,22,23,11,3
+freeCodeCamp/freeCodeCamp,16464,fix(auth): sign-up/sign-in flow move github to deprecated page,2018-01-10T19:58:27Z,2018-01-13T16:54:09Z,5,225,2,15,5,5,4
+freeCodeCamp/freeCodeCamp,16467,perf(navbar): Add rel=noopener to navbar anchor tags,2018-01-10T21:13:51Z,2018-01-17T18:54:29Z,1,1141,1,6,6,0,3
+freeCodeCamp/freeCodeCamp,16472,fix(seed): Change variable name from array to args,2018-01-12T00:54:48Z,2018-01-17T19:15:19Z,1,882,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,16476,fix(seed/challenges): Update test code for escaping quotes in literal strings,2018-01-12T03:04:48Z,2018-01-18T17:20:48Z,1,918,1,3,5,2,4
+freeCodeCamp/freeCodeCamp,16479,fix(map): Removed NA text for challenge without time estimat,2018-01-12T11:13:52Z,2018-01-24T02:59:31Z,2,724,3,5,3,9,7
+freeCodeCamp/freeCodeCamp,16480,fix(challenges): Add Project Euler problem 11 solution and tests,2018-01-12T13:01:15Z,2018-01-18T17:33:18Z,1,2185,1,49,15,1,3
+freeCodeCamp/freeCodeCamp,16481,fix(map): Removed required sign from challenges,2018-01-12T14:59:11Z,2018-01-16T17:03:26Z,2,756,2,2,16,2,4
+freeCodeCamp/freeCodeCamp,16482,fix(seed): fixed typo in question 6 code,2018-01-12T21:36:41Z,2018-01-18T06:42:51Z,1,861,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,16485,fix(seed): added example breakdown to give more clarity to question,2018-01-12T22:42:19Z,2018-01-18T06:46:51Z,1,820,1,8,3,0,3
+freeCodeCamp/freeCodeCamp,16488,fix(seed): typo in Responsive Design with Bootstrap,2018-01-13T01:42:15Z,2018-01-20T06:04:45Z,2,1030,2,1,59,4,4
+freeCodeCamp/freeCodeCamp,16490,fix(seed): fixed 'use-strict' warnings and test cases to include both…,2018-01-13T08:28:02Z,2018-02-16T05:11:16Z,2,1077,1,29,9,6,5
+freeCodeCamp/freeCodeCamp,16491,style(challenges): Add spacing between test-suite rows,2018-01-13T08:35:09Z,2018-01-14T18:47:35Z,1,842,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,16493,fix(challenges): Add key prop jsx element to diff between quiz questions,2018-01-14T18:47:57Z,2018-01-31T07:30:57Z,4,986,1,6,2,2,4
+freeCodeCamp/freeCodeCamp,16494,fix(commit): Fix certificate text overflow,2018-01-15T03:30:06Z,2018-01-18T06:53:14Z,1,1046,2,5,1,0,3
+freeCodeCamp/freeCodeCamp,16495,fix: Update sign up flow copy,2018-01-15T06:36:40Z,2018-01-18T03:08:17Z,1,0,1,8,6,2,3
+freeCodeCamp/freeCodeCamp,16496,fix(challenges): Add logic to toggle editor theme,2018-01-15T06:51:19Z,2018-01-17T19:24:21Z,2,1253,6,34,32,3,3
+freeCodeCamp/freeCodeCamp,16500,fix(seed): Change require pixel,2018-01-15T17:32:08Z,2018-01-18T18:33:58Z,1,918,1,3,3,1,3
+freeCodeCamp/freeCodeCamp,16501,fix(settings): Changed modal footer background color for night mode,2018-01-15T17:41:54Z,2018-01-30T23:42:11Z,2,931,1,4,0,16,4
+freeCodeCamp/freeCodeCamp,16502,fix(challenges): Changed background color of preview panel for night mode,2018-01-15T18:14:22Z,2018-01-18T19:13:19Z,1,891,1,3,0,2,3
+freeCodeCamp/freeCodeCamp,16507,fix(copy): Edited challenge completed copy,2018-01-15T19:46:19Z,2018-01-16T05:44:32Z,1,750,1,2,3,0,2
+freeCodeCamp/freeCodeCamp,16508,remove reference to starcraft from congratulatory messages,2018-01-15T19:50:01Z,2018-01-16T05:45:04Z,1,31,1,0,2,1,2
+freeCodeCamp/freeCodeCamp,16511,docs(seed): Document how to edit and test challenges,2018-01-16T16:05:31Z,2018-01-20T16:30:21Z,8,1280,3,110,3,17,4
+freeCodeCamp/freeCodeCamp,16515,fix(seed): Typos in testing code,2018-01-16T19:48:45Z,2018-01-18T04:10:51Z,3,931,1,5,5,5,4
+freeCodeCamp/freeCodeCamp,16518,Fix(encode-decode): use lodash replace,2018-01-17T04:05:24Z,2018-01-17T18:48:45Z,1,78,3,96,49,0,2
+freeCodeCamp/freeCodeCamp,16526,fix(error-reporter): Only report uncaught errors,2018-01-18T20:36:47Z,2018-01-19T05:33:57Z,1,93,1,10,2,0,2
+freeCodeCamp/freeCodeCamp,16531,fix(map): Expand map when challenge opened,2018-01-19T07:16:07Z,2018-03-05T04:39:58Z,28,999,9,304,14,10,4
+freeCodeCamp/freeCodeCamp,16532,fix(seed): Fix invalid MongoDB ObjectId in array seed challenge,2018-01-19T07:26:30Z,2018-01-19T13:56:03Z,1,882,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,16535,fix(seed): Fix invalid MongoDB ObjectID in jquery seed challenge,2018-01-19T11:21:18Z,2018-01-19T13:48:01Z,1,869,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,16536,fix(visual): Fix test output icon alignment,2018-01-19T12:07:54Z,2018-01-21T16:49:07Z,1,998,1,1,0,3,4
+freeCodeCamp/freeCodeCamp,16539,fix(Flash): Express flash format is [...String],2018-01-19T18:17:07Z,2018-01-20T16:29:34Z,1,0,2,1,2,1,3
+freeCodeCamp/freeCodeCamp,16544,feat: unpack and repack challenges,2018-01-19T22:14:43Z,2018-04-03T14:28:11Z,6,484,67,4395,3048,65,6
+freeCodeCamp/freeCodeCamp,16545,fix(challenges): Add tests for Project Euler problem 12,2018-01-20T12:14:26Z,2018-01-28T07:52:50Z,1,1584,1,13,5,1,3
+freeCodeCamp/freeCodeCamp,16546,fix(challenge): Remove the note about Safari in the HTML5 require,2018-01-20T15:52:02Z,2018-01-21T06:51:14Z,1,768,1,1,2,2,3
+freeCodeCamp/freeCodeCamp,16547,Turn Bootstrap relative URL into https URL,2018-01-20T19:51:13Z,2018-01-21T06:35:59Z,1,750,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16551,fix(ui): Add logic to toggle console theme,2018-01-21T13:31:23Z,2018-01-25T20:13:09Z,5,1071,2,17,6,20,5
+freeCodeCamp/freeCodeCamp,16556,fix(challenges): Change invalid ObjectId,2018-01-22T18:17:17Z,2018-01-24T16:24:36Z,2,792,1,1,1,6,4
+freeCodeCamp/freeCodeCamp,16557,fix(AuthToken): Namespace observable methods,2018-01-22T20:14:18Z,2018-01-23T16:55:23Z,1,231,2,4,4,0,2
+freeCodeCamp/freeCodeCamp,16558,fix(challenges): Fix test on react challenge that was always passing,2018-01-22T22:26:32Z,2018-01-24T01:16:58Z,2,908,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,16570,"fix(modern-challenges): Default nav link to ""Editor"" if only one editor",2018-01-25T05:01:12Z,2018-01-30T03:19:44Z,12,908,1,28,12,6,5
+freeCodeCamp/freeCodeCamp,16572,fix(seed): Expand description of media query challenge,2018-01-25T11:32:00Z,2018-01-30T05:30:11Z,1,942,1,2,0,1,3
+freeCodeCamp/freeCodeCamp,16573,fix(URLs): Changed protocol relative URLs to HTTPS URLs,2018-01-25T14:54:17Z,2018-01-25T20:08:12Z,1,1048,19,239,239,2,5
+freeCodeCamp/freeCodeCamp,16574,fix(user): default timezone from EST to moment.tz.guess(),2018-01-25T18:14:16Z,2018-01-26T06:15:18Z,7,797,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16575,fix(seed): Add a test case for closing tag for the nav tag,2018-01-25T19:59:10Z,2018-01-30T05:39:41Z,1,1017,1,14,5,5,3
+freeCodeCamp/freeCodeCamp,16577,chore(bundle): Bundle only one RX,2018-01-26T11:09:14Z,2018-01-29T17:47:53Z,6,18,2,208,1310,3,4
+freeCodeCamp/freeCodeCamp,16578,fix(seed): Squashed a bug from Disable an element using Jquery,2018-01-26T13:27:45Z,2018-02-06T15:53:08Z,1,849,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,16579,Validate ObjectId on test,2018-01-26T13:29:54Z,2018-01-29T16:11:28Z,1,13,2,625,601,2,5
+freeCodeCamp/freeCodeCamp,16580,feat(tool-panel): Make buttons look and act like current productiion,2018-01-26T14:52:45Z,2018-01-29T17:26:04Z,1,750,9,68,276,1,4
+freeCodeCamp/freeCodeCamp,16585,fix(seed): Add missing bindings outside comment lines,2018-01-27T06:50:02Z,2018-02-06T04:18:11Z,2,861,1,9,2,8,4
+freeCodeCamp/freeCodeCamp,16586,fix(seed): Change Line Number & Typo,2018-01-27T14:35:28Z,2018-01-28T12:07:38Z,1,869,1,3,3,3,4
+freeCodeCamp/freeCodeCamp,16594,fixed an unclosed <code> tag that was triggering invariant element id error,2018-01-29T15:01:29Z,2018-02-06T10:18:12Z,1,1062,1,1,1,3,5
+freeCodeCamp/freeCodeCamp,16595,fix(seed): React Challenges showing unwanted brackets,2018-01-29T15:40:16Z,2018-02-06T16:01:34Z,1,897,1,2,1,1,3
+freeCodeCamp/freeCodeCamp,16603,Fix(settings): normalize responses,2018-01-30T03:09:44Z,2018-02-02T20:13:36Z,1,0,16,253,152,3,3
+freeCodeCamp/freeCodeCamp,16605,fix(challenges): Fix typos in some project Euler problems ,2018-01-30T06:02:47Z,2018-01-30T20:07:20Z,1,857,1,4,4,1,2
+freeCodeCamp/freeCodeCamp,16606,fix(seed): Fix typo in test of Mongoose dependency,2018-01-30T08:49:56Z,2018-01-30T16:50:49Z,1,837,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16608,fix(seed): English error in Basic HTML and HTML5 challenge,2018-01-30T15:31:47Z,2018-01-30T20:05:11Z,1,817,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16611,fix(seed): Fix Jquery Passing to next step without error,2018-01-31T08:43:24Z,2018-02-15T10:52:48Z,1,844,52,2392,914,7,23
+freeCodeCamp/freeCodeCamp,16612,fix(Settings): Fix hover animation of night mode modal button,2018-01-31T13:27:57Z,2018-02-02T22:05:16Z,2,891,1,5,0,7,4
+freeCodeCamp/freeCodeCamp,16615,fix(challenges): Add top-margin & change comment color of challenges-log,2018-01-31T15:33:42Z,2018-02-02T19:21:01Z,2,948,1,1,0,8,4
+freeCodeCamp/freeCodeCamp,16617,fix(seed): Add tests for Project Euler problem 13,2018-02-01T07:20:37Z,2018-02-14T10:55:22Z,7,1177,1,122,5,5,5
+freeCodeCamp/freeCodeCamp,16624,fix(challenges): Add more examples of text-align CSS property,2018-02-02T21:12:52Z,2018-02-07T19:07:18Z,1,939,1,4,1,0,3
+freeCodeCamp/freeCodeCamp,16625,fix(map): Fix vertical scrollbar not showing up in code editor,2018-02-03T03:02:05Z,2018-02-06T10:10:28Z,1,1106,1,1,2,2,4
+freeCodeCamp/freeCodeCamp,16626,"fix(seed): Add tests, solution, and image for Project Euler problem 15",2018-02-03T06:40:27Z,2018-02-15T09:02:17Z,3,1227,1,7,4,3,5
+freeCodeCamp/freeCodeCamp,16627,fix(seed): Make test accept all correct answers,2018-02-03T11:28:26Z,2018-02-08T05:47:32Z,1,941,1,3,1,3,3
+freeCodeCamp/freeCodeCamp,16631,"fix(seed): Fix solution doesn't pass for challenge ""React: Use Advanced JavaScript in React Render Method""",2018-02-04T05:50:03Z,2018-02-08T05:53:21Z,1,787,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,16638,fix/16473 Select div by element instead of by class to test background-color,2018-02-04T19:08:47Z,2018-02-08T06:02:58Z,1,817,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,16639,"test(seed): Tests now send string values into input, not number",2018-02-04T19:20:28Z,2018-02-08T06:06:43Z,1,1695,1,3,3,0,3
+freeCodeCamp/freeCodeCamp,16641,"fix(seed): Add tests, solution, and edit description for Project Euler 16",2018-02-05T08:26:00Z,2018-02-15T09:06:42Z,3,1427,1,8,6,4,5
+freeCodeCamp/freeCodeCamp,16652,feat(seed): Added description of ES6's Strict Mode to ES6 lesson,2018-02-05T22:56:52Z,2018-02-08T12:46:19Z,2,1763,1,2,0,3,4
+freeCodeCamp/freeCodeCamp,16653,fix(seed): strengthened buggy regex in an Applied Accessibility test,2018-02-06T00:50:50Z,2018-02-08T06:18:30Z,1,1579,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16655,fix(seed): Make algorithm projects appear after intermediate algorithms,2018-02-06T05:28:16Z,2018-02-10T09:21:00Z,2,13,7,7,7,4,4
+freeCodeCamp/freeCodeCamp,16662,fix(seed): Fix Modify Array challenge description typo,2018-02-07T22:14:05Z,2018-02-08T06:19:52Z,1,1139,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,16663,fix(UserCredentials): Move credential update to an else statement,2018-02-07T23:01:40Z,2018-02-08T06:22:10Z,1,64,1,11,10,0,2
+freeCodeCamp/freeCodeCamp,16664, feat(settings): Expand Settings page functionality ,2018-02-08T01:14:29Z,2018-02-16T23:18:55Z,3,221,78,4377,1706,7,4
+freeCodeCamp/freeCodeCamp,16667,docs(common steps): Clarify PR instructions,2018-02-08T14:31:25Z,2018-02-10T16:42:38Z,1,1203,2,4,1,5,4
+freeCodeCamp/freeCodeCamp,16670,Specify profile fields for LinkedIn provider,2018-02-09T02:23:57Z,2018-02-14T22:24:17Z,2,741,947,168361,36739,3,49
+freeCodeCamp/freeCodeCamp,16678,fix(seed): Add length check for component find,2018-02-10T15:43:56Z,2018-02-14T17:50:38Z,2,738,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16690,fix(challenges): Fix animation-timing-function default from linear to ease,2018-02-11T20:40:27Z,2018-02-14T11:19:32Z,1,1045,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,16691,update test for media query challenge,2018-02-12T01:08:51Z,2018-02-14T11:21:15Z,1,1095,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16693,"fix(seed): Format description, add tests and solution for Project Euler 18",2018-02-12T07:29:36Z,2018-03-06T10:52:23Z,3,1344,1,15,22,5,5
+freeCodeCamp/freeCodeCamp,16694,fix(seed): Add tests and solution for Project Euler 19,2018-02-12T07:32:20Z,2018-02-15T09:11:54Z,1,1185,1,6,4,2,3
+freeCodeCamp/freeCodeCamp,16697,Language update suggestions for basic HTML curriculum,2018-02-12T09:28:33Z,2018-02-12T12:30:43Z,2,997,1,7,7,4,4
+freeCodeCamp/freeCodeCamp,16699,Fix/backend completion,2018-02-12T12:45:21Z,2018-02-16T15:24:38Z,3,750,4,21,12,4,4
+freeCodeCamp/freeCodeCamp,16700,"fix(seed): Corrected test for ""Create a React Component from Scratch""",2018-02-12T18:11:33Z,2018-02-14T11:24:26Z,3,768,1,1,1,3,3
+freeCodeCamp/freeCodeCamp,16701,fix(search): Allow csp to always trust search.freecodecamp.org,2018-02-12T22:39:44Z,2018-02-16T00:22:08Z,2,27,1,3,3,0,4
+freeCodeCamp/freeCodeCamp,16702,fix(typo): Fix defaultState Typo,2018-02-13T00:17:22Z,2018-02-13T14:48:30Z,1,28,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,16704,fix(seed): Add default values to incompleted declarations,2018-02-13T05:02:19Z,2018-02-13T11:45:13Z,2,797,3,13,15,3,4
+freeCodeCamp/freeCodeCamp,16708,fix(seed): Typo in test message,2018-02-13T13:41:04Z,2018-02-13T14:43:42Z,1,851,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,16709,feat(challenges): Added feedback for non-front-facing glitch url,2018-02-13T17:08:01Z,2018-02-15T01:03:20Z,6,1206,2,20,4,9,6
+freeCodeCamp/freeCodeCamp,16711,fix(seed): Removed inconsistent and unnecessary ReactDOM.render,2018-02-13T22:19:26Z,2018-02-14T16:55:06Z,1,1395,1,2,3,3,4
+freeCodeCamp/freeCodeCamp,16713,Fix/language update suggestions to basic css basic html,2018-02-14T10:36:33Z,2018-02-14T16:24:22Z,2,1133,2,78,76,5,4
+freeCodeCamp/freeCodeCamp,16715,"fix(server,secrets): Specify profile field for LinkedIn provider.",2018-02-14T22:21:50Z,2018-03-06T03:55:44Z,1,793,2,3,0,8,3
+freeCodeCamp/freeCodeCamp,16718,fix(seed): Fixed issue with jquery test for issue number 16611,2018-02-15T11:03:26Z,2018-02-26T12:37:43Z,3,861,1,2,1,3,4
+freeCodeCamp/freeCodeCamp,16720,Fix/invalid challenge url,2018-02-15T20:00:40Z,2018-03-06T18:15:59Z,9,925,4,18,5,11,4
+freeCodeCamp/freeCodeCamp,16728,fix(seed): Add Img to CSS Relative Positioning Challenge,2018-02-16T02:05:41Z,2018-03-07T03:38:30Z,2,834,1,2,1,2,4
+freeCodeCamp/freeCodeCamp,16729,fix: language update suggestions for basic-css and basic-html,2018-02-16T08:08:07Z,2018-02-16T11:11:24Z,1,951,2,13,11,1,3
+freeCodeCamp/freeCodeCamp,16736,fix(challenges): Word wrap fix for Chrome,2018-02-17T17:20:15Z,2018-02-24T06:47:33Z,1,778,1,1,0,3,4
+freeCodeCamp/freeCodeCamp,16737,fix(challenges): Hide second scrollbar in challenge preview pane,2018-02-17T21:23:52Z,2018-02-26T12:44:42Z,1,1119,2,3,2,11,6
+freeCodeCamp/freeCodeCamp,16740,fix(mongodb): update mongodb driver,2018-02-18T14:11:01Z,2018-02-26T17:18:07Z,1,232,3,881,29,5,4
+freeCodeCamp/freeCodeCamp,16742,feat(challenges): Call updateSuccessMessage action,2018-02-18T22:30:53Z,2018-02-20T11:59:01Z,3,1292,1,11,7,7,5
+freeCodeCamp/freeCodeCamp,16743,feat(Profile): Reactify profile page,2018-02-18T23:27:12Z,2018-02-19T20:32:15Z,1,101,41,1368,242,4,4
+freeCodeCamp/freeCodeCamp,16744,fix(seed): Fixed check on U tag to Underline tests,2018-02-19T01:27:38Z,2018-02-24T06:58:45Z,1,888,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,16749,fix(seed): Add legacy project back in and update id,2018-02-19T20:06:26Z,2018-02-24T06:26:16Z,1,768,6,61,85,5,3
+freeCodeCamp/freeCodeCamp,16752,fix(seed): Fixed issue with approximately always failing,2018-02-20T05:49:34Z,2018-03-23T21:13:29Z,1,864,1,4,4,10,7
+freeCodeCamp/freeCodeCamp,16757,Fix/danger zone warning,2018-02-20T20:12:21Z,2018-02-21T16:20:10Z,2,824,1,1,2,5,4
+freeCodeCamp/freeCodeCamp,16764,fix(seed): Fixed issue Change the Color of Text challenge does not load,2018-02-22T04:18:11Z,2018-02-22T09:47:34Z,1,823,1,1,1,1,4
+freeCodeCamp/freeCodeCamp,16767,fix: language update suggestions for basic-css and basic-html,2018-02-22T09:48:33Z,2018-03-08T16:13:20Z,4,822,2,24,25,12,5
+freeCodeCamp/freeCodeCamp,16771,Feat(challenge): Only send the challenges for the requested block,2018-02-23T18:45:27Z,2018-02-26T19:31:02Z,6,885,18,419,192,4,5
+freeCodeCamp/freeCodeCamp,16788,Feat(legacy-certs): Claim legacy certificates from the settings page,2018-02-27T14:06:03Z,2018-03-08T15:33:21Z,9,805,28,822,366,9,4
+freeCodeCamp/freeCodeCamp,16796,fix(projectCompletion): Open completion modal for Project submission,2018-02-28T10:09:10Z,2018-03-05T22:15:32Z,1,750,6,91,40,0,2
+freeCodeCamp/freeCodeCamp,16797,feat(responceTime): Cache react markup by route,2018-02-28T13:40:06Z,2018-05-04T18:35:56Z,1,1865,1,13,1,2,4
+freeCodeCamp/freeCodeCamp,16802,fix(common): Add Default Text to Heatmap Legend,2018-03-01T02:54:22Z,2018-03-02T12:18:54Z,1,1016,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,16806,fix(settings): Night mode settings and profile page UI improvements,2018-03-01T12:11:25Z,2018-03-23T09:34:13Z,8,1040,3,30,1,14,7
+freeCodeCamp/freeCodeCamp,16819, fix(challenge): Handle slow network connections gracefully ,2018-03-02T12:12:26Z,2018-03-12T21:28:56Z,12,1075,19,280,154,13,5
+freeCodeCamp/freeCodeCamp,16821,Remove use of for from radio button lesson,2018-03-02T18:51:36Z,2018-03-20T15:16:16Z,2,1078,2,4,3,26,5
+freeCodeCamp/freeCodeCamp,16825,Refactored Docker environment.,2018-03-03T15:32:02Z,2018-03-23T06:20:21Z,9,1057,4,54,28,15,7
+freeCodeCamp/freeCodeCamp,16828,fix(challenges): Call resetQuiz() when dashedName of the quiz changes,2018-03-04T16:31:59Z,2018-03-07T13:34:22Z,4,980,1,19,5,3,4
+freeCodeCamp/freeCodeCamp,16832,"Improve instructions of ""Global vs Local Scope in Functions"" challenge",2018-03-04T20:55:22Z,2018-03-06T04:16:24Z,1,1134,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,16837,feat(seed): Adds the json file for css grid challenges,2018-03-05T14:34:34Z,2018-03-08T01:19:03Z,1,983,2,1287,1,12,6
+freeCodeCamp/freeCodeCamp,16838,fix(selector): Correctly destructure in the firstChallengeSelector,2018-03-06T11:53:24Z,2018-03-12T21:32:00Z,3,750,1,3,3,2,4
+freeCodeCamp/freeCodeCamp,16840,"Add ""Spread syntax"" MDN link to the Sorted Union",2018-03-06T18:50:49Z,2018-03-07T03:27:29Z,1,1017,1,2,1,1,3
+freeCodeCamp/freeCodeCamp,16844,fix(lang): Refetch mapUi on language change,2018-03-07T10:19:28Z,2018-03-23T19:42:33Z,1,936,3,23,13,5,4
+freeCodeCamp/freeCodeCamp,16845,feat(opbeat): Enable opbeat-react for frontend performance tracking,2018-03-07T15:06:13Z,2018-03-13T23:05:12Z,3,750,8,114,5,3,3
+freeCodeCamp/freeCodeCamp,16850,fix(preview): Vertical scroll fix & UI adjustments of JS warning,2018-03-08T08:10:37Z,2018-03-23T09:56:25Z,1,821,1,5,4,6,7
+freeCodeCamp/freeCodeCamp,16851,"fix: Small language updates, and fix for colour contrast - basic-css",2018-03-08T10:09:13Z,2018-03-09T16:16:56Z,3,918,1,28,14,2,4
+freeCodeCamp/freeCodeCamp,16853,feat(seed): add css variable challenges,2018-03-08T14:57:55Z,2018-03-20T02:14:35Z,1,914,1,1604,1,11,8
+freeCodeCamp/freeCodeCamp,16859,Fix/copy improvements,2018-03-09T04:57:07Z,2018-03-09T19:39:44Z,2,893,28,204,326,1,5
+freeCodeCamp/freeCodeCamp,16864,fix(alerts): Fix page not found alert & UI adjustments,2018-03-09T12:16:32Z,2018-03-20T04:49:56Z,3,847,3,34,11,8,5
+freeCodeCamp/freeCodeCamp,16866,fix(challenges): Fix typo in code example,2018-03-09T18:38:51Z,2018-03-16T15:45:36Z,2,808,1,2,2,2,4
+freeCodeCamp/freeCodeCamp,16875,fix(seed): Capitalizes CSS Grid in the title of challengs,2018-03-12T13:43:20Z,2018-03-12T16:31:32Z,1,872,1,1,0,1,3
+freeCodeCamp/freeCodeCamp,16877,fix(seed): fixed typos in css grid challenges,2018-03-12T18:08:27Z,2018-03-13T15:20:26Z,1,823,1,3,3,3,4
+freeCodeCamp/freeCodeCamp,16882,"fix(auth): on-boarding, signup and welcome flows",2018-03-13T05:27:12Z,2018-04-13T14:48:11Z,3,27,9,32,17,23,6
+freeCodeCamp/freeCodeCamp,16884,fix(seed): improve instructions of css-flex challenge,2018-03-13T08:48:56Z,2018-03-14T16:12:30Z,1,750,1,1,1,4,5
+freeCodeCamp/freeCodeCamp,16886,fix(seed): Challenge titles should be properly capitalized,2018-03-13T17:00:08Z,2018-03-14T14:15:25Z,1,950,1,22,22,2,4
+freeCodeCamp/freeCodeCamp,16887,"Corrected the section ""Changes to the seed files""",2018-03-13T19:36:40Z,2018-03-14T05:18:58Z,3,1153,1,6,2,1,3
+freeCodeCamp/freeCodeCamp,16888,fix(seed): flex box challenges not displaying,2018-03-13T19:54:49Z,2018-03-14T13:28:47Z,1,945,1,4,1,6,5
+freeCodeCamp/freeCodeCamp,16890,Feat(Nav): Responsive Nav with promonent Bin buttons,2018-03-13T21:11:26Z,2018-03-20T23:45:31Z,1,750,15,579,241,4,3
+freeCodeCamp/freeCodeCamp,16895,fix(challange): Redundant note has been removed,2018-03-14T09:08:59Z,2018-03-14T11:44:15Z,1,783,1,6,8,1,4
+freeCodeCamp/freeCodeCamp,16898,"refactor: Remove deprecated endpoints, methods and properties.",2018-03-15T03:46:11Z,2018-05-15T05:31:17Z,1,197,4,4,49,3,3
+freeCodeCamp/freeCodeCamp,16901,fix(gulp): run babel-node with inspect flag in debug,2018-03-15T14:19:19Z,2018-03-23T14:48:13Z,7,137,1,7,1,2,5
+freeCodeCamp/freeCodeCamp,16907,fix(challenges): Fix `Ctrl + Enter` hotkey for projects,2018-03-17T16:34:24Z,2018-05-15T05:26:02Z,2,1270,8,320,180,7,5
+freeCodeCamp/freeCodeCamp,16917,fix: Update Build a Pinterest Clone example URL. (#16910),2018-03-19T13:59:37Z,2018-03-20T02:17:04Z,1,883,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16921,fix(seed): update test for create a bootstrap button,2018-03-20T14:48:14Z,2018-03-27T13:02:34Z,2,903,1,1,1,6,4
+freeCodeCamp/freeCodeCamp,16922,fix(common): Added expected homeURL that was missing,2018-03-20T19:43:04Z,2018-03-23T10:21:03Z,3,1056,1,2,1,2,6
+freeCodeCamp/freeCodeCamp,16924,fix(projects): Add user stories to projects' description,2018-03-21T14:52:12Z,2018-03-23T17:22:56Z,1,1446,3,246,30,3,4
+freeCodeCamp/freeCodeCamp,16925,Corrected typo in redux dispatch,2018-03-21T15:14:02Z,2018-03-21T16:40:34Z,1,777,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,16926,fix(seed): Make element naming optional,2018-03-21T15:43:30Z,2018-03-23T18:12:29Z,1,806,1,2,2,3,4
+freeCodeCamp/freeCodeCamp,16928,fix(seed): Chall seed and test are modified to allow better testing,2018-03-22T07:26:02Z,2018-03-23T17:41:45Z,1,795,1,4,6,3,5
+freeCodeCamp/freeCodeCamp,16932,feat(app): Add Motivational Quote Easter Egg,2018-03-22T16:05:02Z,2018-04-10T15:13:47Z,14,1224,4,167,36,9,5
+freeCodeCamp/freeCodeCamp,16933,fix: remove flash saying JS is disabled,2018-03-22T16:35:57Z,2018-03-23T14:53:29Z,2,814,2,11,53,3,5
+freeCodeCamp/freeCodeCamp,16937,build(docker): Allows sharing of network,2018-03-23T02:15:27Z,2018-03-30T03:51:10Z,29,22,7,75,45,18,5
+freeCodeCamp/freeCodeCamp,16938,"build(docker): Use custom image, adding one layer of abstraction.",2018-03-23T02:30:31Z,2018-04-03T04:58:05Z,5,264,1,2,2,4,5
+freeCodeCamp/freeCodeCamp,16939,feat(seed): An HTML illustration added,2018-03-23T08:25:47Z,2018-03-23T17:19:23Z,1,809,1,2,0,0,3
+freeCodeCamp/freeCodeCamp,16941,fix: navlinks reduce gets type error with empty links.json array,2018-03-23T13:48:16Z,2018-04-03T12:41:21Z,5,812,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16957,fix(settings): Notify instead of flash when user updates his email,2018-03-25T12:35:13Z,2018-04-26T21:55:40Z,1,934,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16962,fix(challenges): Change Symmetric Differences Title,2018-03-26T12:15:38Z,2018-03-26T20:20:26Z,1,1084,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,16972,fix(seed): Correct typos in es6.json,2018-03-27T19:05:53Z,2018-03-28T14:31:53Z,2,1413,1,4,4,5,4
+freeCodeCamp/freeCodeCamp,16974,fix(contribute): Creating a new user,2018-03-28T03:54:52Z,2018-04-05T04:16:15Z,3,799,1,10,1,4,4
+freeCodeCamp/freeCodeCamp,16982,feat(challenges): Highlight current challenge,2018-03-29T15:48:14Z,2018-04-18T15:23:38Z,3,811,2,16,4,3,4
+freeCodeCamp/freeCodeCamp,16987,mongoose challenges: check for db connection,2018-03-30T13:54:36Z,2018-04-28T08:22:48Z,1,750,1,4,0,4,3
+freeCodeCamp/freeCodeCamp,16991,fix(challenges): Fixed typo in the challenge,2018-03-31T10:03:57Z,2018-04-03T19:25:42Z,1,818,1,1,1,2,4
+freeCodeCamp/freeCodeCamp,16995,fix(challenge): map.add() test case in create map DS challenge,2018-04-01T03:44:04Z,2018-04-17T18:27:52Z,1,827,1,1,1,4,3
+freeCodeCamp/freeCodeCamp,17002,fix(editor): Clear codemirror undo on new challenge,2018-04-02T10:48:29Z,2018-04-18T15:19:32Z,5,813,1,8,2,4,4
+freeCodeCamp/freeCodeCamp,17011,Fixed Typo: Changed 'the the' to 'the',2018-04-03T10:32:42Z,2018-04-03T13:04:12Z,1,843,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,17013,Clarified instructions for Pairwise algorithm,2018-04-03T13:04:41Z,2018-04-07T02:12:15Z,2,953,1,1,1,5,4
+freeCodeCamp/freeCodeCamp,17021,fix(challenges): Handled invalid challenges to render 404-Page-NotFound,2018-04-04T04:12:09Z,2018-05-15T05:27:30Z,7,934,2,4,1,1,3
+freeCodeCamp/freeCodeCamp,17025,fix: MailHog installation guide,2018-04-04T17:49:45Z,2018-04-06T07:56:11Z,1,978,1,9,1,6,4
+freeCodeCamp/freeCodeCamp,17027,fix(challenges): Fix typo issue on CSS Grid:Minmax,2018-04-04T23:12:34Z,2018-04-06T07:54:58Z,1,1022,1,1,1,8,4
+freeCodeCamp/freeCodeCamp,17030,fix(pm2): update scripts and add dev deps,2018-04-05T15:24:20Z,2018-04-06T07:57:16Z,3,860,2,8,10,7,4
+freeCodeCamp/freeCodeCamp,17035,test(seed): Add Test for Unique Challenge Titles,2018-04-06T08:02:41Z,2018-04-10T20:23:37Z,2,994,2,29,0,4,6
+freeCodeCamp/freeCodeCamp,17036,fix: SASS challenge and code indentation,2018-04-06T15:47:29Z,2018-04-17T18:08:36Z,2,828,1,2,2,11,5
+freeCodeCamp/freeCodeCamp,17037,fix: typo in challenges/react.json,2018-04-06T17:51:16Z,2018-04-08T01:43:22Z,2,796,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,17040,fix(seed): Fixed broken link in React Introducing Inline Styl,2018-04-07T08:00:43Z,2018-04-08T02:06:12Z,1,750,1,2,2,9,5
+freeCodeCamp/freeCodeCamp,17049,feat(navbar): Improvement in button and navbar,2018-04-09T10:15:09Z,2018-04-26T21:58:31Z,1,835,5,20,9,5,3
+freeCodeCamp/freeCodeCamp,17050,fix(seed): Clarify instructions,2018-04-10T03:19:23Z,2018-04-13T04:19:02Z,2,842,1,1,0,9,4
+freeCodeCamp/freeCodeCamp,17051,fix(seed): Fixes tests,2018-04-10T09:27:48Z,2018-04-17T19:53:55Z,1,789,1,3,4,2,4
+freeCodeCamp/freeCodeCamp,17055,feat(seed): Japanese translation of basic html challenges,2018-04-12T21:45:49Z,2018-04-13T13:57:19Z,2,824,3,13,19804,5,3
+freeCodeCamp/freeCodeCamp,17056,fix(seed): Simplify Unique Titles Test,2018-04-13T08:31:02Z,2018-04-13T14:15:41Z,1,1111,1,3,3,1,3
+freeCodeCamp/freeCodeCamp,17059,fix(seed): Wrong component name in test messages,2018-04-14T09:30:07Z,2018-04-17T19:02:58Z,1,1075,1,2,2,4,3
+freeCodeCamp/freeCodeCamp,17061,fixed Typo in Basic CSS #17057,2018-04-14T22:31:32Z,2018-04-17T19:09:19Z,1,822,1,2,2,2,2
+freeCodeCamp/freeCodeCamp,17067,chore(server): Deleted outdated explanation file of how-nonprofit,2018-04-18T12:11:25Z,2018-04-23T05:17:12Z,2,979,2,3,64,7,4
+freeCodeCamp/freeCodeCamp,17070,Fix broken links in CONTRIBUTING.md,2018-04-18T17:00:28Z,2018-04-26T22:03:27Z,1,953,1,3,4,2,4
+freeCodeCamp/freeCodeCamp,17072,refactor(seed): Update helper comment for es6 class lesson,2018-04-19T10:34:43Z,2018-05-03T13:07:32Z,1,999,1,2,3,2,2
+freeCodeCamp/freeCodeCamp,17081,Fixed typos,2018-04-24T11:28:50Z,2018-04-25T05:07:27Z,1,839,22,73,73,1,2
+freeCodeCamp/freeCodeCamp,17082,fix(seed): Bootstrap default button fix,2018-04-24T19:43:59Z,2018-05-03T14:07:01Z,1,1690,1,11,11,7,3
+freeCodeCamp/freeCodeCamp,17084,fix(challenges): Port Solution for Project Euler 32 from Arcade Mode,2018-04-25T10:20:06Z,2018-04-28T09:00:12Z,1,2164,1,5,4,0,2
+freeCodeCamp/freeCodeCamp,17085,fix(challenges): Edit Description and Add Solution for Project Euler 33,2018-04-25T10:27:54Z,2018-04-28T09:00:39Z,1,2416,1,6,6,0,2
+freeCodeCamp/freeCodeCamp,17086,fix(challenges): Edit Description and Add Solution for Project Euler 38,2018-04-25T10:39:19Z,2018-04-28T09:01:23Z,1,1982,1,7,7,0,2
+freeCodeCamp/freeCodeCamp,17087,"fix(challenges): Edit Description, Add Tests and Solution for Project Euler 40",2018-04-25T10:43:42Z,2018-04-28T09:01:51Z,1,1324,1,10,8,2,2
+freeCodeCamp/freeCodeCamp,17088,"fix(challenges): Edit Description, Add Tests and Solution for Project Euler 41",2018-04-25T10:47:09Z,2018-04-28T08:19:07Z,1,2505,1,3,5,1,3
+freeCodeCamp/freeCodeCamp,17089,Change Spanish description in link tag challenge,2018-04-27T13:55:20Z,2018-04-27T18:18:09Z,1,1004,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,17093,fix(seed): Fixed tag nesting order in Applied Visual Design challenge,2018-04-29T02:41:34Z,2018-05-09T00:09:14Z,2,1108,1,2,2,6,3
+freeCodeCamp/freeCodeCamp,17096,fix: index number in QA challenge test,2018-04-29T19:28:43Z,2018-05-02T20:31:45Z,1,914,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,17097,fix(seed): Fixed test to fail if console.clear is still commented out,2018-04-30T04:57:52Z,2018-05-03T13:01:43Z,1,1242,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,17100,fix: typo,2018-05-01T20:59:20Z,2018-05-02T20:31:06Z,1,865,1,1,1,4,3
+freeCodeCamp/freeCodeCamp,17102,fix: Claiming respWebDesignCert tests,2018-05-01T21:30:53Z,2018-05-03T13:03:09Z,1,890,1,2,2,2,4
+freeCodeCamp/freeCodeCamp,17104,"fix: Display JS ""Claim Certificate"" button",2018-05-03T01:40:14Z,2018-05-14T08:37:48Z,1,860,1,5,1,5,4
+freeCodeCamp/freeCodeCamp,17105,fix(seed): Fix tests for apisMicroservicesCert,2018-05-03T01:54:35Z,2018-05-03T13:04:44Z,1,777,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,17110,[WIP] feat: migrate authentication to auth0,2018-05-04T07:17:56Z,2018-05-15T20:05:07Z,1,0,5,235,174,1,2
+freeCodeCamp/freeCodeCamp,17113,updates to MailHog instructions,2018-05-04T14:52:59Z,2018-05-04T16:18:15Z,3,750,4,25,3,4,3
+freeCodeCamp/freeCodeCamp,17126,fix(challenges): Edit Description and Add Solution for Project Euler 45,2018-05-05T13:01:56Z,2018-05-08T19:43:20Z,1,1623,1,8,20,6,4
+freeCodeCamp/freeCodeCamp,17127,fix(challenges): Edit Description and Add Solution for Project Euler 44,2018-05-05T13:06:11Z,2018-05-06T16:18:18Z,1,1678,1,8,8,0,2
+freeCodeCamp/freeCodeCamp,17132,feat: add verified email on records,2018-05-06T16:16:24Z,2018-05-10T10:23:34Z,2,13,5,64,29,0,2
+freeCodeCamp/freeCodeCamp,17133,fix: remove old unused code and GA cookies,2018-05-06T16:33:14Z,2018-05-10T10:23:35Z,1,0,15,0,544,2,3
+freeCodeCamp/freeCodeCamp,17140,fix(challenges): Edit Description and Add Solution for Project Euler 46,2018-05-08T13:50:56Z,2018-05-08T19:53:02Z,1,1866,1,10,10,3,3
+freeCodeCamp/freeCodeCamp,17142,"fix(challenges): Edit Description, Add Tests and Solution for Project Euler 47",2018-05-09T11:53:48Z,2018-05-12T02:15:56Z,2,2003,1,11,6,6,3
+freeCodeCamp/freeCodeCamp,17144,feat(challenge-redirect): Make '/challenge' and '/map' redirect to learn,2018-05-10T08:45:12Z,2018-05-14T07:34:51Z,7,0,7,108,16,3,3
+freeCodeCamp/freeCodeCamp,17145,"fix(challenges): Edit Description, Tests, and Add Solution for Project Euler 48",2018-05-10T10:52:26Z,2018-05-11T21:00:46Z,1,1228,1,9,6,2,3
+freeCodeCamp/freeCodeCamp,17146,fix(challenges): Edit challengeSeed and Add Solution for Project Euler 49,2018-05-10T11:29:21Z,2018-05-11T21:23:29Z,1,2120,1,4,4,3,3
+freeCodeCamp/freeCodeCamp,17149,fix(seed): Remove typo from chai-http-IV challenge title,2018-05-11T14:47:15Z,2018-05-15T16:36:37Z,1,807,1,2,2,7,6
+freeCodeCamp/freeCodeCamp,17150,Feat: Welcome Page,2018-05-11T15:56:49Z,2018-05-15T05:12:05Z,1,81,172,693,9738,7,3
+freeCodeCamp/freeCodeCamp,17152,fix(challenges): Add Tests and Solution for Project Euler 50,2018-05-12T14:20:14Z,2018-05-14T14:12:05Z,1,1809,1,5,4,2,4
+freeCodeCamp/freeCodeCamp,17159,fixed broken link in contributing.md,2018-05-13T19:48:34Z,2018-05-14T08:34:47Z,1,12,1,1,1,2,2
+freeCodeCamp/freeCodeCamp,17160,chore: add section on how to raise security issues,2018-05-14T03:34:38Z,2018-05-14T08:33:46Z,1,65,1,6,0,1,3
+freeCodeCamp/freeCodeCamp,17162,test(challenges): Corrected a test case for challenge,2018-05-14T13:20:07Z,2018-05-29T17:47:53Z,1,1541,1,1,1,6,5
+freeCodeCamp/freeCodeCamp,17164,"fix(quotes): Misspelling in quote ""Twenty years from now"" by Mark Twain",2018-05-14T15:06:07Z,2018-05-14T18:29:17Z,1,904,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,17166,fix(seed): removed typo from task description,2018-05-14T17:30:58Z,2018-05-15T04:46:34Z,1,816,1,1,1,5,1
+freeCodeCamp/freeCodeCamp,17171,Chore: Update User model,2018-05-15T12:29:54Z,2018-05-15T13:56:26Z,1,144,23,232,741,1,2
+freeCodeCamp/freeCodeCamp,17173,chore(opbeat): Remove opbeat react logging,2018-05-15T15:25:32Z,2018-05-16T14:22:43Z,1,520,8,4,109,3,2
+freeCodeCamp/freeCodeCamp,17181, refactor(server): Remove opbeat from dev tools,2018-05-17T18:56:53Z,2018-05-28T21:43:58Z,3,768,4,5,232,7,5
+freeCodeCamp/freeCodeCamp,17187,feat(auth0): migrate auth to auth0,2018-05-19T11:46:48Z,2018-05-20T11:19:46Z,3,27,19,906,1850,4,3
+freeCodeCamp/freeCodeCamp,17197,chore: Remove templates from the main repo,2018-05-20T17:22:13Z,2018-05-21T13:14:11Z,1,79,1,0,462,0,2
+freeCodeCamp/freeCodeCamp,17202,Fix: Settings/Portfolio UI,2018-05-20T23:36:59Z,2018-05-21T15:21:17Z,1,226,33,259,134,1,3
+freeCodeCamp/freeCodeCamp,17217,"fix(auth): Set domain cookies, and chain user",2018-05-22T12:41:37Z,2018-05-22T22:05:50Z,4,0,4,36,19,5,3
+freeCodeCamp/freeCodeCamp,17219,fix(challenges): Fix wrong word on Basic CSS lesson,2018-05-23T05:34:51Z,2018-05-23T07:29:35Z,1,843,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,17237,chore(ui): Minor UI/Copy fixes,2018-05-25T12:38:20Z,2018-05-25T15:49:48Z,1,750,11,71,35,0,2
+freeCodeCamp/freeCodeCamp,17238,fix(auth): Add verification route for email,2018-05-25T17:45:44Z,2018-05-28T21:34:57Z,10,28,12,231,107,9,3
+freeCodeCamp/freeCodeCamp,17239,Updated basic-javascript.json file for challenge Manipulate arrays with shift,2018-05-25T19:36:37Z,2018-05-27T08:10:36Z,1,910,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,17242,feat(ext): Add /external/update-my-current-challenge endpoint,2018-05-26T08:02:30Z,2018-05-26T09:11:47Z,1,0,1,7,0,0,2
+freeCodeCamp/freeCodeCamp,17247,fix(app): Change condition for points pluralization function,2018-05-27T11:31:52Z,2018-05-27T13:30:23Z,1,1053,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,17250,feat: add gdpr privacy and terms,2018-05-27T22:01:47Z,2018-05-28T16:31:59Z,2,0,6,195,2,1,3
+freeCodeCamp/freeCodeCamp,17252,feat(user-data): Add a 'download data' button to privacy section,2018-05-28T17:24:33Z,2018-05-28T21:02:42Z,1,13,1,27,8,0,2
+freeCodeCamp/freeCodeCamp,17253,chore(unsubscribe): Merge backup/master unsubscribe handler in to staging,2018-05-28T17:37:44Z,2018-05-28T21:04:46Z,1,0,1,45,25,0,2
+freeCodeCamp/freeCodeCamp,17254,fix: updates comments to reflect name changes,2018-05-28T21:28:08Z,2018-05-29T07:27:46Z,1,96,1,2,2,0,2
+freeCodeCamp/freeCodeCamp,17259,feat(reporting): Use rollbarjs for error reporting in production,2018-05-29T09:00:31Z,2018-05-29T13:08:56Z,3,0,4,118,2,1,3
+freeCodeCamp/freeCodeCamp,17314,fix: update confusing welcome page copy,2018-05-31T02:51:54Z,2018-05-31T08:42:06Z,1,602,5,20,10,5,3
+freeCodeCamp/freeCodeCamp,17333,fix(auth): Login everyone with an social account,2018-05-31T14:10:31Z,2018-05-31T20:59:28Z,1,27,3,25,45,0,2
+freeCodeCamp/freeCodeCamp,17335,Fix: Project count not including JS Projects,2018-05-31T14:42:39Z,2018-08-02T15:26:19Z,3,830,1,1,1,7,3
+freeCodeCamp/freeCodeCamp,17364,Fix for typo in quotes.,2018-06-01T09:24:46Z,2018-06-01T12:07:40Z,1,816,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,17367,docs(readme): updated as per new curriculum and certification,2018-06-01T12:25:01Z,2018-06-01T17:03:15Z,1,13,1,85,16,5,3
+freeCodeCamp/freeCodeCamp,17368,fix(errors): Filter out handled errors from rollbar,2018-06-01T13:06:05Z,2018-06-01T17:07:29Z,2,23,1,10,2,0,2
+freeCodeCamp/freeCodeCamp,17370,docs(readme): update readme for new curriculum and certifications,2018-06-01T15:56:06Z,2018-06-03T17:55:30Z,2,750,1,88,37,1,3
+freeCodeCamp/freeCodeCamp,17388,feat(interview-prep): Porting Rosetta problems,2018-06-02T08:50:12Z,2018-06-06T13:39:23Z,2,840,1,289,63,7,3
+freeCodeCamp/freeCodeCamp,17429,Fixed typo,2018-06-04T04:29:27Z,2018-06-05T16:26:57Z,1,913,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,17430,fix(seed): responsive-web-design: make css tests case insensitive,2018-06-04T05:48:56Z,2018-06-05T16:29:31Z,2,842,1,6,6,0,3
+freeCodeCamp/freeCodeCamp,17433,fix(certificates): Make certificates printable,2018-06-04T08:20:24Z,2018-06-05T16:34:39Z,1,922,1,0,6,1,2
+freeCodeCamp/freeCodeCamp,17445,fix(seed): updated basic javascript URLs for hints,2018-06-05T17:21:24Z,2018-06-10T23:46:47Z,2,750,1,3,3,5,3
+freeCodeCamp/freeCodeCamp,17459,feat(donate): Add donate api,2018-06-06T10:49:52Z,2018-06-07T21:35:07Z,1,750,12,330,19,0,3
+freeCodeCamp/freeCodeCamp,17470,fix(portfolio): User /:username routes as previously,2018-06-06T17:26:15Z,2018-06-07T12:15:31Z,1,27,4,44,25,1,3
+freeCodeCamp/freeCodeCamp,17471,fix: added new test and fixed incorrect variable,2018-06-06T18:00:35Z,2018-06-10T23:45:19Z,3,823,1,13,9,14,4
+freeCodeCamp/freeCodeCamp,17473,fix(challenges): add info about ReactDOM.render,2018-06-06T19:39:03Z,2018-06-11T00:02:33Z,1,822,1,2,1,7,4
+freeCodeCamp/freeCodeCamp,17480,feat(interview-prep): Porting Rosetta problems,2018-06-07T10:11:49Z,2018-06-11T00:03:57Z,4,750,1,169,0,10,4
+freeCodeCamp/freeCodeCamp,17494,add a new line before the Projects list for the six certifications in…,2018-06-07T19:09:45Z,2018-06-10T15:29:50Z,3,785,0,0,0,10,5
+freeCodeCamp/freeCodeCamp,17497,chore(package): Update Font Awesome and remove Ionicon dependency,2018-06-08T01:27:21Z,2018-06-21T20:16:19Z,1,970,41,6986,5196,5,2
+freeCodeCamp/freeCodeCamp,17505,[WIP] docs: update documentation,2018-06-08T21:33:26Z,2018-09-26T12:08:28Z,15,0,1,152,116,3,5
+freeCodeCamp/freeCodeCamp,17514,fix: green text is lighter and easier to read on night mode,2018-06-09T21:37:14Z,2018-06-11T13:00:29Z,1,820,1,3,0,4,3
+freeCodeCamp/freeCodeCamp,17526,fix: removed unnecessary stripe call from boot sequence,2018-06-10T20:14:00Z,2018-06-18T14:47:11Z,3,750,1,102,84,8,5
+freeCodeCamp/freeCodeCamp,17528,fix: current-challenge redirect,2018-06-10T21:48:46Z,2018-06-15T13:11:25Z,1,3143,1,1,1,2,3
+freeCodeCamp/freeCodeCamp,17578,fix(certifications): Update text on cert,2018-06-14T02:20:49Z,2018-06-14T05:15:53Z,1,1066,10,12,12,1,2
+freeCodeCamp/freeCodeCamp,17608,fix(challenges): Fix typo in security challenge,2018-06-17T11:23:39Z,2018-06-19T06:53:25Z,1,754,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,17609,fix(test): eslint error in travis,2018-06-17T11:35:19Z,2018-06-19T12:55:43Z,1,772,1,1,1,4,3
+freeCodeCamp/freeCodeCamp,17625,"style(challenges): Change ""Mortal Combat"" to ""Mortal Kombat""",2018-06-18T22:54:41Z,2018-06-19T07:09:02Z,1,940,1,5,5,1,3
+freeCodeCamp/freeCodeCamp,17630,fix: update email settings,2018-06-19T06:33:33Z,2018-06-28T09:28:09Z,3,0,3,25,25,5,3
+freeCodeCamp/freeCodeCamp,17631,fix: open project links in new tab,2018-06-19T06:48:34Z,2018-06-21T12:14:29Z,1,13,1,5,1,0,2
+freeCodeCamp/freeCodeCamp,17644,Fix: Add code example,2018-06-19T18:57:41Z,2018-06-25T20:13:53Z,1,832,1,3,1,1,3
+freeCodeCamp/freeCodeCamp,17651,fix: improve mobile views for settings,2018-06-20T04:44:29Z,2018-06-30T14:16:23Z,1,1405,4,19,0,3,4
+freeCodeCamp/freeCodeCamp,17653,fix(api): filter private properties from public user api,2018-06-20T09:20:32Z,2018-06-20T14:19:40Z,1,88,3,100,32,1,3
+freeCodeCamp/freeCodeCamp,17661,fix: remove seed files,2018-06-20T14:22:39Z,2018-06-22T11:42:04Z,2,0,388,15,164641,1,4
+freeCodeCamp/freeCodeCamp,17669,fix: remove enforcing redirect to update-email,2018-06-20T23:21:54Z,2018-06-26T14:37:52Z,1,0,1,2,4,0,2
+freeCodeCamp/freeCodeCamp,17678,fix(Certificates): Delete word 'projects' from certificates' titles,2018-06-21T20:41:31Z,2018-06-28T09:29:32Z,1,944,7,7,7,6,4
+freeCodeCamp/freeCodeCamp,17728,fix(auth): remove all linking apis,2018-06-26T19:12:46Z,2018-06-28T09:28:46Z,1,0,1,0,63,0,2
+freeCodeCamp/freeCodeCamp,17737,fix: updates to authentication and onboarding flows,2018-06-27T19:22:49Z,2018-06-29T20:29:21Z,2,267,10,57,270,2,3
+freeCodeCamp/freeCodeCamp,17747,chore: housekeeping on things that we dont want,2018-06-28T15:34:58Z,2018-08-04T21:48:21Z,5,0,11,4,556,4,4
+freeCodeCamp/freeCodeCamp,17751,Feat/annon unsubscribe,2018-06-28T22:08:43Z,2018-06-29T14:25:14Z,1,54,2,80,7,0,2
+freeCodeCamp/freeCodeCamp,17776,fix(snyk): Updated patches for vulnerabilities,2018-06-30T14:41:33Z,2018-07-02T08:28:09Z,1,682,3,725,749,0,2
+freeCodeCamp/freeCodeCamp,17801,fix(cert-email): Default user email to empty string,2018-07-02T08:11:55Z,2018-07-02T09:26:41Z,1,1828,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,17805,feat(profile): Create top contributor badge,2018-07-02T12:16:33Z,2018-08-02T15:39:52Z,1,862,6,43,9,2,4
+freeCodeCamp/freeCodeCamp,17830,bugs and homepage,2018-07-06T09:45:59Z,2018-07-13T15:15:46Z,1,750,1,4,0,2,4
+freeCodeCamp/freeCodeCamp,17851,Update data-visualization-with-d3.json,2018-07-10T21:32:32Z,2018-07-12T18:27:51Z,1,1036,1,3,1,2,3
+freeCodeCamp/freeCodeCamp,17876,fix(settings): Fix for Button clickable Overflow,2018-07-14T02:04:36Z,2018-07-30T14:10:07Z,3,195,1,1,4,7,7
+freeCodeCamp/freeCodeCamp,17879,feat(quotes): Add more quotes for welcome page,2018-07-14T19:22:35Z,2018-07-18T04:50:20Z,1,736,1,136,28,2,3
+freeCodeCamp/freeCodeCamp,17892,"fix: Invalid argument supplied to oneOfType, expected an instance of array",2018-07-17T08:55:40Z,2018-07-28T07:38:54Z,1,750,2,4,4,1,3
+freeCodeCamp/freeCodeCamp,17893,fix(heat-map): Show last 8 months of activity,2018-07-17T14:58:45Z,2018-08-11T10:51:16Z,3,934,1,4,1,2,5
+freeCodeCamp/freeCodeCamp,17903,fix(settings): Change challenge/portfolio label and input,2018-07-20T00:35:20Z,2018-07-26T19:06:18Z,3,1487,2,6,2,1,5
+freeCodeCamp/freeCodeCamp,17933,fix: replace hard-code learn URL with .env value,2018-07-26T22:02:08Z,2018-08-28T16:10:42Z,1,1017,2,4,1,2,4
+freeCodeCamp/freeCodeCamp,17936,fix(route): Update URI to use www instead of root domain,2018-07-27T05:54:31Z,2018-07-27T08:12:47Z,1,0,13,13,13,0,2
+freeCodeCamp/freeCodeCamp,17939,chore(seed): Update curriculum to v3.1.0,2018-07-27T14:54:02Z,2018-07-27T19:53:02Z,1,0,2,4,4,0,2
+freeCodeCamp/freeCodeCamp,17940,[WIP]Feat: Split for API,2018-07-27T20:43:10Z,2018-08-28T16:09:47Z,1,0,53,10026,6964,0,3
+freeCodeCamp/freeCodeCamp,17948,fix(settings): Fix layout issues that caused horizontal scrolling,2018-07-29T06:22:12Z,2018-08-19T15:48:24Z,1,1174,5,20,20,1,2
+freeCodeCamp/freeCodeCamp,17960,fix(docs): Update and format CONTRIBUTING.md,2018-07-31T19:06:13Z,2018-08-23T07:26:59Z,1,941,1,45,133,1,2
+freeCodeCamp/freeCodeCamp,17963,chore(seed): update curriculum to v3.1.1,2018-08-01T05:20:04Z,2018-08-01T13:14:15Z,1,0,5,19,15,0,2
+freeCodeCamp/freeCodeCamp,17968,feat(full-stack): Full Stack Certification,2018-08-02T14:50:16Z,2018-08-27T19:02:34Z,2,933,7,149,60,7,5
+freeCodeCamp/freeCodeCamp,17969,fix(user): update email unsubscribe path,2018-08-02T20:13:06Z,2018-08-02T21:38:12Z,2,0,6,99,65,0,2
+freeCodeCamp/freeCodeCamp,18004,fix(heat-map): Show last 8 months of activity,2018-08-11T12:13:57Z,2018-08-29T16:33:47Z,1,1633,1,5,1,1,4
+freeCodeCamp/freeCodeCamp,18011,feat: add award badge to profiles,2018-08-13T20:21:34Z,2018-08-15T09:04:39Z,1,0,1,12,2,2,3
+freeCodeCamp/freeCodeCamp,18059,fix(utils): unify common utility scripts,2018-08-28T17:06:35Z,2019-09-26T16:45:29Z,4,36,19,86,82,13,7
+freeCodeCamp/freeCodeCamp,18071,add mission to landing page,2018-09-01T05:54:46Z,2018-09-01T10:59:14Z,1,658,1,9,4,0,2
+freeCodeCamp/freeCodeCamp,18078,[FIX] Update full stack certificate URL,2018-09-02T22:11:05Z,2018-09-04T14:11:18Z,2,913,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,18080,Move to dirs,2018-09-03T10:29:42Z,2018-09-03T12:17:50Z,2,104,519,25286,56709,1,2
+freeCodeCamp/freeCodeCamp,18100,add more nonprofit details to landing page,2018-09-07T17:58:10Z,2018-09-09T09:50:18Z,2,618,2,10,2,0,2
+freeCodeCamp/freeCodeCamp,18130,[WIP] feat: User can enter classroom setting,2018-09-13T03:55:25Z,2018-10-10T20:13:00Z,1,1153,19,560,232,2,4
+freeCodeCamp/freeCodeCamp,18143,Fixed LinkedIn link on profile page.,2018-09-17T02:48:49Z,2018-09-19T14:21:31Z,1,1301,1,6,5,0,2
+freeCodeCamp/freeCodeCamp,18149,[Snyk] Fix for 1 vulnerable dependencies,2018-09-19T06:51:42Z,2018-09-25T18:12:46Z,1,1003,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,18152,fix(setting): preview button now works,2018-09-19T15:04:29Z,2018-09-26T13:35:10Z,2,421,2,84,97,0,3
+freeCodeCamp/freeCodeCamp,18155,Fix/jfitz fcc navright,2018-09-19T20:57:37Z,2018-09-25T17:00:43Z,1,1474,2,3,6,1,2
+freeCodeCamp/freeCodeCamp,18160,chore(seed): update curriculum to v3.2.0,2018-09-20T22:53:27Z,2018-09-21T17:03:26Z,1,682,2,4356,4356,0,2
+freeCodeCamp/freeCodeCamp,18167,fix: add full stack certificate to profiles view,2018-09-23T12:59:53Z,2018-09-25T16:54:15Z,1,800,1,4,4,0,2
+freeCodeCamp/freeCodeCamp,18206,Improved subtopic indexing,2018-10-01T10:25:26Z,2018-10-02T22:24:58Z,1,769,1,37,37,2,3
+freeCodeCamp/freeCodeCamp,18212,Update README.md,2018-10-01T13:51:06Z,2018-10-02T22:17:58Z,3,817,1,1,1,1,5
+freeCodeCamp/freeCodeCamp,18217,Update docker-compose.yml,2018-10-01T20:23:05Z,2018-10-02T06:57:21Z,1,750,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18218,Update robots.txt,2018-10-01T20:23:51Z,2018-10-02T06:25:48Z,1,750,1,2,1,0,2
+freeCodeCamp/freeCodeCamp,18219,Update analytics-epic.js,2018-10-01T20:24:38Z,2018-10-02T06:56:50Z,1,750,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18220,Update index.js,2018-10-01T20:25:29Z,2018-10-02T06:58:36Z,1,750,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18221,Update NewsApp.js,2018-10-01T20:26:11Z,2018-10-02T06:55:07Z,1,750,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,18241,fix: typos in JavaScript Algorithms & Data Structures challenges,2018-10-03T02:48:25Z,2018-10-08T21:09:40Z,1,855,2,3,3,1,3
+freeCodeCamp/freeCodeCamp,18242,fix: Remove Option Bonus User Story from Build a Markdown Previewer project,2018-10-03T03:44:51Z,2018-10-08T21:05:11Z,1,1224,1,0,1,3,3
+freeCodeCamp/freeCodeCamp,18245,fix: typo issue in Iterate Over All Properties,2018-10-03T15:17:40Z,2018-10-08T20:59:38Z,1,755,1,1,1,4,4
+freeCodeCamp/freeCodeCamp,18246,docs: update documentation for contributions,2018-10-03T16:20:18Z,2018-10-10T20:05:30Z,2,0,32,1582,1167,0,4
+freeCodeCamp/freeCodeCamp,18251,fix: typos in CONTRIBUTING.md,2018-10-04T03:26:13Z,2018-10-06T13:35:47Z,3,787,1,2,2,1,4
+freeCodeCamp/freeCodeCamp,18255,fix - spelling mistake in CONTRIBUTING.md,2018-10-04T19:18:40Z,2018-10-06T13:35:12Z,2,787,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,18261,fix(learn): transformers don't apply,2018-10-05T23:54:29Z,2018-10-06T01:39:37Z,1,750,4,50,35,1,2
+freeCodeCamp/freeCodeCamp,18263,"docs(contrib): Edits staging -> master, workflows",2018-10-06T00:41:06Z,2018-10-06T13:42:55Z,1,14,1,518,0,1,2
+freeCodeCamp/freeCodeCamp,18264, fix(seed): Fix seed script for new curriculum pkg ,2018-10-06T01:42:10Z,2018-10-07T09:21:11Z,4,920,20,6686,678,1,2
+freeCodeCamp/freeCodeCamp,18268,fix(learn): paths to Intros,2018-10-06T23:11:10Z,2018-10-07T07:54:53Z,1,750,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,18270,fix: redirects for forum,2018-10-07T09:59:21Z,2018-10-07T16:45:22Z,1,0,1,4,3,0,2
+freeCodeCamp/freeCodeCamp,18279,fix: clarify test text in line with test functionality,2018-10-08T07:41:30Z,2018-10-08T10:38:31Z,2,1093,1,2,2,1,3
+freeCodeCamp/freeCodeCamp,18281,chore(server): update loopback-connector-mogodb ,2018-10-08T11:24:48Z,2018-10-09T10:02:37Z,1,750,6,121,92,3,4
+freeCodeCamp/freeCodeCamp,18289,fix: Character was rendering as hexcode in tutorial Basic CSS: Specify How Fonts Should Degrade,2018-10-08T21:59:43Z,2018-10-10T08:29:40Z,2,775,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,18290,fix: Remove Option Bonus User Story from Build a Markdown Previewer project,2018-10-08T22:01:23Z,2018-10-09T09:54:54Z,1,1170,1,0,1,0,2
+freeCodeCamp/freeCodeCamp,18296,fix/typos in javascript data structures challenges,2018-10-10T02:41:17Z,2018-10-10T08:26:46Z,1,842,3,3,3,1,2
+freeCodeCamp/freeCodeCamp,18315,Added alt text to as-seen-on image,2018-10-11T15:13:27Z,2018-10-11T19:17:01Z,1,1442,1,1,0,1,2
+freeCodeCamp/freeCodeCamp,18316,Added alt text to user image,2018-10-11T15:44:24Z,2018-10-11T19:17:35Z,1,1429,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18322,Added spanish translation for how-to-work-on-coding-challenges.md,2018-10-11T20:06:09Z,2018-10-12T10:37:07Z,1,834,1,91,3,3,3
+freeCodeCamp/freeCodeCamp,18323,(translate) freeCodeCamp how to catch outgoing emails locally README to spanish,2018-10-11T21:03:58Z,2018-10-12T10:39:04Z,1,2226,1,106,3,1,2
+freeCodeCamp/freeCodeCamp,18324,Translated README.md [Portuguese],2018-10-11T21:10:05Z,2018-10-12T10:40:16Z,1,1110,1,34,3,1,2
+freeCodeCamp/freeCodeCamp,18328,fix(guide):HTML replaced stub of blockquote element,2018-10-12T00:02:29Z,2018-10-12T06:41:28Z,3,2213,1,15,6,1,2
+freeCodeCamp/freeCodeCamp,18329,Translated   how-to-catch-outgoing-emails-locally.md   to Portuguese-BR,2018-10-12T01:05:49Z,2018-10-12T10:42:10Z,1,2189,1,98,3,1,2
+freeCodeCamp/freeCodeCamp,18330,feat(guide): add article for Vue.js Declarative Rendering,2018-10-12T01:37:07Z,2018-10-12T06:38:02Z,1,2198,1,90,0,1,2
+freeCodeCamp/freeCodeCamp,18331,"fixes redundant ""are"" typo",2018-10-12T01:37:11Z,2018-10-12T06:32:36Z,1,2145,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18332,fix order of steps in how-to-setup-freecodecamp-locally.md,2018-10-12T01:55:34Z,2018-10-12T06:05:18Z,1,573,1,9,9,2,3
+freeCodeCamp/freeCodeCamp,18333,fix(readme): replace a bad link to the guide,2018-10-12T02:23:56Z,2018-10-12T06:28:15Z,1,2281,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,18334,feat(guide): add article for Vue.js Control Flow,2018-10-12T02:36:34Z,2018-10-12T06:39:15Z,1,2270,1,111,0,1,2
+freeCodeCamp/freeCodeCamp,18335,Update path to .env file in seedChallenges.js,2018-10-12T02:48:53Z,2018-10-12T06:31:06Z,1,2495,1,1,1,3,3
+freeCodeCamp/freeCodeCamp,18337,Improve contributing.md wording,2018-10-12T02:55:43Z,2018-10-12T06:45:56Z,1,2145,1,25,40,0,2
+freeCodeCamp/freeCodeCamp,18339,translate(docs): Translate how-to-work-on-coding-challenges.md to Portuguese,2018-10-12T03:04:04Z,2018-10-12T10:31:25Z,1,1535,1,92,3,1,3
+freeCodeCamp/freeCodeCamp,18341,Update markdown text,2018-10-12T03:07:32Z,2018-10-12T06:47:03Z,1,2145,1,3,1,1,2
+freeCodeCamp/freeCodeCamp,18349,Added some extra info about Ray Tracing,2018-10-12T04:05:48Z,2018-10-13T06:52:52Z,1,2145,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18352,feat(guide): add article for Vue.js Components,2018-10-12T04:22:05Z,2018-10-13T06:55:05Z,1,2244,1,68,0,0,2
+freeCodeCamp/freeCodeCamp,18357,Added more instructions for nvm and code example,2018-10-12T04:41:20Z,2018-10-13T18:36:06Z,1,2236,1,8,0,1,3
+freeCodeCamp/freeCodeCamp,18367,Added the advantages and disadvantages of an array,2018-10-12T05:35:37Z,2018-10-13T18:50:53Z,1,2145,1,12,4,1,3
+freeCodeCamp/freeCodeCamp,18377,Updated Layer 2 Section,2018-10-12T07:37:54Z,2018-10-15T07:17:05Z,2,2145,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,18379,Clears up some details,2018-10-12T07:42:04Z,2018-10-13T19:00:44Z,1,2145,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,18385,Added more information about Do while loop,2018-10-12T07:49:02Z,2018-10-13T19:27:42Z,1,2145,1,3,2,1,2
+freeCodeCamp/freeCodeCamp,18387,Add godot engine,2018-10-12T07:54:02Z,2018-10-13T19:22:07Z,1,2219,1,9,7,1,2
+freeCodeCamp/freeCodeCamp,18392,Added information about memory leaks.,2018-10-12T08:04:12Z,2018-10-13T20:02:37Z,1,2145,1,1,1,3,3
+freeCodeCamp/freeCodeCamp,18393,add font shorthand property,2018-10-12T08:04:16Z,2018-10-13T20:07:50Z,1,2145,1,18,12,1,2
+freeCodeCamp/freeCodeCamp,18394,Manually expiring a session after some time,2018-10-12T08:04:35Z,2018-10-13T20:25:25Z,1,2145,1,36,0,1,2
+freeCodeCamp/freeCodeCamp,18399,Improve index.md grammar.,2018-10-12T08:35:08Z,2018-10-13T20:42:01Z,1,2145,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18403,mv rename function added,2018-10-12T08:44:47Z,2018-10-13T20:58:57Z,1,2145,1,1,1,1,2
+freeCodeCamp/freeCodeCamp,18407,PHP - fix Markdown for PHP - Variables Types,2018-10-12T09:01:37Z,2018-10-13T21:21:12Z,1,2237,1,4,4,1,2
+freeCodeCamp/freeCodeCamp,18409,Added ES6 introduction,2018-10-12T09:41:14Z,2018-10-13T21:36:58Z,1,2167,1,5,7,1,2
+freeCodeCamp/freeCodeCamp,18415,Added solution to Call out Optional Actions with btn-info,2018-10-12T10:04:02Z,2018-10-14T16:20:29Z,1,2262,1,21,3,0,3
+freeCodeCamp/freeCodeCamp,18419,Fix/seed,2018-10-12T10:09:37Z,2018-10-12T15:11:43Z,1,2194,9,10141,10725,0,3
+freeCodeCamp/freeCodeCamp,18423,Added function Memcpy,2018-10-12T10:31:56Z,2018-10-12T20:36:50Z,2,2145,1,11,0,2,4
+freeCodeCamp/freeCodeCamp,18442,fix(docs): Spanish/ReadMe.md,2018-10-12T12:56:17Z,2018-10-14T16:08:13Z,3,2215,1,1,1,1,3
+freeCodeCamp/freeCodeCamp,18445,fix(guide):add warning about dividing with zero to article.,2018-10-12T13:00:44Z,2018-10-14T16:08:44Z,2,2292,1,2,0,1,2
+freeCodeCamp/freeCodeCamp,18457,added special case note in division,2018-10-12T13:44:45Z,2018-10-16T15:31:33Z,1,2204,1,5,0,2,4
+freeCodeCamp/freeCodeCamp,18465,Added Nested case and updated ElseIf statement.,2018-10-12T14:08:55Z,2018-10-14T16:10:04Z,1,2258,1,25,2,0,3
+freeCodeCamp/freeCodeCamp,18483,fix(coding):  update instructions to CSS Flexbox challenge in Portuguese,2018-10-12T15:52:42Z,2018-10-16T15:29:44Z,2,2223,1,2,2,1,4
+freeCodeCamp/freeCodeCamp,18488,Add Spanish translation to guide.,2018-10-12T16:14:06Z,2018-10-16T16:09:05Z,1,2145,3000,473836,0,1,3
+freeCodeCamp/freeCodeCamp,18494,fix(guide): issue #18450 - move php-syntax-overview to php folder,2018-10-12T16:55:18Z,2018-10-13T06:49:03Z,1,2283,1,0,0,2,2
+freeCodeCamp/freeCodeCamp,18499,Added Activity Lifecycle,2018-10-12T17:05:14Z,2018-10-15T00:30:49Z,1,2294,1,82,0,1,2
+freeCodeCamp/freeCodeCamp,18501,Fix broken link,2018-10-12T17:07:39Z,2018-10-14T01:27:57Z,1,2190,1,1,1,0,2
+freeCodeCamp/freeCodeCamp,18502,feat(guide): Added an example of Bubble Sort in Swift.,2018-10-12T17:08:14Z,2018-10-15T00:36:29Z,1,2463,1,21,14,1,2
+freeCodeCamp/freeCodeCamp,18508,Default methods,2018-10-12T17:13:40Z,2018-10-14T08:29:33Z,1,2195,1,3,0,0,2
+freeCodeCamp/freeCodeCamp,18509,Fact correction.,2018-10-12T17:16:36Z,2018-10-15T01:12:17Z,1,2254,1,2,2,1,2
+freeCodeCamp/freeCodeCamp,18511,Added default methods,2018-10-12T17:20:55Z,2018-10-14T08:41:35Z,1,511,1,3,0,1,2
+freeCodeCamp/freeCodeCamp,18528,translate(docs): how-to-catch-outgoing-emails-locally.md to russian,2018-10-12T17:38:48Z,2018-11-03T16:53:51Z,2,357,1,27,15,6,6
+freeCodeCamp/freeCodeCamp,18530,Make russian translate little better,2018-10-12T17:42:11Z,2018-11-04T23:55:52Z,3,600,0,0,0,1,4
+freeCodeCamp/freeCodeCamp,18533,fix(documentation):added missing dot,2018-10-12T17:48:08Z,2018-10-14T16:29:27Z,1,505,1,1,1,0,3
+freeCodeCamp/freeCodeCamp,18537,fix(documentation): typo missing,2018-10-12T17:59:38Z,2018-10-14T16:31:10Z,1,494,1,2,2,0,3
+freeCodeCamp/freeCodeCamp,18559,added file handling topic in cplusplus,2018-10-12T19:03:16Z,2018-10-15T15:13:43Z,2,447,1,78,0,1,3
+freeCodeCamp/freeCodeCamp,18560,Update index.md,2018-10-12T19:08:07Z,2018-10-12T20:46:54Z,1,476,1,22,6,0,2
+freeCodeCamp/freeCodeCamp,18561,Added deleteFile,2018-10-12T19:14:28Z,2018-10-15T15:19:34Z,2,545,1,20,0,1,3
+freeCodeCamp/freeCodeCamp,18564,Swift,2018-10-12T19:23:58Z,2018-10-15T01:55:22Z,1,485,1,16,0,1,2
+freeCodeCamp/freeCodeCamp,18565,Remove duplicate section from hex guide,2018-10-12T19:25:42Z,2018-10-15T02:00:56Z,1,681,1,4,6,1,3
+freeCodeCamp/freeCodeCamp,18571,fix(guide): more descriptive links,2018-10-12T19:42:53Z,2018-10-15T02:03:52Z,1,447,1,4,4,1,2
+codecrafters-io/build-your-own-x,10,readme: Add my tutorial on shell,2018-05-11T10:08:57Z,2018-05-12T07:55:36Z,3,193,1,1,0,1,2
+codecrafters-io/build-your-own-x,16,Add: Generate SVG images in C,2018-05-12T08:21:04Z,2018-05-13T10:53:26Z,1,0,1,1,0,1,2
+codecrafters-io/build-your-own-x,35,"Add ""Build your own Window Manager""",2018-05-13T14:44:31Z,2018-05-14T06:51:54Z,1,0,1,1,0,1,2
+codecrafters-io/build-your-own-x,59,added 'Build your own CI server' title & one item,2018-05-14T14:37:35Z,2018-05-15T13:35:32Z,3,74,1,1,0,1,2
+codecrafters-io/build-your-own-x,63,Update README.md,2018-05-14T17:30:12Z,2018-05-14T18:55:00Z,2,19,1,2,1,1,2
+codecrafters-io/build-your-own-x,137,Added a New Category : Text Editor,2018-05-24T05:49:20Z,2018-05-24T09:21:06Z,1,104,1,9,1,1,3
+codecrafters-io/build-your-own-x,211,"Found a Web site hosting these tutorials, want to add a link",2018-06-24T09:09:39Z,2018-06-29T10:33:16Z,1,244,1,2,0,1,3
+codecrafters-io/build-your-own-x,343,Add Build your own Front-end Framework re-implement react fiber,2019-03-27T02:34:20Z,2019-10-07T02:28:58Z,1,0,1,1,0,1,3
+codecrafters-io/build-your-own-x,349,Added a tutorial: Lest's build a NodeJS micro framework,2019-04-13T12:06:48Z,2024-07-25T17:59:41Z,1,68,1,1,0,1,2
+codecrafters-io/build-your-own-x,380,Add 'Twitter Bot Tutorial-Node.js and Processing',2019-10-06T15:01:26Z,2020-10-30T19:20:29Z,1,0,1,1,0,1,3
+codecrafters-io/build-your-own-x,404,Add an article about monadic parser combinators in C#,2019-11-10T21:06:49Z,2022-11-28T09:34:36Z,1,0,1,1,0,0,2
+codecrafters-io/build-your-own-x,425,Add Write your own Excel in 100 lines of F#,2020-02-07T13:37:24Z,2023-07-30T08:45:16Z,1,0,1,1,0,1,2
+codecrafters-io/build-your-own-x,512,Fix a broken link with archive,2020-07-27T02:13:06Z,2024-02-12T22:30:30Z,1,0,1,2,2,0,2
+codecrafters-io/build-your-own-x,514,Update readme,2020-08-02T21:17:08Z,2023-07-16T16:00:52Z,1,173,1,1,0,0,2
+codecrafters-io/build-your-own-x,534,Add Web App Server in Golang,2020-10-01T12:55:06Z,2020-10-25T18:24:41Z,1,150,1,3,3,0,3
+codecrafters-io/build-your-own-x,536,Add Test Collision With Separating Axis Theorem in JavaScript,2020-10-03T19:26:47Z,2021-12-02T14:21:40Z,1,11,1,1,0,0,2
+codecrafters-io/build-your-own-x,542,"Add link to ""ugit: Building Git Yourself""",2020-10-11T11:29:49Z,2023-01-31T07:38:01Z,1,573,1,1,0,0,3
+codecrafters-io/build-your-own-x,551,Add Ray Tracing in One Weekend,2020-11-17T02:38:14Z,2023-01-31T07:44:39Z,2,188,1,1,0,0,3
+codecrafters-io/build-your-own-x,634,Add a tutorial about writing a Tetris game.,2021-06-16T14:11:33Z,2021-08-29T15:42:17Z,1,60,1,1,0,0,2
+codecrafters-io/build-your-own-x,674,chore: remove reverse engineering react unavailable resourse,2021-11-05T16:13:59Z,2021-11-30T08:41:01Z,1,0,1,0,1,0,3
+codecrafters-io/build-your-own-x,678,added cryptoCurreny miner and dockerize tuturial,2021-11-17T20:04:08Z,2022-07-18T13:41:33Z,1,68,1,1,0,1,3
+codecrafters-io/build-your-own-x,696,Emphasize JavaScript's Regex Implementation Topic,2022-02-13T17:59:19Z,2022-02-16T14:06:28Z,1,109,1,1,1,1,3
+codecrafters-io/build-your-own-x,748,Added tutorial for building a basic Rust CLI app,2022-06-17T12:00:53Z,2023-07-04T13:04:41Z,4,83,1,1,0,1,5
+codecrafters-io/build-your-own-x,751,Add tutorial for building a Rust Text Editor.,2022-06-18T01:56:48Z,2022-08-04T11:23:29Z,1,57,1,1,0,1,3
+codecrafters-io/build-your-own-x,775,Update Games With Go unavailable link,2022-07-16T11:43:47Z,2022-07-20T14:00:56Z,1,139,1,1,1,1,3
+codecrafters-io/build-your-own-x,795,New 2D game development with JavaScript added,2022-08-15T01:52:46Z,2022-11-08T10:10:48Z,1,82,1,1,0,0,2
+codecrafters-io/build-your-own-x,797,Update README.md,2022-08-16T14:14:12Z,2024-05-25T15:36:32Z,1,70,1,1,0,0,2
+codecrafters-io/build-your-own-x,802,add python slack bot,2022-09-02T02:55:49Z,2023-03-02T06:23:48Z,3,136,1,1,0,0,4
+codecrafters-io/build-your-own-x,809,Add Create Your Own CLI Tool with NodeJS,2022-10-05T17:56:03Z,2022-10-09T10:17:49Z,1,11,1,1,0,1,4
+codecrafters-io/build-your-own-x,855,Add KV store,2023-02-14T19:48:30Z,2023-02-16T11:17:42Z,2,48,1,1,0,1,2
+codecrafters-io/build-your-own-x,870,Add quote information,2023-03-26T10:00:21Z,2023-10-16T15:00:21Z,1,0,1,1,1,1,3
+codecrafters-io/build-your-own-x,893,add Build your own VPN/Virtual Switch,2023-05-09T09:03:51Z,2023-05-10T00:26:40Z,3,109,1,1,0,0,2
+codecrafters-io/build-your-own-x,934,Fix: Replaced a broken link with alternative from smashingmagazine.com,2023-09-30T06:56:25Z,2023-10-26T20:04:50Z,1,142,1,1,1,0,3
+codecrafters-io/build-your-own-x,944,Update README.md,2023-10-11T11:40:19Z,2023-10-16T17:13:38Z,1,13,1,1,0,0,2
+codecrafters-io/build-your-own-x,948,Update README.md,2023-10-25T04:24:07Z,2025-02-05T17:34:00Z,1,31,1,3,3,1,2
+codecrafters-io/build-your-own-x,961,new pull request,2023-11-23T18:00:26Z,2023-11-24T11:55:09Z,1,0,1,1,0,0,3
+codecrafters-io/build-your-own-x,1030,added python commandline tool,2024-04-12T03:57:56Z,2024-04-14T10:53:53Z,2,91,1,2,0,0,2
+codecrafters-io/build-your-own-x,1060,fix: fixed broken link from list,2024-06-05T21:00:45Z,2024-06-12T21:49:32Z,3,12,1,1,1,2,6
+codecrafters-io/build-your-own-x,1084,feat: added how to build a cli app with node 2024 guide,2024-06-29T08:23:12Z,2024-09-13T13:41:27Z,1,140,1,1,0,1,2
+codecrafters-io/build-your-own-x,1293,Update README.md,2024-12-05T01:45:54Z,2025-01-23T00:33:38Z,2,34,1,1,1,0,3
+codecrafters-io/build-your-own-x,1325,Update README.md,2025-02-04T11:09:30Z,2025-03-04T12:22:31Z,1,180,1,1,1,2,3
+codecrafters-io/build-your-own-x,1396,add a new operating system tutorial,2025-03-28T11:52:40Z,2025-03-28T13:35:04Z,1,193,1,1,0,1,1
+sindresorhus/awesome,249,Fix typo/punctuation,2015-07-29T03:41:00Z,2015-07-29T10:23:30Z,1,0,1,3,3,0,2
+sindresorhus/awesome,755,Add Quora,2016-08-29T09:56:23Z,2016-11-29T10:26:27Z,2,1467,1,1,0,5,3
+sindresorhus/awesome,760,Add Quantified Self,2016-09-11T02:35:59Z,2016-11-03T17:13:43Z,3,1352,1,1,0,8,3
+sindresorhus/awesome,761,Add Ant Design,2016-09-11T05:05:31Z,2016-12-17T10:41:53Z,2,1387,1,1,0,18,5
+sindresorhus/awesome,762,Add Educational Games,2016-09-12T09:11:26Z,2016-11-09T11:56:19Z,6,1064,1,1,0,9,3
+sindresorhus/awesome,769,Add Textpattern,2016-09-20T18:34:07Z,2016-11-04T02:44:46Z,1,1260,1,1,0,7,3
+sindresorhus/awesome,770,Add Raspberry Pi,2016-09-21T12:21:34Z,2016-10-08T09:32:42Z,2,1290,1,1,0,15,7
+sindresorhus/awesome,776,Pluralize title of CMS section,2016-09-30T13:47:55Z,2016-10-01T09:56:25Z,2,261,1,2,2,2,2
+sindresorhus/awesome,777,Add Wagtail,2016-09-30T14:04:55Z,2016-10-06T09:37:06Z,1,1375,1,1,0,2,2
+sindresorhus/awesome,778,Add Domain-Driven Design,2016-09-30T19:05:53Z,2016-10-18T04:26:22Z,2,1482,1,1,0,3,2
+sindresorhus/awesome,780,Add International Image Interoperability Framework,2016-10-01T14:58:41Z,2017-06-02T18:15:03Z,1,1603,1,1,0,12,3
+sindresorhus/awesome,781,Add Browser Extensions and Apps,2016-10-03T07:05:57Z,2016-10-06T06:55:56Z,2,1377,1,1,0,5,4
+sindresorhus/awesome,782,Add Frege,2016-10-03T21:29:16Z,2016-10-08T06:17:43Z,3,1077,1,1,0,5,2
+sindresorhus/awesome,783,Add PowerShell,2016-10-05T08:59:19Z,2016-10-20T19:25:58Z,1,1199,1,1,0,3,2
+sindresorhus/awesome,798,Add FRC,2016-10-16T23:51:32Z,2017-01-05T21:20:32Z,1,1092,1,1,0,3,2
+sindresorhus/awesome,799,"add a description to ""Git Add-ons""",2016-10-17T01:19:25Z,2016-10-17T04:22:20Z,2,1361,1,1,1,0,2
+sindresorhus/awesome,806,Add Blockchain,2016-10-21T15:08:58Z,2017-01-05T21:21:30Z,1,1193,1,1,0,2,3
+sindresorhus/awesome,810,Add Free Software,2016-10-27T20:30:06Z,2017-03-07T11:54:31Z,2,1426,1,1,0,6,5
+sindresorhus/awesome,811,Add Alfred Workflows,2016-10-28T01:00:41Z,2016-11-03T18:57:50Z,7,1017,1,1,0,9,2
+sindresorhus/awesome,814,Add Sass,2016-10-29T08:01:04Z,2016-11-20T06:43:26Z,1,1367,1,1,0,7,2
+sindresorhus/awesome,816,Add Browserify,2016-11-02T13:50:31Z,2016-11-07T09:54:11Z,1,1183,1,1,0,3,2
+sindresorhus/awesome,818,Add Drupal,2016-11-10T08:51:01Z,2016-11-20T06:42:53Z,1,1183,1,1,0,3,2
+sindresorhus/awesome,821,Add SaltStack,2016-11-13T11:13:49Z,2016-12-17T10:43:18Z,2,1614,1,1,0,10,3
+sindresorhus/awesome,830,Add NLP with Ruby,2016-11-27T23:18:23Z,2016-12-17T10:56:01Z,2,2182,1,1,0,4,2
+sindresorhus/awesome,834,Add Information Retrieval,2016-12-01T12:36:41Z,2017-01-10T08:59:50Z,7,2654,1,1,0,14,3
+sindresorhus/awesome,842,Add Front-End design elements,2016-12-10T15:06:02Z,2017-01-16T16:23:13Z,2,2014,1,2,1,9,3
+sindresorhus/awesome,845,Add Less,2016-12-15T12:24:08Z,2017-03-14T18:05:53Z,1,2356,1,1,0,5,3
+sindresorhus/awesome,846,Add Python Asyncio,2016-12-17T13:50:15Z,2017-01-10T12:17:46Z,3,2031,1,1,0,2,2
+sindresorhus/awesome,851,Add Qt,2016-12-24T21:43:58Z,2017-01-18T16:04:48Z,1,2165,1,1,0,8,2
+sindresorhus/awesome,852,Add Website Screenshots,2016-12-29T13:42:59Z,2017-02-20T06:32:10Z,1,2129,1,2,0,7,2
+sindresorhus/awesome,857,Add WebSockets,2017-01-04T14:18:02Z,2017-03-07T14:34:21Z,3,2025,1,4,1,5,4
+sindresorhus/awesome,859,Add WebExtensions,2017-01-07T12:10:17Z,2017-04-20T02:50:36Z,1,2151,1,1,0,6,4
+sindresorhus/awesome,866,Add AdonisJS,2017-01-17T10:50:02Z,2017-02-13T18:09:45Z,1,2079,1,1,0,4,2
+sindresorhus/awesome,871,"Create Business, Work and Networking sections",2017-01-21T11:08:33Z,2017-02-18T20:30:03Z,2,219,1,29,14,1,2
+sindresorhus/awesome,878,Add No-Login Web Apps,2017-01-30T06:32:23Z,2017-02-20T09:39:06Z,3,2387,1,1,0,6,4
+sindresorhus/awesome,882,Add Write-Ups and POCs,2017-02-06T21:52:01Z,2017-09-11T18:25:55Z,4,2010,1,2,0,12,5
+sindresorhus/awesome,895,Add Apache Spark,2017-03-02T01:13:41Z,2017-05-18T16:42:14Z,3,2066,1,1,0,9,5
+sindresorhus/awesome,896,Add Metrics,2017-03-04T13:23:15Z,2017-09-11T18:26:46Z,2,2106,1,1,0,12,4
+sindresorhus/awesome,898,Add Web Security,2017-03-05T05:43:51Z,2017-04-23T14:59:55Z,1,2043,1,1,0,10,4
+sindresorhus/awesome,900,Add Create React App,2017-03-07T11:01:36Z,2017-05-16T07:43:15Z,2,2087,1,1,0,5,3
+sindresorhus/awesome,903,Add IT Quotes,2017-03-11T16:06:48Z,2017-06-18T17:07:58Z,2,2122,1,1,0,10,3
+sindresorhus/awesome,911,Add Terminals Are Sexy,2017-03-16T18:00:38Z,2017-07-07T11:21:24Z,1,2154,1,1,0,8,3
+sindresorhus/awesome,914,Add Dev Fun,2017-03-20T23:13:37Z,2017-04-21T10:28:09Z,4,2063,1,1,0,8,4
+sindresorhus/awesome,915,Add Home Media Center,2017-03-21T15:39:32Z,2017-04-20T10:03:30Z,1,2109,1,1,0,3,3
+sindresorhus/awesome,916,Add Progressive Enhancement,2017-03-22T10:51:09Z,2017-05-02T18:01:10Z,4,2465,1,1,0,15,3
+sindresorhus/awesome,923,Add Events in the Netherlands,2017-03-30T09:40:14Z,2017-04-30T10:12:20Z,1,2097,1,1,0,5,3
+sindresorhus/awesome,924,Add Sentiment Analysis,2017-03-31T01:37:14Z,2017-07-06T19:54:09Z,2,2256,1,1,0,4,3
+sindresorhus/awesome,925,Add Healthcare,2017-04-01T01:25:38Z,2017-05-16T07:16:57Z,1,2166,1,1,0,14,4
+sindresorhus/awesome,934,Add Esolangs,2017-04-07T08:06:53Z,2017-07-22T21:32:52Z,2,3021,1,1,0,17,3
+sindresorhus/awesome,956,Added descriptions,2017-05-08T13:40:28Z,2017-07-06T14:49:05Z,6,21,2,10,10,0,3
+sindresorhus/awesome,962,Add Neuroscience,2017-05-16T19:09:53Z,2017-07-07T09:10:42Z,3,3003,1,1,0,10,4
+sindresorhus/awesome,965,Add RubyMotion,2017-05-18T23:04:50Z,2017-07-07T14:02:06Z,1,2893,1,1,0,8,2
+sindresorhus/awesome,971,Add Joomla!,2017-05-25T08:49:00Z,2017-09-11T18:28:09Z,1,3102,1,1,0,5,2
+sindresorhus/awesome,978,Add Terraform,2017-05-29T23:39:54Z,2017-12-10T22:15:49Z,1,2743,1,1,0,15,3
+sindresorhus/awesome,988,Add Next.js,2017-06-09T19:53:43Z,2017-07-18T11:43:30Z,1,2652,2,14,2,11,14
+sindresorhus/awesome,990,Add Craft CMS,2017-06-22T19:45:38Z,2017-07-24T19:59:04Z,1,2959,1,1,0,8,3
+sindresorhus/awesome,992,Add Indie,2017-06-26T09:29:31Z,2017-07-22T21:10:29Z,1,2810,1,1,0,3,2
+sindresorhus/awesome,998,Add Smart TV,2017-07-06T13:40:28Z,2017-07-15T17:12:46Z,1,2722,1,1,0,10,2
+sindresorhus/awesome,1012,Add Lockpicking,2017-07-19T06:07:03Z,2017-07-22T23:51:52Z,2,2831,1,1,0,6,2
+sindresorhus/awesome,1013,Add Penetration Testing,2017-07-20T21:17:45Z,2018-09-18T18:43:12Z,1,2809,1,1,0,19,7
+sindresorhus/awesome,1015,Add Prometheus,2017-07-26T12:08:32Z,2017-07-27T13:07:25Z,1,2754,1,1,0,3,3
+sindresorhus/awesome,1016,Add Privacy,2017-07-27T06:53:06Z,2018-04-08T10:18:49Z,3,2966,1,1,0,5,2
+sindresorhus/awesome,1018,Add Visual Regression Testing,2017-07-29T17:41:30Z,2017-10-30T08:16:19Z,1,2710,1,1,0,12,2
+sindresorhus/awesome,1025,Add GNOME,2017-08-17T16:21:19Z,2017-10-02T16:52:02Z,2,2923,1,1,0,6,5
+sindresorhus/awesome,1033,Crypto Currency Tools & Algorithms,2017-08-23T00:57:35Z,2017-09-22T08:19:43Z,2,95,1,1,0,10,2
+sindresorhus/awesome,1037,Add HBase,2017-08-28T17:21:42Z,2017-10-11T06:59:27Z,1,2784,1,1,0,3,2
+sindresorhus/awesome,1042,Add Authentication & Authorization,2017-09-04T13:39:11Z,2018-09-18T18:42:21Z,1,2989,1,1,0,11,4
+sindresorhus/awesome,1044,Added descriptions to Text Editors and some languages.,2017-09-07T00:01:58Z,2017-09-23T21:32:38Z,4,2785,1,22,20,2,3
+sindresorhus/awesome,1045,Add Design Principles,2017-09-07T09:48:12Z,2017-10-11T10:18:01Z,1,333,1,1,0,3,2
+sindresorhus/awesome,1046,Core ML Models,2017-09-10T16:56:55Z,2017-09-25T19:11:43Z,1,2874,1,1,0,6,2
+sindresorhus/awesome,1049,Add Livecoding,2017-09-17T22:21:47Z,2019-03-08T02:57:41Z,1,2903,1,1,0,12,2
+sindresorhus/awesome,1053,Add DigitalOcean,2017-09-19T04:50:59Z,2018-09-18T18:06:28Z,1,2820,1,1,0,6,3
+sindresorhus/awesome,1054,Add Mithril,2017-09-19T11:51:40Z,2018-04-08T10:17:20Z,1,2903,5,69,14,2,12
+sindresorhus/awesome,1058,Add Hyperapp,2017-09-20T18:03:38Z,2017-10-27T04:32:58Z,5,2879,1,1,0,11,5
+sindresorhus/awesome,1069,Added R-Shiny to the Front-End Development secion.,2017-09-27T22:24:59Z,2019-02-26T05:24:17Z,6,3294,1,2,0,7,4
+sindresorhus/awesome,1070,Add inspectIT,2017-09-28T12:23:53Z,2017-11-02T13:27:14Z,1,3112,1,1,0,6,2
+sindresorhus/awesome,1071,Add Bootstrap,2017-09-28T19:36:14Z,2018-07-28T18:17:40Z,1,2993,1,1,0,8,3
+sindresorhus/awesome,1076,Add Styled-Components,2017-10-02T22:54:42Z,2018-07-28T18:18:34Z,1,3264,1,1,0,3,2
+sindresorhus/awesome,1079,Adding cryptoaustralia/awesome-privacy-conferences,2017-10-03T22:50:43Z,2018-09-18T19:52:32Z,1,3167,1,1,1,3,4
+sindresorhus/awesome,1080,Add JSON Web Tokens,2017-10-04T05:47:56Z,2018-07-29T05:55:51Z,2,2903,1,1,0,6,2
+sindresorhus/awesome,1081,Minor grammar enhancements to awesome.md,2017-10-04T18:39:55Z,2017-10-05T07:15:04Z,1,143,1,3,3,1,2
+sindresorhus/awesome,1082,Add web caching,2017-10-05T15:04:33Z,2018-04-08T10:28:21Z,1,3182,1,1,0,11,4
+sindresorhus/awesome,1084,Add Cryptography Papers,2017-10-06T12:06:08Z,2018-08-17T21:31:17Z,3,3473,1,1,0,7,2
+sindresorhus/awesome,1086,Add Yii 2,2017-10-09T09:12:30Z,2018-09-18T18:30:38Z,1,2872,1,1,0,13,4
+sindresorhus/awesome,1087,Add Diversity,2017-10-09T20:16:33Z,2017-11-16T18:34:24Z,2,2940,1,1,0,9,3
+sindresorhus/awesome,1089,Add You Don't Know X,2017-10-11T20:23:19Z,2018-04-08T10:26:39Z,2,3051,1,1,1,2,2
+sindresorhus/awesome,1090,Add Amazon Web Services Alternatives,2017-10-11T22:22:40Z,2019-02-26T05:22:10Z,1,240,1,1,0,5,4
+sindresorhus/awesome,1091,Add Investing,2017-10-12T10:34:20Z,2019-04-08T11:53:08Z,1,3005,1,1,1,8,4
+sindresorhus/awesome,1096,Add Nim to programming languages,2017-10-18T05:06:51Z,2019-02-26T05:31:05Z,1,130,1,1,0,13,6
+sindresorhus/awesome,1097,Add Python in Education,2017-10-18T09:47:38Z,2019-06-08T08:49:36Z,2,2999,1,1,0,7,2
+sindresorhus/awesome,1098,Add Telegram,2017-10-18T12:10:38Z,2018-07-28T18:12:01Z,1,148,1,1,0,10,3
+sindresorhus/awesome,1100,Add Nuxt.js,2017-10-19T13:29:23Z,2018-09-18T19:13:12Z,1,2718,1,1,0,7,3
+sindresorhus/awesome,1102,Add some descriptions,2017-10-22T00:02:13Z,2017-10-30T08:09:15Z,3,2940,1,11,11,1,3
+sindresorhus/awesome,1106,Add Agile Software Development,2017-10-24T07:51:56Z,2019-02-26T05:27:55Z,1,3028,1,10,9,4,4
+sindresorhus/awesome,1113,Add Web Storage to Front-end Development section,2017-10-28T22:04:01Z,2018-07-28T19:06:28Z,1,2903,1,1,0,7,3
+sindresorhus/awesome,1115,Add Tech for Good,2017-10-29T18:07:37Z,2018-07-28T18:11:13Z,2,3349,1,1,0,3,2
+sindresorhus/awesome,1117,Add Chaos Engineering,2017-10-30T09:18:37Z,2018-09-18T19:12:23Z,1,3008,1,1,0,5,2
+sindresorhus/awesome,1121,Add descriptions for entries,2017-10-31T11:33:16Z,2017-11-02T12:47:21Z,4,314,1,10,10,1,2
+sindresorhus/awesome,1124,Add Online IDEs,2017-11-03T16:56:28Z,2019-05-09T07:41:59Z,3,3556,1,1,0,13,5
+sindresorhus/awesome,1125,Add H2O,2017-11-04T01:40:37Z,2018-09-29T20:48:33Z,1,3829,1,1,0,14,3
+sindresorhus/awesome,1127,Add micro:bit,2017-11-07T16:42:13Z,2019-04-08T11:40:14Z,2,3010,1,1,0,6,3
+sindresorhus/awesome,1129,Add FIRST Robotics Competition,2017-11-09T03:06:49Z,2018-08-27T06:20:25Z,1,1647,1,1,0,15,3
+sindresorhus/awesome,1142,Add Dash,2017-11-23T09:45:03Z,2019-02-27T05:42:19Z,1,3024,1,1,0,16,5
+sindresorhus/awesome,1143,Add Cisco Spark,2017-11-23T13:11:17Z,2018-05-15T08:24:39Z,2,2962,1,1,0,6,3
+sindresorhus/awesome,1152,Add Robot Operating System 2.0,2017-11-27T20:50:34Z,2019-03-03T13:33:33Z,2,2981,1,1,0,36,4
+sindresorhus/awesome,1154,Add Tailwind CSS,2017-12-01T22:03:32Z,2019-02-26T04:43:12Z,1,2940,1,1,0,12,6
+sindresorhus/awesome,1155,Add Speakers,2017-12-03T20:03:12Z,2018-10-01T07:47:42Z,4,3163,1,1,0,8,3
+sindresorhus/awesome,1164,Add Reproducible Research,2017-12-15T21:16:01Z,2019-06-08T08:49:52Z,3,3026,1,2,2,10,3
+sindresorhus/awesome,1168,Add WebAssembly,2017-12-21T11:28:22Z,2019-06-19T15:26:47Z,2,2999,1,1,0,10,2
+sindresorhus/awesome,1174,Add UNIX,2017-12-27T20:45:37Z,2019-04-08T11:39:12Z,1,3309,1,1,0,9,5
+sindresorhus/awesome,1178,Add Scala Native,2017-12-31T19:24:31Z,2019-05-30T02:51:55Z,3,2936,1,1,0,15,3
+sindresorhus/awesome,1188,Add Regular Expressions,2018-01-22T02:32:48Z,2018-07-29T02:25:42Z,2,2964,1,1,0,12,5
+sindresorhus/awesome,1191,Update Transit list URL,2018-01-23T19:37:39Z,2018-02-04T02:47:15Z,1,98,1,1,1,0,3
+sindresorhus/awesome,1195,Add Explorables,2018-01-26T14:46:15Z,2019-04-08T11:40:37Z,2,3331,1,1,0,10,3
+sindresorhus/awesome,1213,Added natural sciences section with 2 items,2018-02-16T01:36:50Z,2018-07-20T11:48:48Z,2,3022,1,6,1,3,3
+sindresorhus/awesome,1214,Add Monorepo,2018-02-16T04:44:54Z,2019-06-08T08:51:25Z,5,3197,1,20,0,5,3
+sindresorhus/awesome,1218,Add SailfishOS,2018-02-19T19:27:57Z,2019-04-08T11:40:56Z,2,3056,1,1,0,4,3
+sindresorhus/awesome,1223,Add in curated list of blockchain-related academic papers.,2018-02-24T16:03:21Z,2019-04-08T11:41:14Z,2,2903,1,1,0,5,3
+sindresorhus/awesome,1226,Add Quantum Computing,2018-02-25T00:58:14Z,2019-05-30T04:35:18Z,2,3203,1,1,0,15,5
+sindresorhus/awesome,1229,Add YARA,2018-02-28T19:59:14Z,2018-08-17T22:19:39Z,1,2989,1,1,0,4,4
+sindresorhus/awesome,1232,Add Steem,2018-03-02T11:26:03Z,2019-04-08T11:41:22Z,1,3376,1,1,0,10,3
+sindresorhus/awesome,1234,Add Mutation Testing,2018-03-03T17:25:16Z,2019-06-19T15:45:17Z,3,198,1,1,0,15,5
+sindresorhus/awesome,1238,Add Code Review,2018-03-06T03:53:20Z,2018-07-29T05:21:40Z,1,3077,1,1,0,8,3
+sindresorhus/awesome,1239,Add Humane Technology,2018-03-06T12:19:04Z,2018-08-27T06:24:41Z,1,3041,1,1,0,9,4
+sindresorhus/awesome,1240,Add Game Networking,2018-03-06T12:45:53Z,2018-10-08T19:51:30Z,3,3060,1,1,0,11,4
+sindresorhus/awesome,1241,add Hyperledger Fabric,2018-03-08T07:42:03Z,2019-04-08T11:41:30Z,1,3049,1,1,0,5,2
+sindresorhus/awesome,1245,Add Computer Networking,2018-03-13T09:25:32Z,2019-04-08T11:38:58Z,3,2944,1,1,0,4,3
+sindresorhus/awesome,1246,Add cheatsheets List to learn,2018-03-13T16:28:16Z,2018-09-18T19:35:35Z,1,3032,1,1,0,3,3
+sindresorhus/awesome,1247,Add Typography,2018-03-16T06:42:34Z,2019-04-08T11:41:59Z,1,3126,1,1,0,20,7
+sindresorhus/awesome,1253,Add CTO Resources,2018-03-22T19:27:56Z,2019-04-08T11:41:46Z,1,2955,1,2,0,5,3
+sindresorhus/awesome,1254,add cloud-native,2018-03-25T04:27:11Z,2018-09-18T19:36:39Z,1,2899,1,4,0,4,4
+sindresorhus/awesome,1269,Add flat badges to gh-pages branch,2018-04-08T10:54:31Z,2018-04-09T08:55:04Z,6,16,2,2,0,7,14
+sindresorhus/awesome,1275,Add react-bootstrap-components,2018-04-20T17:50:52Z,2018-06-25T01:25:03Z,1,3102,1,1,0,3,3
+sindresorhus/awesome,1276,Add KDE,2018-04-21T09:51:05Z,2019-05-09T08:04:21Z,3,2951,1,1,0,11,4
+sindresorhus/awesome,1277,Add NEM Projects,2018-04-23T07:05:05Z,2019-05-30T02:41:33Z,1,3072,1,1,0,4,2
+sindresorhus/awesome,1278,Add Empirical Software Engineering,2018-04-25T09:11:43Z,2019-05-09T07:29:29Z,3,3034,1,1,0,15,3
+sindresorhus/awesome,1284,Add Open Science Resources,2018-04-30T18:20:49Z,2019-04-08T11:43:37Z,1,3832,1,1,1,8,4
+sindresorhus/awesome,1285,Add Open Computational Neuroscience Resources,2018-04-30T18:29:46Z,2019-04-08T11:43:02Z,1,3965,1,1,0,9,3
+sindresorhus/awesome,1297,Add Mobile Web Development,2018-05-12T20:00:30Z,2019-01-26T08:55:12Z,4,3004,1,1,0,10,4
+sindresorhus/awesome,1305,Add Awesome IOCs,2018-05-17T21:42:33Z,2019-06-08T08:50:24Z,1,3077,1,24,95,20,5
+sindresorhus/awesome,1308,Added link to awesome-complexity list,2018-05-19T20:26:01Z,2019-04-08T11:43:55Z,1,3222,1,1,0,6,3
+sindresorhus/awesome,1311,Add engineering-team-principles of List,2018-05-22T04:58:35Z,2019-05-29T19:20:09Z,2,2953,1,1,0,8,2
+sindresorhus/awesome,1316,Add Agriculture,2018-05-25T17:41:03Z,2019-03-03T15:18:36Z,1,3241,1,1,0,14,2
+sindresorhus/awesome,1317,Add Roslyn,2018-05-28T17:21:31Z,2019-05-13T04:43:19Z,3,340,1,1,0,19,3
+sindresorhus/awesome,1318,Add NoSQL Guides,2018-05-29T17:40:11Z,2019-02-26T07:33:09Z,1,3436,1,1,0,4,3
+sindresorhus/awesome,1319,Add Software Patreons,2018-05-31T13:51:14Z,2018-10-08T06:16:30Z,1,2997,1,1,0,10,3
+sindresorhus/awesome,1320,Add Perl 6,2018-05-31T14:46:57Z,2019-06-19T15:44:46Z,3,2924,1,1,0,10,3
+sindresorhus/awesome,1325,Add awesome-captcha,2018-06-06T06:17:20Z,2018-07-08T07:00:10Z,1,2943,1,1,0,5,2
+sindresorhus/awesome,1328,Add Scientific Computing,2018-06-07T10:07:19Z,2019-03-03T11:32:29Z,8,204,1,1,0,9,5
+sindresorhus/awesome,1330,Add GitHub Alternatives,2018-06-07T15:53:24Z,2019-06-08T08:51:36Z,1,126,1,20,0,25,5
+sindresorhus/awesome,1331,Add Design Patterns,2018-06-09T14:17:44Z,2019-05-09T07:12:41Z,2,3228,1,1,0,19,5
+sindresorhus/awesome,1332,Add CSS Learning,2018-06-11T13:02:35Z,2019-02-26T16:51:25Z,4,3240,1,1,0,7,3
+sindresorhus/awesome,1335,Add Bitcoin Cash ,2018-06-15T20:31:53Z,2019-04-08T11:44:05Z,1,3088,1,1,0,8,4
+sindresorhus/awesome,1336,Add Database Tools,2018-06-17T10:39:16Z,2019-06-19T15:45:02Z,3,2990,1,1,0,11,4
+sindresorhus/awesome,1339,Add macOS Admin Tools,2018-06-21T13:53:07Z,2019-04-08T11:44:26Z,1,2995,1,1,0,10,3
+sindresorhus/awesome,1340,Update Deep learning research for EHR,2018-06-22T14:52:04Z,2019-04-08T11:45:05Z,3,3374,1,1,1,15,6
+sindresorhus/awesome,1341,Add Parasite,2018-06-23T12:19:23Z,2019-01-26T08:12:26Z,2,2892,1,1,0,13,5
+sindresorhus/awesome,1343,Append `#readme` to all awesome list links,2018-06-24T18:13:16Z,2018-07-05T05:47:34Z,1,64,2,421,421,4,4
+sindresorhus/awesome,1344,Add Japanese Language,2018-06-27T04:56:57Z,2019-04-08T11:44:52Z,2,3057,1,1,0,10,6
+sindresorhus/awesome,1345,Add nginx-security list,2018-06-29T01:16:18Z,2019-02-26T08:38:58Z,2,195,1,1,0,5,5
+sindresorhus/awesome,1346,Add Awesome CFP (Call For Papers),2018-06-29T12:30:45Z,2018-08-05T19:06:33Z,2,3155,1,1,1,5,6
+sindresorhus/awesome,1347,Added collection of awesome open-source apps made with Phoenix Framework ,2018-07-04T04:56:16Z,2018-09-18T19:42:03Z,1,2920,1,1,0,3,4
+sindresorhus/awesome,1350,Add Captcha,2018-07-08T07:10:04Z,2018-07-29T05:37:14Z,2,2945,1,1,0,7,4
+sindresorhus/awesome,1351,Add awesome-rxswift,2018-07-11T10:42:19Z,2018-07-31T07:05:20Z,1,2948,1,1,0,1,3
+sindresorhus/awesome,1352,Add Scalability as new category,2018-07-12T05:27:08Z,2018-09-18T19:42:43Z,1,3183,1,6,0,2,3
+sindresorhus/awesome,1356,"Add ""One Person Games"" - Games made by single developers.",2018-07-19T18:28:13Z,2018-08-02T10:01:36Z,1,3006,1,1,0,4,4
+sindresorhus/awesome,1357,Add lit-html,2018-07-20T07:38:42Z,2018-09-18T17:41:59Z,1,3028,1,1,0,10,4
+sindresorhus/awesome,1358,Add Materials Informatics,2018-07-20T12:05:43Z,2019-04-08T11:45:16Z,2,2943,1,7,1,8,4
+sindresorhus/awesome,1362,Add Windows Subsystem for Linux,2018-07-26T20:40:51Z,2019-04-08T11:44:43Z,1,3161,1,1,0,10,3
+sindresorhus/awesome,1364,Add Authentication & Authorization,2018-07-29T03:34:42Z,2019-04-08T11:45:26Z,10,3561,1,1,0,12,7
+sindresorhus/awesome,1366,Add Penetration Testing,2018-07-30T00:54:29Z,2019-05-13T04:55:31Z,6,3525,1,1,0,19,8
+sindresorhus/awesome,1367,Add new a section for related lists to this awesome list #1338,2018-07-30T07:48:47Z,2019-04-08T11:45:48Z,1,135,1,4,0,3,3
+sindresorhus/awesome,1369,Add Minecraft,2018-08-03T01:08:13Z,2019-02-26T19:02:44Z,6,3380,1,1,0,18,7
+sindresorhus/awesome,1370,Add EOSIO,2018-08-04T14:55:50Z,2019-03-03T14:04:46Z,4,3345,1,1,0,15,3
+sindresorhus/awesome,1373,Add Flutter,2018-08-05T14:41:41Z,2018-09-18T05:28:46Z,2,3323,1,1,0,2,5
+sindresorhus/awesome,1374,Add French,2018-08-08T15:57:36Z,2019-04-08T11:49:27Z,1,3375,1,1,0,19,4
+sindresorhus/awesome,1375,Add Scheme,2018-08-09T04:33:36Z,2019-04-08T11:45:58Z,1,3882,1,1,0,10,4
+sindresorhus/awesome,1377,Added October to CMS category,2018-08-11T13:16:42Z,2018-08-16T00:49:19Z,2,3323,1,1,1,4,3
+sindresorhus/awesome,1378,Add Swoft,2018-08-12T14:40:54Z,2018-09-21T08:12:25Z,5,442,1,1,0,7,4
+sindresorhus/awesome,1379,Add EOSIO,2018-08-13T14:33:06Z,2019-01-25T01:23:52Z,3,3776,1,1,0,3,2
+sindresorhus/awesome,1380,+Phaser,2018-08-14T18:58:20Z,2018-08-15T06:32:16Z,1,164,1,1,0,2,2
+sindresorhus/awesome,1384,Add awesome list of time series databases to readme,2018-08-17T06:36:52Z,2018-09-18T19:48:01Z,2,3353,1,1,0,1,3
+sindresorhus/awesome,1385,Add Question Answering,2018-08-22T00:23:56Z,2019-02-26T16:55:23Z,6,3892,1,1,0,14,4
+sindresorhus/awesome,1387,Add Cybersecurity Blue Team,2018-08-23T19:04:42Z,2019-04-08T09:41:07Z,3,3946,1,1,0,8,4
+sindresorhus/awesome,1389,Add ActivityPub,2018-09-02T16:31:30Z,2019-06-08T08:48:41Z,3,3338,1,1,0,10,4
+sindresorhus/awesome,1390,Add Home Assistant,2018-09-02T19:56:43Z,2018-10-16T17:52:03Z,2,6475,1,1,0,13,4
+sindresorhus/awesome,1393,Add Racket,2018-09-09T19:19:50Z,2019-02-26T08:57:52Z,2,134,1,1,0,6,5
+sindresorhus/awesome,1394,Add awesome-lint and CI to lint new awesome lists,2018-09-11T12:29:47Z,2019-09-22T18:11:52Z,2,916,5,542,0,6,4
+sindresorhus/awesome,1395,Add Anchor,2018-09-11T23:03:01Z,2018-09-14T17:25:59Z,1,7,1,1,0,3,2
+sindresorhus/awesome,1401,Add Flutter,2018-09-19T22:05:10Z,2018-10-01T06:25:06Z,2,3515,1,1,0,5,4
+sindresorhus/awesome,1410,Add Shopify,2018-10-04T17:52:39Z,2019-04-08T11:46:12Z,1,179,1,1,0,9,4
+sindresorhus/awesome,1413,Add Board Games,2018-10-08T17:13:22Z,2019-02-26T10:42:03Z,4,3922,1,1,0,8,4
+sindresorhus/awesome,1417,Add Twig,2018-10-12T11:38:57Z,2018-10-15T09:51:09Z,1,3392,1,1,0,3,3
+sindresorhus/awesome,1420,Add Nuxt.js,2018-10-15T08:55:22Z,2019-02-08T22:48:27Z,3,3485,1,1,0,13,6
+sindresorhus/awesome,1422,Add Artificial General Intelligence,2018-10-15T15:25:39Z,2019-04-08T11:47:01Z,2,3777,1,1,0,6,2
+sindresorhus/awesome,1424,added Clojure web framework Luminus,2018-10-17T17:15:55Z,2019-01-26T08:06:59Z,1,3407,1,1,0,4,4
+sindresorhus/awesome,1426,Add React Design Systems,2018-10-20T16:58:01Z,2019-04-08T11:47:17Z,3,3596,1,1,0,8,4
+sindresorhus/awesome,1431,Add NativeScript,2018-10-24T08:49:35Z,2019-02-26T14:51:12Z,1,3630,1,1,0,7,7
+sindresorhus/awesome,1432,Add GitHub Actions,2018-10-26T01:47:28Z,2019-06-19T15:27:29Z,3,652,1,1,0,8,3
+sindresorhus/awesome,1434,Add IT Films,2018-10-26T20:27:44Z,2019-06-08T08:52:03Z,7,3539,1,1,0,24,4
+sindresorhus/awesome,1446,Add Cerebro,2018-10-31T19:49:00Z,2019-02-22T05:51:36Z,2,3528,1,1,0,6,4
+sindresorhus/awesome,1447,Added awesome graph embedding papers list.,2018-10-31T19:59:36Z,2019-05-30T09:40:46Z,6,3624,1,1,0,17,3
+sindresorhus/awesome,1448,Add Universal Rendering,2018-10-31T21:44:44Z,2019-02-26T15:16:30Z,1,345,1,1,0,4,4
+sindresorhus/awesome,1451,"Add ""Movies for Hackers"" awesome list",2018-10-31T22:25:09Z,2019-02-26T04:57:13Z,1,104,1,1,0,8,7
+sindresorhus/awesome,1452,Add Ethereum,2018-11-01T11:04:13Z,2019-01-26T10:37:09Z,1,3772,1,1,0,13,6
+sindresorhus/awesome,1454,Add 30 Seconds of Code,2018-11-07T08:39:20Z,2019-02-26T14:59:14Z,1,3773,1,1,0,7,4
+sindresorhus/awesome,1456,Add Connectivity Data and Reports,2018-11-08T16:40:38Z,2019-06-09T15:02:20Z,3,3753,1,1,0,9,3
+sindresorhus/awesome,1461,Add CSV,2018-11-17T03:54:00Z,2019-05-29T19:13:29Z,5,3628,1,1,0,17,4
+sindresorhus/awesome,1462,Add Svelte,2018-11-18T06:26:49Z,2019-02-26T15:22:49Z,1,3375,1,1,0,4,4
+sindresorhus/awesome,1466,Add Nest,2018-11-25T16:43:04Z,2019-04-08T11:48:10Z,1,3575,1,1,1,10,4
+sindresorhus/awesome,1480,Adding awesome-flights list,2018-12-19T14:47:27Z,2019-06-19T15:44:18Z,1,263,1,2,1,10,2
+sindresorhus/awesome,1482,Add Ada/SPARK,2018-12-20T02:13:38Z,2019-02-16T18:04:13Z,4,3520,1,1,0,3,2
+sindresorhus/awesome,1483,Add React Hooks,2018-12-23T00:20:35Z,2019-04-08T11:48:33Z,1,209,1,1,0,9,4
+sindresorhus/awesome,1485,Add PyTorch,2018-12-29T19:44:13Z,2019-04-08T11:51:57Z,3,3407,1,1,0,11,3
+sindresorhus/awesome,1489,add Corona SDK to ## Gaming,2019-01-05T15:58:42Z,2019-02-26T16:08:03Z,1,3471,1,1,0,5,4
+sindresorhus/awesome,1490,Add Db2,2019-01-07T06:20:38Z,2019-07-26T22:05:19Z,3,4180,1,1,0,14,4
+sindresorhus/awesome,1491,Add Prisma,2019-01-07T09:29:25Z,2019-05-09T07:45:09Z,4,3654,1,1,0,17,5
+sindresorhus/awesome,1494,Add Fuzzing,2019-01-08T02:43:19Z,2019-06-10T08:34:41Z,7,3485,1,1,0,22,4
+sindresorhus/awesome,1498,Add Git Hooks,2019-01-11T00:34:22Z,2019-05-29T19:15:45Z,6,399,1,1,1,17,4
+sindresorhus/awesome,1499,Add Roadmaps,2019-01-13T05:21:45Z,2019-05-13T04:26:00Z,3,206,1,1,0,21,6
+sindresorhus/awesome,1503,Add Software Architecture,2019-01-16T10:39:44Z,2019-05-09T08:17:11Z,7,410,1,1,0,15,4
+sindresorhus/awesome,1512,Add Bitcoin Payment Processors,2019-01-25T05:48:00Z,2019-02-22T07:50:42Z,3,3455,1,1,0,5,2
+sindresorhus/awesome,1514,Added ML with Python,2019-01-29T09:56:48Z,2019-02-27T05:51:23Z,2,3806,1,1,0,10,4
+sindresorhus/awesome,1515,Add Firebase,2019-01-30T08:29:51Z,2019-02-22T06:54:03Z,1,394,1,1,0,8,4
+sindresorhus/awesome,1517,Awesome-Delphi list evolved to Awesome-Pascal,2019-02-04T15:10:44Z,2019-02-18T07:22:40Z,2,3407,1,1,1,2,2
+sindresorhus/awesome,1519,Added WebAuthn list,2019-02-07T16:07:46Z,2019-04-08T11:49:06Z,1,3548,1,1,1,6,3
+sindresorhus/awesome,1520,Add Prometheus Alerts,2019-02-11T21:11:19Z,2019-02-26T17:35:43Z,1,2842,1,1,0,9,2
+sindresorhus/awesome,1523, Added Awesome Deep Vision List,2019-02-15T08:21:58Z,2019-02-26T16:44:32Z,1,3406,1,1,0,5,4
+sindresorhus/awesome,1527,Delphi list was renamed to Pascal,2019-02-18T07:21:10Z,2019-06-10T08:46:35Z,5,3407,1,1,1,0,2
+sindresorhus/awesome,1528,Add HiC,2019-02-20T10:37:19Z,2019-06-08T08:53:03Z,2,4132,1,1,1,7,2
+sindresorhus/awesome,1529,Add Related section,2019-02-21T15:41:00Z,2019-02-22T14:28:37Z,4,11,1,6,0,1,2
+sindresorhus/awesome,1532,Add Game Networking,2019-02-23T18:22:58Z,2019-02-26T18:14:45Z,2,3627,1,1,0,9,2
+sindresorhus/awesome,1536,Add Plotters,2019-02-26T14:19:57Z,2019-03-04T05:58:20Z,1,3713,1,1,0,8,4
+sindresorhus/awesome,1537,Add Product Design,2019-02-26T17:56:42Z,2019-05-09T07:05:07Z,5,3698,1,1,0,8,3
+sindresorhus/awesome,1542,Add Django,2019-03-06T12:36:27Z,2019-06-08T08:56:30Z,1,3854,1,1,0,8,4
+sindresorhus/awesome,1547,Add Game Datasets,2019-03-13T19:48:23Z,2019-06-15T06:59:09Z,6,6932,1,1,0,12,3
+sindresorhus/awesome,1556,Add Project Management,2019-04-24T05:43:13Z,2019-05-26T06:10:32Z,7,3608,1,1,0,9,4
+sindresorhus/awesome,1557,Add WYSIWYG,2019-04-25T06:47:43Z,2019-06-08T08:55:50Z,2,3393,1,1,0,5,4
+sindresorhus/awesome,1559,Add Flash Briefings,2019-04-28T21:17:42Z,2019-06-08T08:55:39Z,3,6885,1,1,0,1,4
+sindresorhus/awesome,1560,Add React Hooks,2019-05-02T13:48:56Z,2019-05-14T09:11:40Z,3,215,1,1,0,5,3
+sindresorhus/awesome,1563,Add Cloud Native,2019-05-12T11:22:55Z,2019-06-19T15:45:09Z,1,4332,1,1,0,4,5
+sindresorhus/awesome,1566,New list: Energy Efficiency for Mobile Apps,2019-05-17T12:37:56Z,2019-06-19T15:28:09Z,1,4980,1,1,1,1,3
+sindresorhus/awesome,1567,Add descriptions,2019-05-19T07:10:26Z,2019-05-24T07:29:10Z,5,111,1,10,10,6,4
+sindresorhus/awesome,1573,Add Haxe Game Development,2019-05-28T11:54:00Z,2019-09-25T17:30:54Z,5,4836,1,1,0,14,6
+sindresorhus/awesome,1577,Add Blazor,2019-06-14T15:28:53Z,2019-07-31T19:43:37Z,1,5369,1,1,0,21,5
+sindresorhus/awesome,1585,Add Computational Neuroscience,2019-07-18T07:59:13Z,2019-08-18T19:26:47Z,7,7068,1,8,0,13,5
+sindresorhus/awesome,1593,Update URLs from GitHub username changes,2019-07-29T10:50:02Z,2019-07-30T23:50:39Z,1,50,1,10,10,0,3
+sindresorhus/awesome,1595,Add Cytodata,2019-07-29T14:14:59Z,2019-09-26T04:53:30Z,3,6133,1,1,0,7,4
+sindresorhus/awesome,1600,Add Awesome Biomarkers List,2019-08-08T09:25:48Z,2019-12-16T14:02:07Z,1,588,1,1,0,10,4
+sindresorhus/awesome,1606,Add Tech Talks,2019-08-19T01:48:43Z,2019-09-22T18:05:23Z,1,341,1,1,1,4,6
+sindresorhus/awesome,1609,Add Qlik,2019-08-28T05:39:47Z,2019-11-16T08:12:58Z,5,632,1,1,0,17,9
+sindresorhus/awesome,1610,Add Python Data Science,2019-08-31T00:03:36Z,2019-09-26T05:16:58Z,3,6020,1,1,0,11,5
+sindresorhus/awesome,1611,Add GDPR,2019-08-31T13:48:12Z,2019-09-26T04:51:38Z,4,5337,1,1,0,10,5
+sindresorhus/awesome,1612,Add Web Performance Metrics,2019-09-01T22:17:34Z,2019-09-28T17:12:42Z,4,5236,1,1,0,9,6
+sindresorhus/awesome,1613,Add Advertising,2019-09-10T16:27:08Z,2019-09-26T05:10:50Z,4,5213,1,1,0,8,5
+sindresorhus/awesome,1614,Add Actions on Google,2019-09-12T04:01:02Z,2019-09-26T05:13:26Z,1,5186,1,1,0,14,3
+sindresorhus/awesome,1615,Add Clean Tech,2019-09-14T12:40:00Z,2019-09-26T05:01:41Z,3,5123,1,1,0,5,4
+sindresorhus/awesome,1616,Add description to some entries,2019-09-17T13:34:07Z,2019-09-23T09:43:24Z,6,60,1,10,10,9,3
+sindresorhus/awesome,1622,Add fast.ai,2019-10-02T13:34:12Z,2020-04-12T09:54:13Z,1,5097,1,1,0,15,10
+sindresorhus/awesome,1623,Add Wardley Maps,2019-10-02T19:52:35Z,2019-11-22T17:45:22Z,1,5286,1,1,0,14,6
+sindresorhus/awesome,1627,Add WordPress-Gatsby,2019-10-09T12:26:09Z,2019-11-14T08:04:04Z,7,5319,1,1,0,11,4
+sindresorhus/awesome,1628,Add Splunk,2019-10-10T00:05:53Z,2019-12-22T22:36:59Z,2,5169,1,1,0,16,4
+sindresorhus/awesome,1630,Add Arch-based Projects,2019-10-12T19:39:16Z,2019-11-18T03:50:20Z,3,10708,1,1,0,9,4
+sindresorhus/awesome,1635,Add CI and Software Quality,2019-10-19T20:36:30Z,2019-11-22T18:43:02Z,1,219,1,2,0,6,5
+sindresorhus/awesome,1636,Add wordpress CMS,2019-10-21T11:37:51Z,2019-10-28T06:24:54Z,1,5361,1,1,0,4,4
+sindresorhus/awesome,1637,Add Digital History,2019-10-21T20:53:39Z,2019-11-16T08:06:39Z,8,5574,1,1,0,7,4
+sindresorhus/awesome,1638,Add Tefter awesome feed under the related section,2019-10-21T21:25:52Z,2019-10-28T06:33:50Z,2,5375,1,1,1,5,4
+sindresorhus/awesome,1639,Add Python Typing,2019-10-24T13:39:16Z,2019-11-16T07:47:38Z,2,4454,1,1,0,7,2
+sindresorhus/awesome,1640,‎‎‎‎,2019-10-24T20:11:42Z,2020-01-07T18:27:01Z,1,0,1,1,0,11,7
+sindresorhus/awesome,1643,Add Blaze,2019-10-26T21:35:35Z,2019-11-22T18:44:44Z,1,5968,1,1,0,7,5
+sindresorhus/awesome,1648,Add FSharp,2019-10-28T01:32:02Z,2019-10-29T01:55:44Z,1,5280,1,1,0,5,3
+sindresorhus/awesome,1649,Add PlayCanvas,2019-10-28T14:58:32Z,2019-11-12T12:06:19Z,1,5352,1,1,0,8,4
+sindresorhus/awesome,1651,Add Italy Events,2019-11-03T12:03:49Z,2019-11-16T07:44:51Z,1,5308,1,1,0,4,3
+sindresorhus/awesome,1652,Add Earth,2019-11-05T15:58:16Z,2019-11-22T08:39:33Z,3,5363,1,1,0,10,3
+sindresorhus/awesome,1653,Add Creative Tech Events,2019-11-08T16:25:59Z,2020-01-21T06:09:33Z,6,5611,1,5,0,18,6
+sindresorhus/awesome,1654,Add Tailwind CSS,2019-11-08T16:48:24Z,2019-11-12T12:09:53Z,3,5283,1,1,0,11,3
+sindresorhus/awesome,1655,Add Hacker Laws,2019-11-10T11:46:43Z,2019-12-16T13:57:25Z,3,729,1,1,1,3,6
+sindresorhus/awesome,1656,Add Natural Language Generation,2019-11-11T06:45:31Z,2019-12-22T22:40:54Z,3,5364,1,1,0,10,3
+sindresorhus/awesome,1657,Add sentence embeddings in NLP section,2019-11-14T16:27:49Z,2019-12-16T13:56:24Z,1,0,1,1,0,3,3
+sindresorhus/awesome,1660,Add Web Browsers,2019-11-18T14:00:11Z,2020-06-15T05:48:00Z,2,5982,1,1,0,13,8
+sindresorhus/awesome,1666,Add Awesome Mechatroincs List,2019-11-26T15:50:13Z,2020-03-12T18:22:04Z,2,11503,1,1,0,7,7
+sindresorhus/awesome,1669,Add Web Performance Budget,2019-12-04T03:22:22Z,2019-12-24T13:22:56Z,4,5782,1,1,0,12,3
+sindresorhus/awesome,1675,lint awesome with awesome-lint as an Action,2019-12-24T08:26:27Z,2020-06-15T05:48:01Z,2,245,1,20,0,1,4
+sindresorhus/awesome,1676,Add Material-UI,2019-12-27T21:25:30Z,2020-03-22T07:15:31Z,4,5832,1,1,0,17,8
+sindresorhus/awesome,1677,Add Web Animation,2019-12-28T20:36:38Z,2020-01-21T06:16:32Z,5,6269,1,1,0,8,6
+sindresorhus/awesome,1679,Add Database Tools,2020-01-01T22:03:52Z,2020-04-05T10:01:29Z,2,5599,1,1,0,15,7
+sindresorhus/awesome,1681,Add Common Lisp Learning,2020-01-06T21:33:11Z,2020-01-21T06:03:12Z,2,5770,1,2,1,7,4
+sindresorhus/awesome,1682,Add Computer Vision Models,2020-01-07T17:42:46Z,2020-06-15T05:48:02Z,3,5782,1,1,0,9,5
+sindresorhus/awesome,1683,Add Corda,2020-01-10T06:25:35Z,2020-01-21T06:13:19Z,4,408,1,1,0,5,6
+sindresorhus/awesome,1684,Add V,2020-01-12T09:15:45Z,2020-04-27T09:55:29Z,7,5813,1,1,0,26,9
+sindresorhus/awesome,1688,Add Yew,2020-01-22T00:49:19Z,2020-02-16T13:35:32Z,2,6084,1,1,0,14,5
+sindresorhus/awesome,1689,Add ESP,2020-01-22T05:33:09Z,2020-02-01T05:53:31Z,2,553,1,1,0,4,3
+sindresorhus/awesome,1690,Move event-related lists to the new Events section,2020-01-22T19:35:38Z,2020-01-29T08:51:20Z,2,0,1,2,2,0,4
+sindresorhus/awesome,1692,Add Ponyfills,2020-01-29T03:30:13Z,2020-06-05T14:41:09Z,3,217,1,1,0,19,4
+sindresorhus/awesome,1694,Add Real Time Communications,2020-02-06T22:38:12Z,2020-05-30T17:09:11Z,1,5899,1,1,0,7,4
+sindresorhus/awesome,1696,Lint with awesome-lint via GitHub Actions,2020-02-10T07:31:24Z,2020-06-15T05:48:03Z,2,42,1,15,0,3,3
+sindresorhus/awesome,1700,Add Scientific Writing,2020-02-18T11:10:49Z,2020-06-15T05:48:04Z,4,5865,1,1,0,15,6
+sindresorhus/awesome,1701,Add StimulusJS,2020-02-21T22:38:42Z,2020-05-30T17:33:46Z,1,5903,1,1,0,9,5
+sindresorhus/awesome,1703,Add Topological Data Analysis,2020-02-23T20:04:26Z,2020-06-15T05:48:04Z,1,5826,1,1,0,7,5
+sindresorhus/awesome,1704,Add Web Archiving,2020-02-25T15:39:38Z,2020-03-27T07:25:07Z,1,5899,1,1,0,6,3
+sindresorhus/awesome,1720,Add Technical Debt,2020-02-28T23:26:30Z,2020-06-15T05:48:05Z,2,5995,1,1,0,7,7
+sindresorhus/awesome,1722,Add Software Engineering for Machine Learning,2020-02-29T19:29:25Z,2020-06-15T05:48:05Z,2,6258,1,1,0,18,5
+sindresorhus/awesome,1725,Add Awesome Azure Learning,2020-03-07T15:35:19Z,2020-06-02T11:42:02Z,1,5720,1,1,0,12,9
+sindresorhus/awesome,1727,Add Contexture,2020-03-08T03:04:58Z,2020-03-09T13:43:46Z,2,860,1,1,0,10,3
+sindresorhus/awesome,1735,Add Awesome Micro-Frontends to frontend section,2020-03-15T08:21:25Z,2020-06-15T05:48:06Z,1,5856,1,2,0,6,4
+sindresorhus/awesome,1738,Add Awesome List of OSS Maintainers Tools to miscellaneous section,2020-03-21T14:41:10Z,2020-06-15T05:48:06Z,1,6014,1,1,0,10,5
+sindresorhus/awesome,1747,Add Sitecore,2020-03-28T03:15:57Z,2020-06-01T18:18:23Z,6,5666,1,1,0,22,5
+sindresorhus/awesome,1749,Add Unikernels,2020-03-30T13:41:16Z,2020-06-15T05:48:07Z,2,5841,1,1,0,6,4
+sindresorhus/awesome,1760,Add DevSecOps,2020-04-20T02:39:16Z,2020-06-15T05:48:09Z,3,631,1,1,0,7,5
+sindresorhus/awesome,1767,Add Ctf cheatsheet,2020-05-10T20:45:30Z,2020-06-01T16:54:52Z,2,5760,1,1,0,14,5
+sindresorhus/awesome,1769,Add Hyperledger Fabric,2020-05-12T04:46:15Z,2020-05-29T09:20:50Z,1,5792,1,1,0,7,7
+sindresorhus/awesome,1770,Add WP-CLI,2020-05-12T13:22:24Z,2020-06-15T05:48:10Z,5,6150,1,1,0,5,7
+sindresorhus/awesome,1775,Add Audiovisual,2020-05-16T16:08:28Z,2020-06-15T05:48:10Z,2,5773,1,1,0,11,5
+sindresorhus/awesome,1783,Add SQL,2020-05-29T13:08:25Z,2020-06-15T05:48:11Z,2,5445,1,1,0,7,5
+sindresorhus/awesome,1784,Add Reversing,2020-05-30T03:42:44Z,2020-06-15T05:48:11Z,2,5812,1,1,0,2,4
+sindresorhus/awesome,1785,Add Flame,2020-05-31T07:54:27Z,2020-06-15T05:48:12Z,1,403,1,1,0,5,4
+sindresorhus/awesome,1786,Add Astronomy,2020-05-31T12:24:37Z,2020-06-15T05:48:12Z,2,5869,1,1,0,5,4
+sindresorhus/awesome,1787,Add Solidity,2020-06-02T16:36:15Z,2020-06-15T05:48:13Z,1,304,1,1,0,2,3
+sindresorhus/awesome,1788,Add Knowledge Graphs,2020-06-04T14:04:01Z,2020-06-15T05:48:13Z,2,5843,1,1,0,5,5
+sindresorhus/awesome,1789,Add Building Blocks for Web Apps,2020-06-04T21:13:21Z,2020-06-15T05:48:14Z,1,326,1,1,0,6,3
+sindresorhus/awesome,1794,Lint with awesome-lint via GitHub Actions,2020-06-15T06:03:19Z,2021-07-28T10:48:03Z,2,50,1,15,0,16,10
+sindresorhus/awesome,1795,Add Audiovisual,2020-06-15T06:52:15Z,2020-06-27T20:03:01Z,2,340,1,1,0,5,3
+sindresorhus/awesome,1797,Add Topological Data Analysis,2020-06-15T06:52:57Z,2020-09-30T13:58:02Z,1,5915,1,1,0,12,6
+sindresorhus/awesome,1800,Add FastAPI,2020-06-15T12:44:16Z,2020-07-03T19:25:11Z,1,356,1,1,0,17,4
+sindresorhus/awesome,1802,Add Astronomy,2020-06-15T13:10:29Z,2020-10-29T23:51:31Z,9,5785,1,1,0,9,7
+sindresorhus/awesome,1803,Add Chess,2020-06-15T13:12:40Z,2020-10-29T23:53:14Z,6,6072,1,1,1,14,8
+sindresorhus/awesome,1804,Add SQL,2020-06-15T13:13:45Z,2020-07-07T21:04:07Z,4,5599,1,1,0,8,6
+sindresorhus/awesome,1805,Add Flame,2020-06-16T05:39:56Z,2020-06-27T10:59:13Z,1,95,1,1,0,3,2
+sindresorhus/awesome,1808,Add Translations,2020-06-19T17:32:14Z,2020-07-07T21:05:28Z,1,5921,1,1,0,5,3
+sindresorhus/awesome,1811,Add DevSecOps,2020-06-24T07:12:03Z,2020-07-03T19:15:24Z,2,631,1,1,0,5,4
+sindresorhus/awesome,1812,Add Web Monetization,2020-06-26T20:35:08Z,2020-12-19T17:35:22Z,6,5994,1,1,0,21,4
+sindresorhus/awesome,1813,Add Discord Communities,2020-06-28T07:56:10Z,2020-09-02T11:29:26Z,2,7075,1,1,0,13,3
+sindresorhus/awesome,1816,Update pull request template link to use `main` branch,2020-07-04T11:37:32Z,2020-10-29T23:50:26Z,3,123,1,1,1,0,5
+sindresorhus/awesome,1817,Add Hive,2020-07-05T06:38:40Z,2021-01-10T10:33:12Z,6,5914,1,1,0,15,3
+sindresorhus/awesome,1821,Add Cloud Native,2020-07-12T08:24:49Z,2020-09-30T00:30:29Z,3,6115,1,1,0,6,5
+sindresorhus/awesome,1826,Add Outsourcing,2020-07-17T19:03:42Z,2020-08-25T17:08:33Z,1,492,1,1,0,1,2
+sindresorhus/awesome,1827,Add CDK,2020-07-20T10:15:53Z,2021-01-07T07:53:40Z,1,311,1,1,0,12,4
+sindresorhus/awesome,1829,Add AI in Finance,2020-07-20T14:37:27Z,2020-08-21T09:09:17Z,4,214,1,1,0,16,4
+sindresorhus/awesome,1835,Add Formal Languages and Compilers,2020-07-26T00:21:38Z,2020-09-30T00:33:29Z,2,200,1,1,0,3,5
+sindresorhus/awesome,1837,Add R Learning Resources,2020-08-03T15:44:18Z,2020-10-13T19:36:48Z,8,615,1,2,1,15,5
+sindresorhus/awesome,1838,Add Real World RL,2020-08-03T17:31:57Z,2021-01-09T19:05:07Z,1,6022,1,1,0,11,5
+sindresorhus/awesome,1839,Add Concepts,2020-08-03T21:46:10Z,2020-09-30T00:49:22Z,1,5952,1,1,0,2,3
+sindresorhus/awesome,1848,add web effect,2020-08-15T12:21:53Z,2020-11-23T12:50:47Z,2,5908,1,1,0,6,8
+sindresorhus/awesome,1851,auto awesome-lint any list added to the readme in a PR,2020-08-17T02:14:34Z,2021-03-08T23:23:47Z,2,1535,1,43,0,5,4
+sindresorhus/awesome,1856,Add Privacy Papers for Visual Data,2020-08-28T13:11:05Z,2021-01-09T19:20:17Z,3,5802,1,1,0,9,4
+sindresorhus/awesome,1857,Add Ansible,2020-08-28T21:49:07Z,2020-11-02T00:45:45Z,3,6103,1,1,0,17,5
+sindresorhus/awesome,1859,Add Egocentric Vision,2020-08-30T16:19:26Z,2021-06-06T22:50:10Z,1,6151,1,1,0,21,7
+sindresorhus/awesome,1860,Sync PR template with ToC rules about silenced sections,2020-09-04T16:02:27Z,2020-10-12T16:11:55Z,8,68,1,5,1,4,2
+sindresorhus/awesome,1861,Add Production Machine Learning,2020-09-05T09:02:47Z,2020-11-28T06:20:20Z,3,619,1,1,0,24,6
+sindresorhus/awesome,1865,Add TensorFlow Lite,2020-09-11T17:44:15Z,2020-11-20T11:16:10Z,1,6046,1,1,0,24,6
+sindresorhus/awesome,1866,Add TALL Stack,2020-09-16T20:05:18Z,2020-11-03T13:27:04Z,2,391,1,1,0,12,5
+sindresorhus/awesome,1867,Add Tasker,2020-09-20T22:15:16Z,2020-11-20T05:27:48Z,1,394,1,1,0,9,5
+sindresorhus/awesome,1868,Add YouTubers,2020-09-25T16:42:54Z,2021-01-09T19:27:32Z,3,6809,1,1,0,6,5
+sindresorhus/awesome,1869,Add Substrate,2020-09-25T16:43:15Z,2020-11-20T10:57:53Z,4,1158,1,1,0,7,4
+sindresorhus/awesome,1871,Add CHIP-8,2020-09-28T09:11:16Z,2020-10-31T10:30:39Z,1,6123,1,1,0,6,2
+sindresorhus/awesome,1873,Add QR Code,2020-09-29T16:12:18Z,2021-02-26T10:35:36Z,4,3321,1,1,0,19,8
+sindresorhus/awesome,1876,Add Design Systems,2020-10-02T14:51:53Z,2021-01-17T09:55:34Z,3,7032,1,1,0,16,7
+sindresorhus/awesome,1879,Add Silverstripe CMS,2020-10-09T17:40:45Z,2021-01-10T10:35:26Z,3,6047,1,1,0,14,5
+sindresorhus/awesome,1886,Add Veganism,2020-10-24T11:11:16Z,2021-01-12T07:47:36Z,5,7012,1,1,0,13,7
+sindresorhus/awesome,1887,Add Engineering Team Management,2020-10-24T23:50:04Z,2020-10-29T14:31:37Z,1,7593,1,1,0,16,3
+sindresorhus/awesome,1907,Add Translations,2020-11-16T12:19:44Z,2021-03-09T16:29:50Z,5,6813,1,1,0,24,5
+sindresorhus/awesome,1908,Add LIDAR,2020-11-16T14:45:02Z,2020-12-22T06:06:05Z,1,7078,1,1,0,8,3
+sindresorhus/awesome,1914,Add Developer-First Products,2020-11-30T17:43:52Z,2021-03-07T12:03:41Z,1,7471,1,1,0,8,3
+sindresorhus/awesome,1915,Add Games of Coding,2020-12-01T03:08:25Z,2021-01-14T11:32:43Z,3,6811,1,1,0,8,3
+sindresorhus/awesome,1916,Add IAM,2020-12-07T15:42:49Z,2021-03-07T14:33:18Z,4,5775,1,1,0,11,2
+sindresorhus/awesome,1917,Add DOS,2020-12-09T19:33:48Z,2021-01-31T09:42:20Z,1,7104,1,1,0,8,4
+sindresorhus/awesome,1921,Add Quality Assurance Roadmap,2020-12-15T12:32:22Z,2021-03-10T08:33:26Z,2,497,1,1,0,18,3
+sindresorhus/awesome,1922,Add Awesome Protocols,2020-12-19T19:11:53Z,2021-04-24T18:24:21Z,1,6519,1,1,0,7,3
+sindresorhus/awesome,1926,Add Billing,2020-12-29T13:41:56Z,2021-07-27T12:24:44Z,1,7114,1,1,0,10,5
+sindresorhus/awesome,1928,Add Startpage,2021-01-02T10:41:07Z,2021-06-05T10:25:49Z,4,6708,1,1,0,12,5
+sindresorhus/awesome,1932,Add JavaScript Data Science,2021-01-13T16:05:57Z,2021-01-23T22:40:04Z,2,6760,1,1,0,5,4
+sindresorhus/awesome,1936,Update link to Godot list,2021-01-23T08:24:26Z,2021-08-16T17:56:53Z,2,6521,1,1,1,10,7
+sindresorhus/awesome,1942,Add Awesome .Net Core Education,2021-01-28T14:58:38Z,2021-07-27T12:28:34Z,2,6645,1,1,0,20,3
+sindresorhus/awesome,1947,Add Popular Reddit Channels,2021-02-09T17:36:27Z,2021-04-05T15:55:31Z,1,6606,1,1,0,8,4
+sindresorhus/awesome,1949,Introduce Auto Checking of URLs,2021-02-15T12:49:58Z,2021-04-12T14:32:47Z,1,302,1,39,0,1,3
+sindresorhus/awesome,1952,Add JavaScript CLIs,2021-02-21T11:36:15Z,2021-07-27T12:28:56Z,1,182,1,1,0,10,3
+sindresorhus/awesome,1953,Add Scriptable,2021-02-21T14:56:01Z,2021-07-29T11:58:23Z,1,6731,1,1,0,18,3
+sindresorhus/awesome,1959,Add Reconnaissance and Footprinting,2021-03-04T00:24:41Z,2021-07-27T12:06:15Z,1,6601,1,1,0,8,4
+sindresorhus/awesome,1960,Add Theoretical Computer Science,2021-03-05T08:31:22Z,2021-07-07T13:52:22Z,2,6767,1,1,0,20,3
+sindresorhus/awesome,1962,Run `awesome-lint` on new additions,2021-03-08T23:22:55Z,2021-04-19T09:59:15Z,5,1644,2,36,0,3,3
+sindresorhus/awesome,1963,Add Artificial Humour,2021-03-09T18:44:19Z,2021-07-27T12:07:04Z,1,6595,1,1,0,8,3
+sindresorhus/awesome,1965,Add Supabase,2021-03-10T17:33:57Z,2021-09-17T15:48:53Z,4,6555,1,1,0,11,7
+sindresorhus/awesome,1966,Add Bots,2021-03-11T06:31:10Z,2023-02-11T06:45:18Z,4,6769,1,2,1,8,9
+sindresorhus/awesome,1970,Add vite,2021-03-20T20:49:01Z,2021-05-28T12:50:19Z,3,217,1,1,0,5,6
+sindresorhus/awesome,1973,Add Nix,2021-03-27T13:32:46Z,2021-04-02T19:51:59Z,4,6904,1,1,0,6,3
+sindresorhus/awesome,1974,Add Jai language awesome document,2021-03-28T23:50:39Z,2021-06-03T20:28:32Z,2,6470,1,1,0,7,5
+sindresorhus/awesome,1980,Add XAI,2021-04-05T16:07:22Z,2021-05-12T07:57:23Z,2,6903,1,1,0,13,3
+sindresorhus/awesome,1981,Add Projen,2021-04-09T15:19:00Z,2021-07-27T12:19:45Z,1,1119,1,1,0,2,4
+sindresorhus/awesome,1983,Add Web Effect,2021-04-11T21:39:21Z,2021-06-04T19:11:06Z,2,6470,1,1,0,2,4
+sindresorhus/awesome,2001,Add MLOps to Machine Learning,2021-05-02T14:05:50Z,2021-07-06T10:20:04Z,1,6537,1,1,0,6,6
+sindresorhus/awesome,2007,Add Software Architecture,2021-05-07T11:40:36Z,2021-07-28T00:18:55Z,4,6692,1,1,0,13,4
+sindresorhus/awesome,2011,Add Version Managers,2021-05-13T19:07:28Z,2021-09-17T15:54:20Z,2,6949,1,1,0,13,4
+sindresorhus/awesome,2012,Add Zabbix iten on the list,2021-05-14T19:32:59Z,2021-07-06T10:15:24Z,2,6493,1,27,0,7,4
+sindresorhus/awesome,2013,Add Urban & Regional Planning,2021-05-15T00:42:47Z,2021-06-05T12:22:26Z,5,7665,1,1,0,8,3
+sindresorhus/awesome,2019,Add Privacy,2021-05-22T06:50:32Z,2021-07-27T12:31:35Z,2,6321,1,1,0,6,3
+sindresorhus/awesome,2023,Add Audit Algorithms,2021-05-26T07:21:52Z,2022-06-02T11:14:48Z,2,6611,1,1,0,14,5
+sindresorhus/awesome,2024,Add Golem,2021-05-27T12:03:23Z,2021-07-05T16:46:15Z,4,6868,1,1,0,4,3
+sindresorhus/awesome,2035,Add Fetch,2021-06-25T08:33:05Z,2022-02-27T08:37:42Z,5,6574,1,1,0,23,12
+sindresorhus/awesome,2038,Add VLC,2021-06-30T07:21:13Z,2021-07-28T12:16:14Z,2,6039,1,1,0,10,4
+sindresorhus/awesome,2044,Add Bootstrap 5 CheatSheet,2021-08-02T14:18:01Z,2021-08-03T15:43:41Z,1,906,1,1,0,1,4
+sindresorhus/awesome,2045,Add AppImage,2021-08-16T08:01:10Z,2021-09-19T08:45:45Z,2,7,1,1,0,10,4
+sindresorhus/awesome,2050,Add OSS Docs,2021-08-26T09:06:09Z,2022-06-02T11:19:30Z,6,6925,1,1,0,17,7
+sindresorhus/awesome,2054,Add Integration,2021-09-09T17:42:32Z,2021-09-22T11:14:56Z,3,7073,1,1,0,2,2
+sindresorhus/awesome,2055,Add Arduino,2021-09-09T18:44:13Z,2022-02-27T08:38:19Z,3,6762,1,1,0,7,5
+sindresorhus/awesome,2059,Add Effector,2021-09-21T12:05:37Z,2021-11-24T10:35:19Z,2,6755,1,1,0,9,4
+sindresorhus/awesome,2067,Add Slim,2021-10-06T21:05:23Z,2022-02-27T08:48:06Z,1,6919,1,1,0,8,4
+sindresorhus/awesome,2076,Add Gatling,2021-10-14T19:40:25Z,2022-01-23T11:19:55Z,2,6784,1,1,0,6,5
+sindresorhus/awesome,2079,Add Low Code,2021-10-18T14:59:43Z,2022-01-24T07:52:42Z,4,8084,1,1,0,19,8
+sindresorhus/awesome,2084,Add Directus,2021-10-20T16:37:51Z,2022-06-02T11:29:49Z,3,6976,1,1,0,12,8
+sindresorhus/awesome,2099,Add AGI & CoCoSci,2021-11-17T13:23:10Z,2022-07-20T13:11:50Z,1,8102,1,1,0,19,4
+sindresorhus/awesome,2111,Add Node-RED,2021-11-30T06:23:07Z,2022-01-17T18:18:23Z,1,6992,1,1,0,9,7
+sindresorhus/awesome,2133,Add Open Source Games,2021-12-26T03:21:27Z,2022-02-05T21:59:30Z,1,6812,1,1,1,16,8
+sindresorhus/awesome,2136,Add Esports,2021-12-29T16:51:20Z,2022-01-23T14:22:44Z,2,13875,1,1,0,5,3
+sindresorhus/awesome,2151,Add Executable Packing,2022-01-13T22:03:44Z,2022-02-13T11:12:27Z,1,6852,1,1,0,13,4
+sindresorhus/awesome,2153,Add Zig,2022-01-14T22:14:21Z,2022-06-02T11:33:32Z,1,6764,1,1,0,9,5
+sindresorhus/awesome,2155,Add Digital Humanities,2022-01-19T09:51:19Z,2022-09-23T12:08:35Z,1,6862,0,0,0,16,6
+sindresorhus/awesome,2165,Add Algorand,2022-01-24T22:26:30Z,2022-02-13T11:37:09Z,1,7155,1,1,0,13,4
+sindresorhus/awesome,2169,Add Clubhouse,2022-01-31T07:46:31Z,2022-11-19T20:02:49Z,9,6738,1,1,0,19,11
+sindresorhus/awesome,2170,Add ExtJS,2022-02-02T09:06:30Z,2022-06-02T14:10:01Z,5,6967,1,1,0,7,7
+sindresorhus/awesome,2171,Add Open Source Games,2022-02-05T21:57:51Z,2022-09-27T08:50:45Z,2,6824,1,1,1,14,5
+sindresorhus/awesome,2181,Update info about `lit`,2022-02-14T11:36:35Z,2022-02-14T15:45:30Z,1,6895,1,1,1,0,3
+sindresorhus/awesome,2184,Add Malware Persistence,2022-02-15T09:01:26Z,2022-06-05T10:04:53Z,3,7852,1,1,0,6,3
+sindresorhus/awesome,2186,add photonics ,2022-02-16T02:00:10Z,2022-02-17T06:44:58Z,1,4648,1,1,0,6,4
+sindresorhus/awesome,2188,Remove list `RubyMotion`,2022-02-17T04:04:19Z,2022-02-17T05:07:08Z,2,6717,1,0,1,1,3
+sindresorhus/awesome,2189,Add Photonics,2022-02-17T06:45:22Z,2022-06-05T10:10:08Z,1,6858,1,1,0,7,5
+sindresorhus/awesome,2193,Add Development Containers (#2190),2022-02-23T15:12:52Z,2022-06-05T10:11:38Z,3,6981,1,4,0,4,5
+sindresorhus/awesome,2202,Add SNMP,2022-03-07T08:21:29Z,2022-06-13T07:38:13Z,3,6734,1,1,0,13,5
+sindresorhus/awesome,2214,Add MCPi,2022-03-18T10:44:01Z,2022-03-18T13:32:53Z,1,6718,1,1,0,2,3
+sindresorhus/awesome,2215,Add OpenStreetMap,2022-03-18T13:47:12Z,2022-06-05T10:51:34Z,2,7181,1,1,0,11,7
+sindresorhus/awesome,2217,Add Fiber,2022-03-26T11:05:42Z,2022-06-05T10:55:45Z,3,6901,1,1,0,7,7
+sindresorhus/awesome,2223,Update link to Ansible,2022-03-31T21:12:43Z,2022-04-01T06:34:14Z,2,7120,1,1,1,1,4
+sindresorhus/awesome,2257,Add Computational Biology,2022-05-09T22:30:01Z,2022-06-05T11:07:31Z,2,7282,1,1,0,7,6
+sindresorhus/awesome,2258,add smart contract security,2022-05-10T07:53:36Z,2022-06-05T11:10:56Z,1,85,1,2,0,4,5
+sindresorhus/awesome,2265,Add Apple Security,2022-05-17T16:15:36Z,2023-02-06T17:20:25Z,3,7191,1,1,0,7,4
+sindresorhus/awesome,2266,Add Open Hardware,2022-05-20T08:02:11Z,2022-06-05T11:14:54Z,5,7002,1,1,0,6,5
+sindresorhus/awesome,2267,Add Plone,2022-05-20T14:42:52Z,2022-06-05T11:24:06Z,1,6957,1,1,0,5,4
+sindresorhus/awesome,2268,Add Cyber Security University,2022-05-22T04:03:34Z,2022-06-09T14:29:02Z,4,6895,1,1,0,7,3
+sindresorhus/awesome,2270,Add Laravel Awesome,2022-05-26T17:45:46Z,2022-09-21T12:37:02Z,2,6765,1,1,0,3,6
+sindresorhus/awesome,2274,Add iOS Security,2022-05-30T23:26:36Z,2023-02-06T17:31:28Z,1,6798,1,1,0,7,6
+sindresorhus/awesome,2275,Add Computational Geometry,2022-06-01T05:36:38Z,2022-11-19T20:10:08Z,2,7193,1,1,0,7,6
+sindresorhus/awesome,2278,Add ZkEVM,2022-06-07T09:23:39Z,2022-11-19T20:13:01Z,2,6945,1,1,0,8,7
+sindresorhus/awesome,2285,Add Scapy,2022-06-19T17:27:11Z,2022-11-19T20:16:15Z,1,6949,1,1,0,11,7
+sindresorhus/awesome,2287,Add Memgraph,2022-06-20T10:08:24Z,2023-06-20T13:04:27Z,6,6920,1,1,0,18,6
+sindresorhus/awesome,2288,feat: add Developer Experience list,2022-06-21T18:38:42Z,2023-02-11T07:03:16Z,3,7539,1,1,0,11,6
+sindresorhus/awesome,2290,add Awesome.Tools,2022-06-22T12:53:54Z,2023-02-06T17:31:50Z,2,6760,1,1,0,2,4
+sindresorhus/awesome,2292,Add Snapcraft,2022-06-23T08:26:37Z,2022-06-23T23:40:08Z,2,6799,1,1,0,1,5
+sindresorhus/awesome,2302,Add Move,2022-06-28T17:25:17Z,2022-11-19T20:45:58Z,2,7281,1,1,0,6,6
+sindresorhus/awesome,2314,Add Quantitative Finance,2022-07-06T00:09:14Z,2023-02-06T17:32:11Z,2,7124,1,2,0,9,6
+sindresorhus/awesome,2316,Add Cosmos SDK,2022-07-07T09:20:39Z,2023-06-20T13:05:28Z,5,7018,1,1,0,14,9
+sindresorhus/awesome,2320,Add AGI & CoCoSci,2022-07-09T15:11:19Z,2022-07-23T10:37:54Z,1,14870,1,1,0,10,4
+sindresorhus/awesome,2325,Add Engineering Strategy,2022-07-15T12:07:06Z,2022-12-16T23:29:47Z,9,7012,1,1,0,22,6
+sindresorhus/awesome,2327,Add ZeroNet,2022-07-17T16:42:42Z,2023-02-12T06:39:27Z,3,6952,1,1,0,19,8
+sindresorhus/awesome,2330,put links in the correct category,2022-07-19T16:09:26Z,2022-07-20T11:13:25Z,1,0,1,2,2,0,3
+sindresorhus/awesome,2331,Add CSS Resources,2022-07-20T15:52:40Z,2022-11-20T12:58:46Z,3,290,1,1,0,10,5
+sindresorhus/awesome,2335,Add GraphQL Security,2022-07-25T08:48:27Z,2022-07-31T13:56:55Z,1,6964,1,1,0,8,4
+sindresorhus/awesome,2363,Add Remix,2022-08-25T04:24:18Z,2022-08-25T13:12:36Z,1,6777,1,1,0,2,2
+sindresorhus/awesome,2370,Add Bigtable,2022-09-07T14:29:06Z,2023-04-23T08:15:57Z,3,331,1,1,0,8,5
+sindresorhus/awesome,2373,Add Processing,2022-09-13T12:51:38Z,2022-09-20T21:37:40Z,4,6965,0,0,0,0,3
+sindresorhus/awesome,2382,Add Master CSS,2022-09-16T04:53:49Z,2022-12-07T13:45:05Z,2,6917,1,1,0,12,6
+sindresorhus/awesome,2383,Add GitHub Wiki,2022-09-16T17:05:09Z,2023-04-23T19:46:20Z,6,6901,1,1,0,16,7
+sindresorhus/awesome,2386,Add Password Cracking,2022-09-20T12:33:26Z,2022-12-26T12:24:46Z,9,6869,1,1,0,12,9
+sindresorhus/awesome,2389,Add Complexity,2022-09-21T14:37:01Z,2023-10-17T08:34:03Z,5,6806,1,1,0,14,4
+sindresorhus/awesome,2390,Add ICP,2022-09-21T16:35:43Z,2023-02-09T18:12:21Z,3,675,1,1,0,8,7
+sindresorhus/awesome,2391,Add Slack apps for developers,2022-09-22T08:48:02Z,2023-10-14T18:49:38Z,10,7152,1,1,0,14,8
+sindresorhus/awesome,2394,Add Digital Humanities,2022-09-23T12:16:47Z,2023-02-11T06:57:35Z,4,6911,1,1,0,7,6
+sindresorhus/awesome,2397,Add Horizon UI - Trendiest admin template for React,2022-09-28T10:10:22Z,2023-02-06T17:18:46Z,1,6752,1,1,0,3,5
+sindresorhus/awesome,2400,Add flying-fpv,2022-10-02T06:07:48Z,2023-06-20T13:12:57Z,3,7526,1,1,0,11,6
+sindresorhus/awesome,2405,Add ComputerCraft,2022-10-08T22:40:24Z,2023-02-03T14:12:48Z,2,6827,1,1,0,18,4
+sindresorhus/awesome,2417,Add Awesome Ecommerce,2022-10-24T14:49:46Z,2023-03-09T16:57:11Z,2,6802,1,1,0,10,6
+sindresorhus/awesome,2418,Add BitShares,2022-10-25T16:49:01Z,2023-04-23T08:36:46Z,3,541,1,1,0,3,6
+sindresorhus/awesome,2420,Add Qwik,2022-10-27T12:47:54Z,2023-06-20T13:18:24Z,8,6857,1,1,0,5,4
+sindresorhus/awesome,2422,Add Back to top button,2022-11-01T14:38:18Z,2023-02-07T10:51:10Z,2,6844,1,26,0,2,4
+sindresorhus/awesome,2424,Add Read the Docs,2022-11-04T18:15:44Z,2023-05-08T19:32:00Z,10,8301,1,1,0,21,8
+sindresorhus/awesome,2426,Add Supabase,2022-11-07T14:01:47Z,2022-12-17T17:27:19Z,5,6431,1,1,0,8,7
+sindresorhus/awesome,2428,Add Digital Marketing,2022-11-09T17:02:50Z,2022-12-02T16:22:34Z,1,6960,1,1,1,3,3
+sindresorhus/awesome,2431,Add Knowledge Distillation for Object Detection,2022-11-18T19:33:11Z,2023-06-20T13:19:21Z,1,7039,1,1,0,6,5
+sindresorhus/awesome,2433,Add Hackathon,2022-11-21T15:02:07Z,2023-04-23T08:31:52Z,3,3248,1,1,0,11,6
+sindresorhus/awesome,2435,Add DeSci,2022-11-21T16:43:40Z,2023-06-20T13:19:47Z,12,7116,1,2,0,25,8
+sindresorhus/awesome,2442,Add Nim,2022-11-29T09:20:16Z,2023-06-20T13:20:17Z,2,6818,1,1,0,7,9
+sindresorhus/awesome,2445,Add Generative AI,2022-12-01T17:46:41Z,2023-02-11T17:08:46Z,3,7396,1,1,0,10,5
+sindresorhus/awesome,2448,Add GameMaker,2022-12-10T21:08:34Z,2023-04-23T17:55:21Z,1,6949,1,1,0,12,5
+sindresorhus/awesome,2449,Add Awesome ChatGPT Prompts,2022-12-11T15:17:49Z,2023-06-20T13:20:40Z,5,7221,1,1,0,8,9
+sindresorhus/awesome,2453,Add STEAM,2022-12-14T00:12:31Z,2023-06-20T23:06:40Z,4,6956,1,1,0,11,6
+sindresorhus/awesome,2454,Add Suricata,2022-12-14T23:08:07Z,2023-06-21T10:01:47Z,3,7395,1,1,0,11,4
+sindresorhus/awesome,2463,Add Certificates,2022-12-27T13:24:02Z,2023-04-23T18:36:05Z,6,7172,1,1,0,11,6
+sindresorhus/awesome,2465,Add awesome carbon repo,2022-12-27T18:02:32Z,2022-12-28T09:30:17Z,1,135,1,1,0,3,3
+sindresorhus/awesome,2470,Add DevOps,2023-01-03T14:56:33Z,2023-04-23T18:01:34Z,4,6847,1,1,0,9,10
+sindresorhus/awesome,2477,Add awesome-qubes-os ,2023-01-06T07:10:48Z,2023-04-23T17:48:53Z,1,7477,1,1,0,13,4
+sindresorhus/awesome,2482,Add Game Engine Development,2023-01-10T03:14:56Z,2023-06-22T11:10:11Z,7,6895,1,1,0,12,11
+sindresorhus/awesome,2498,Add Security Card Games,2023-01-24T19:01:27Z,2023-06-21T10:16:28Z,5,7188,1,1,0,11,7
+sindresorhus/awesome,2501,Add Locust,2023-01-25T21:39:40Z,2023-02-14T15:06:07Z,1,6819,1,1,0,5,4
+sindresorhus/awesome,2502,Add Monolith Architecture,2023-01-26T14:41:08Z,2023-05-01T21:36:12Z,3,149,0,0,0,11,8
+sindresorhus/awesome,2503,Add Friday Night Funkin' Resources,2023-01-29T15:06:52Z,2023-06-30T13:17:29Z,6,6776,1,1,0,18,7
+sindresorhus/awesome,2506,Add Babylon.js,2023-01-31T18:48:11Z,2023-10-14T18:50:18Z,2,6959,1,1,0,23,5
+sindresorhus/awesome,2509,Add Game Production,2023-02-02T21:05:07Z,2023-06-21T10:32:17Z,1,7059,1,1,0,8,5
+sindresorhus/awesome,2512,Add AI Collection,2023-02-05T14:54:06Z,2023-09-24T17:56:06Z,5,7250,1,1,0,16,6
+sindresorhus/awesome,2513,Add Minestom,2023-02-05T18:51:57Z,2023-09-24T17:56:49Z,1,7035,1,1,0,11,4
+sindresorhus/awesome,2524,Add Processing,2023-02-13T13:12:17Z,2023-09-13T14:04:01Z,3,7098,1,1,0,12,6
+sindresorhus/awesome,2525,Add Internet Computer,2023-02-13T18:54:44Z,2023-03-07T17:15:08Z,2,7270,1,1,0,5,3
+sindresorhus/awesome,2539,Added Awesome Books Summaries,2023-03-07T21:50:59Z,2023-06-21T10:46:51Z,3,6901,1,1,0,4,7
+sindresorhus/awesome,2541,Add Ukrainian IT Communities,2023-03-08T17:10:35Z,2024-10-28T18:33:31Z,3,7083,1,1,0,13,6
+sindresorhus/awesome,2546,Remove dead link,2023-03-10T15:40:41Z,2023-03-10T19:28:07Z,1,62,1,0,1,0,3
+sindresorhus/awesome,2550,Add Quarto,2023-03-11T19:46:42Z,2023-04-24T19:43:58Z,3,7049,1,1,0,15,6
+sindresorhus/awesome,2560,Add GitHub Organizations,2023-03-23T18:24:05Z,2024-02-13T21:22:48Z,11,6954,1,1,0,16,9
+sindresorhus/awesome,2565,Add Computational Intelligence in Sports,2023-03-30T13:10:00Z,2024-02-13T21:23:48Z,4,7610,1,1,0,12,5
+sindresorhus/awesome,2569,Add Control Theory,2023-04-02T09:48:19Z,2023-10-14T15:30:37Z,3,6975,1,1,0,8,7
+sindresorhus/awesome,2571,Add Tiny JS,2023-04-02T13:01:27Z,2023-05-19T10:35:17Z,7,5933,1,1,0,7,7
+sindresorhus/awesome,2585,Add Kustomize,2023-04-10T08:13:23Z,2024-02-13T21:32:40Z,7,6593,1,1,0,16,8
+sindresorhus/awesome,2589,Add Cloud Robotics,2023-04-12T16:00:34Z,2024-05-26T15:05:38Z,4,6696,1,1,0,8,9
+sindresorhus/awesome,2593,Add Game AI DevTools,2023-04-17T03:53:12Z,2023-05-06T03:25:55Z,4,7075,1,1,0,6,7
+sindresorhus/awesome,2601,Add Pest,2023-04-25T06:08:34Z,2023-10-14T15:35:29Z,2,7247,1,1,0,5,3
+sindresorhus/awesome,2612,Add Game AI DevTools,2023-05-06T03:41:30Z,2023-05-21T03:16:22Z,2,7075,1,1,0,4,7
+sindresorhus/awesome,2615,Add Mojo,2023-05-09T19:14:41Z,2023-06-23T14:09:18Z,2,0,1,1,0,3,4
+sindresorhus/awesome,2620,Add Biological Image Analysis,2023-05-11T18:02:46Z,2023-10-14T16:20:57Z,1,7362,1,1,0,5,4
+sindresorhus/awesome,2622,Add Uno Platform,2023-05-13T12:43:06Z,2024-02-13T21:51:16Z,1,6921,1,1,0,12,6
+sindresorhus/awesome,2638,Add Maps Data,2023-05-23T17:15:31Z,2024-05-27T22:56:17Z,9,7116,1,1,0,16,10
+sindresorhus/awesome,2640,Add High Performance Computing,2023-05-25T14:29:31Z,2023-10-14T15:58:54Z,1,6996,1,1,0,11,6
+sindresorhus/awesome,2642,Add Apache Kafka,2023-05-26T14:16:44Z,2023-07-18T12:09:04Z,1,7039,1,1,1,14,5
+sindresorhus/awesome,2647,Add E-Ink,2023-05-28T18:33:53Z,2024-02-14T07:46:21Z,2,7246,1,1,0,13,12
+sindresorhus/awesome,2655,Add TON (The Open Network),2023-05-30T17:59:48Z,2023-06-21T10:45:09Z,2,7866,1,1,0,4,3
+sindresorhus/awesome,2658,Add Feature Flag Management,2023-06-02T22:50:59Z,2024-02-14T07:47:03Z,1,7524,1,1,0,5,5
+sindresorhus/awesome,2690,Add Bluetooth Low Energy,2023-06-22T11:27:17Z,2024-02-14T07:53:55Z,1,7097,1,1,0,10,5
+sindresorhus/awesome,2692,add official docker awesome-compose,2023-06-23T08:02:35Z,2023-12-25T17:59:48Z,5,6950,0,0,0,6,10
+sindresorhus/awesome,2695,Add Neuromorphic,2023-06-23T22:54:41Z,2023-07-12T17:29:06Z,1,7637,1,1,4,13,6
+sindresorhus/awesome,2714,Create Morena,2023-07-07T10:40:56Z,2023-07-07T18:33:59Z,1,8960,1,30,0,0,3
+sindresorhus/awesome,2715,Add Neuromorphic,2023-07-12T17:44:27Z,2023-11-07T18:02:22Z,1,7637,1,1,0,6,5
+sindresorhus/awesome,2734,Add Prompt Injection,2023-07-30T23:28:41Z,2023-10-14T18:57:02Z,2,7153,1,1,0,5,5
+sindresorhus/awesome,2736,Add Stock Trading,2023-08-02T09:15:47Z,2024-02-14T08:09:43Z,3,3444,1,1,0,8,6
+sindresorhus/awesome,2743,Add Steam Deck,2023-08-10T11:30:11Z,2023-09-24T17:54:29Z,2,6994,1,1,0,8,7
+sindresorhus/awesome,2753,Add Microsoft Sentinel,2023-08-18T17:15:37Z,2024-02-14T08:12:46Z,4,3587,1,1,0,9,7
+sindresorhus/awesome,2763,Add Generative AI Companies,2023-08-30T11:47:18Z,2024-01-19T11:25:46Z,1,7506,1,1,0,11,8
+sindresorhus/awesome,2780,Add Processing langage ,2023-09-13T14:06:05Z,2023-10-14T21:46:41Z,1,7098,0,0,0,16,4
+sindresorhus/awesome,2794,Install meshmap workflow,2023-09-30T12:51:34Z,2023-09-30T14:25:51Z,1,6963,1,34,0,2,3
+sindresorhus/awesome,2804,Add parenting,2023-10-06T10:53:29Z,2024-02-14T08:14:29Z,1,7043,1,1,0,5,6
+sindresorhus/awesome,2810,Add Spring Boot,2023-10-09T20:11:13Z,2024-02-14T08:14:53Z,2,6963,1,1,0,6,8
+sindresorhus/awesome,2813,Add RTL,2023-10-12T18:07:54Z,2024-02-14T08:17:41Z,1,7419,1,1,0,4,3
+sindresorhus/awesome,2829,Add Detection Engineering,2023-10-24T23:57:19Z,2024-05-25T15:55:45Z,3,6825,1,1,0,7,3
+sindresorhus/awesome,2834,Update contributing.md,2023-10-26T10:21:37Z,2023-10-26T11:42:33Z,1,1368,1,1,1,1,4
+sindresorhus/awesome,2837,Add AI Collection,2023-10-27T08:47:25Z,2024-02-14T08:37:31Z,2,7498,1,1,0,9,8
+sindresorhus/awesome,2846,Link to maintained successor for PHP,2023-11-04T02:57:48Z,2024-01-04T13:05:33Z,2,85,1,1,1,7,6
+sindresorhus/awesome,2850,Add Annual Security Reports,2023-11-07T16:48:23Z,2024-11-22T09:22:46Z,12,7263,1,1,0,21,7
+sindresorhus/awesome,2867,Add Telegram Mini Apps,2023-11-21T12:44:37Z,2024-10-22T17:47:56Z,2,7214,1,1,0,10,9
+sindresorhus/awesome,2878,Update readme.md - Add LLM WebUIs,2023-11-27T08:20:33Z,2024-02-14T09:21:35Z,1,7251,1,1,0,2,4
+sindresorhus/awesome,2888,Add QGis,2023-12-03T17:11:42Z,2024-02-14T09:22:14Z,2,7262,1,1,0,4,5
+sindresorhus/awesome,2893,Add Locust,2023-12-05T22:41:31Z,2024-10-22T17:48:27Z,3,7331,1,1,0,3,5
+sindresorhus/awesome,2895,Add PocketBase,2023-12-06T05:56:56Z,2024-05-25T16:02:45Z,3,7471,1,1,0,18,10
+sindresorhus/awesome,2919,Add Generative AI Meets Julia,2023-12-30T10:14:22Z,2024-10-22T17:48:57Z,4,7111,1,2,0,15,3
+sindresorhus/awesome,2924,Add STEM Academy,2024-01-02T04:11:17Z,2024-01-10T01:35:59Z,2,7301,1,1,0,4,4
+sindresorhus/awesome,2958, Add Technical Topics,2024-01-30T14:06:31Z,2024-05-26T15:04:18Z,1,551,1,1,0,4,4
+sindresorhus/awesome,2960,Add Babylon.js,2024-02-01T17:50:31Z,2024-10-29T11:09:51Z,2,7280,1,1,0,10,7
+sindresorhus/awesome,2970,Adding Awesome Farcaster Frames,2024-02-13T16:43:10Z,2024-02-19T22:31:56Z,1,7147,1,1,0,1,3
+sindresorhus/awesome,2996,Add VLM Architectures,2024-03-18T15:28:15Z,2024-10-28T18:19:49Z,1,7404,1,1,0,12,8
+sindresorhus/awesome,2999,Add LiDAR Place Recognition,2024-03-19T11:57:39Z,2024-04-09T05:01:39Z,1,7234,2,6,3,6,4
+sindresorhus/awesome,3003,Add Google Cloud,2024-03-25T12:30:22Z,2024-06-04T12:45:58Z,2,6747,1,1,0,11,5
+sindresorhus/awesome,3027,Update link Awesome-C,2024-04-25T23:20:56Z,2024-04-27T11:00:40Z,1,59,1,1,1,2,3
