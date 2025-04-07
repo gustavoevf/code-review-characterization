@@ -2,6 +2,8 @@ import requests
 import pandas as pd
 import time
 import os
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Defina seu token do GitHub
 TOKEN = "TOKEN"
@@ -69,7 +71,12 @@ def get_repositories():
     print(f"Coleta de repositórios concluída! Total coletado: {len(repos)}")
     return repos
 
-# Função para coletar PRs de um repositório
+# Configure retry mechanism
+session = requests.Session()
+retry = Retry(total=5, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+session.mount("https://", HTTPAdapter(max_retries=retry))
+
+# Função para coletar PRs de um repositório com retry
 def get_pull_requests(owner, name):
     print(f"Iniciando busca por PRs no repositório: {owner}/{name}...")
     query = """
@@ -88,20 +95,12 @@ def get_pull_requests(owner, name):
               mergedAt
               closedAt
               bodyText
-              reviews {
-                totalCount
-              }
-              files {
-                totalCount
-              }
+              reviews { totalCount }
+              files { totalCount }
               additions
               deletions
-              comments {
-                totalCount
-              }
-              participants {
-                totalCount
-              }
+              comments { totalCount }
+              participants { totalCount }
             }
           }
         }
@@ -112,9 +111,11 @@ def get_pull_requests(owner, name):
     prs = []
 
     while True:
-        response = requests.post(GRAPHQL_URL, headers=HEADERS, json={"query": query, "variables": {"owner": owner, "name": name, "cursor": cursor}})
-        if response.status_code != 200:
-            print(f"Erro na requisição: {response.status_code}, {response.text}")
+        try:
+            response = session.post(GRAPHQL_URL, headers=HEADERS, json={"query": query, "variables": {"owner": owner, "name": name, "cursor": cursor}}, timeout=10)
+            response.raise_for_status()  # Raise exception for HTTP errors
+        except requests.exceptions.RequestException as e:
+            print(f"Erro na requisição: {e}")
             break
 
         data = response.json()
@@ -146,12 +147,12 @@ def get_pull_requests(owner, name):
         if not pr_data["pageInfo"]["hasNextPage"]:
             break
 
-        print("Pausando por 2 segundos para evitar limites da API...")
-        time.sleep(2)
+        print("Pausando por 3 segundos para evitar limites da API...")
+        time.sleep(3)
 
     print(f"Coleta de PRs concluída para {owner}/{name}! Total coletado: {len(prs)}")
     save_to_csv(prs, PR_CSV_FILE)
-    return len(prs) > 0  # Retorna True se encontrou PRs
+    return len(prs) > 0
 
 # Função para salvar dados no CSV progressivamente
 def save_to_csv(data, file_name):
