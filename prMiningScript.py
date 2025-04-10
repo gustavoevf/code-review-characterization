@@ -46,7 +46,11 @@ def get_repositories():
     while True:
         response = requests.post(GRAPHQL_URL, headers=HEADERS, json={"query": query, "variables": {"cursor": cursor}})
         if response.status_code != 200:
-            print(f"Erro na requisição: {response.status_code}, {response.text}")
+            print(f"Erro na requisição. Código: {response.status_code}")
+            print("Cabeçalho da resposta:")
+            print(response.headers)
+            print("Corpo da resposta:")
+            print(response.text)
             break
 
         data = response.json()
@@ -114,8 +118,14 @@ def get_pull_requests(owner, name):
         try:
             response = session.post(GRAPHQL_URL, headers=HEADERS, json={"query": query, "variables": {"owner": owner, "name": name, "cursor": cursor}}, timeout=10)
             response.raise_for_status()  # Raise exception for HTTP errors
-        except requests.exceptions.RequestException as e:
-            print(f"Erro na requisição: {e}")
+        except requests.exceptions.RequestException:
+            print(f"Erro na requisição. Código: {response.status_code}")
+            print("Cabeçalho da resposta:")
+            print(response.headers)
+            print("Corpo da resposta:")
+            print(response.text)
+            break
+
             break
 
         data = response.json()
