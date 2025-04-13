@@ -53,6 +53,7 @@ def get_repositories():
             print(response.text)
             break
 
+
         data = response.json()
         search_data = data["data"]["search"]
 
@@ -80,13 +81,12 @@ session = requests.Session()
 retry = Retry(total=5, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
 session.mount("https://", HTTPAdapter(max_retries=retry))
 
-# Função para coletar PRs de um repositório com retry
 def get_pull_requests(owner, name):
     print(f"Iniciando busca por PRs no repositório: {owner}/{name}...")
     query = """
     query ($owner: String!, $name: String!, $cursor: String) {
       repository(owner: $owner, name: $name) {
-        pullRequests(first: 50, states: [MERGED, CLOSED], after: $cursor) {
+        pullRequests(first: 40, states: [MERGED, CLOSED], after: $cursor) {
           pageInfo {
             endCursor
             hasNextPage
@@ -105,6 +105,7 @@ def get_pull_requests(owner, name):
               deletions
               comments { totalCount }
               participants { totalCount }
+              state
             }
           }
         }
@@ -126,8 +127,6 @@ def get_pull_requests(owner, name):
             print(response.text)
             break
 
-            break
-
         data = response.json()
         pr_data = data["data"]["repository"]["pullRequests"]
 
@@ -144,6 +143,7 @@ def get_pull_requests(owner, name):
                         "title": pr_node["title"],
                         "created_at": created_at,
                         "closed_at": closed_at,
+                        "state": pr_node["state"],
                         "review_count": pr_node["reviews"]["totalCount"],
                         "description_length": len(pr_node["bodyText"]),
                         "file_count": pr_node["files"]["totalCount"],
