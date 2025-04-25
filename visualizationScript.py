@@ -1,63 +1,74 @@
-import os
 import pandas as pd
-import seaborn as sns
+import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 from scipy import stats
 import warnings
+
 warnings.filterwarnings('ignore')
 
-# Read the dataset
+# Carregar os dados
 df = pd.read_csv('github_pr_dataset.csv')
 
-# Calculate PR size (total changes)
-df['pr_size'] = df['additions'] + df['deletions']
-
-# Calculate analysis time in hours
+# Pré-processamento
 df['created_at'] = pd.to_datetime(df['created_at'])
 df['closed_at'] = pd.to_datetime(df['closed_at'])
-df['analysis_time_hours'] = (df['closed_at'] - df['created_at']).dt.total_seconds() / 3600
+df['analysis_time'] = (df['closed_at'] - df['created_at']).dt.total_seconds() / 3600  # em horas
+df['description_length'] = df['description_length'].fillna(0)
 
-print("Dataset loaded with", len(df), "pull requests")
-print("Summary statistics:")
-print(df[['pr_size', 'analysis_time_hours', 'description_length', 'review_count', 
-         'comments_count', 'participants_count']].describe())
+# Filtrar PRs com tempo de análise positivo
+df = df[df['analysis_time'] > 0]
 
-# Create derived metric for feedback final (assumed as comments_count + participants_count)
-df['feedback_metric'] = df['comments_count'] + df['participants_count']
+# Definir métricas
+metrics = {
+    'size': ['file_count', 'additions', 'deletions'],
+    'time': ['analysis_time'],
+    'description': ['description_length'],
+    'interactions': ['participants_count', 'comments_count']
+}
 
-# Define independent variables for analysis
-independent_vars = {'Tamanho dos PRs': 'pr_size',
-                    'Tempo de análise (horas)': 'analysis_time_hours',
-                    'Descrição dos PRs': 'description_length',
-                    'Interações nos PRs': 'feedback_metric'}
+# Funções auxiliares
+def calculate_median_by_status(df, metric_columns):
+    return df.groupby('pr_state')[metric_columns].median()
 
-# Create 'visualization' directory if it doesn't exist
-os.makedirs('visualization', exist_ok=True)
-
-# First set of questions: relationship with feedback final
-for title, col in independent_vars.items():
-    plt.figure(figsize=(8, 6))
-    sns.regplot(x=df[col], y=df['feedback_metric'], scatter_kws={'alpha': 0.5})
-    # Calculate Spearman correlation
-    corr, pval = stats.spearmanr(df[col], df['feedback_metric'])
-    plt.title(title + ' vs Feedback Final\nSpearman r = ' + str(round(corr, 2)) + ', p = ' + str(round(pval, 4)))
-    plt.xlabel(title)
-    plt.ylabel('Feedback Final (comments + participants)')
-    plt.tight_layout()
-    plt.savefig(f'visualization/feedback_final_{col}.png')  # Save the plot as an image in 'visualization'
+def plot_correlation(x, y, xlabel, ylabel, title, filename):
+    plt.figure(figsize=(10, 6))
+    sns.regplot(x=x, y=y, scatter_kws={'alpha':0.3})
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.title(title)
+    plt.savefig(filename)  # Salvar figura como arquivo de imagem
     plt.close()
 
-# Second set of questions: relationship with number of revisions (review_count)
-for title, col in independent_vars.items():
-    plt.figure(figsize=(8, 6))
-    sns.regplot(x=df[col], y=df['review_count'], scatter_kws={'alpha': 0.5}, color='orange')
-    # Calculate Spearman correlation
-    corr, pval = stats.spearmanr(df[col], df['review_count'])
-    plt.title(title + ' vs Nº de Revisões\nSpearman r = ' + str(round(corr, 2)) + ', p = ' + str(round(pval, 4)))
-    plt.xlabel(title)
-    plt.ylabel('Número de Revisões')
-    plt.tight_layout()
-    plt.savefig(f'visualization/revision_count_{col}.png')  # Save the plot as an image in 'visualization'
-    plt.close()
+# Análise por RQ
+def analyze_rqs(df):
+    results = {}
+    
+    # RQ05: Tamanho vs Número de revisões
+    for metric in metrics['size']:
+        corr, pval = stats.spearmanr(df[metric], df['review_count'])
+        filename = f'RQ05_{metric}_vs_Numero_de_revisoes.png'
+        plot_correlation(df[metric], df['review_count'], f'Tamanho ({metric})', 'Número de revisões', f'RQ05: {metric} vs Número de revisões', filename)
+    
+    # RQ06: Tempo vs Número de revisões
+    for metric in metrics['time']:
+        corr, pval = stats.spearmanr(df[metric], df['review_count'])
+        filename = f'RQ06_{metric}_vs_Numero_de_revisoes.png'
+        plot_correlation(df[metric], df['review_count'], f'Tempo ({metric})', 'Número de revisões', f'RQ06: {metric} vs Número de revisões', filename)
+    
+    # RQ07: Descrição vs Número de revisões
+    for metric in metrics['description']:
+        corr, pval = stats.spearmanr(df[metric], df['review_count'])
+        filename = f'RQ07_{metric}_vs_Numero_de_revisoes.png'
+        plot_correlation(df[metric], df['review_count'], f'Descrição ({metric})', 'Número de revisões', f'RQ07: {metric} vs Número de revisões', filename)
+    
+    # RQ08: Interações vs Número de revisões
+    for metric in metrics['interactions']:
+        corr, pval = stats.spearmanr(df[metric], df['review_count'])
+        filename = f'RQ08_{metric}_vs_Numero_de_revisoes.png'
+        plot_correlation(df[metric], df['review_count'], f'Interações ({metric})', 'Número de revisões', f'RQ08: {metric} vs Número de revisões', filename)
+    
+    return results
 
-print('Visualizações geradas e salvas na subpasta "visualization".')
+# Executar análise
+results = analyze_rqs(df)
